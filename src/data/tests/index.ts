@@ -14,6 +14,7 @@ import sociales03 from "./sociales-03.json";
 import ciencias01 from "./ciencias-01.json";
 import ciencias02 from "./ciencias-02.json";
 import ciencias03 from "./ciencias-03.json";
+import ciencias04 from "./ciencias-04.json";
 import ingles01 from "./ingles-01.json";
 import ingles02 from "./ingles-02.json";
 import ingles03 from "./ingles-03.json";
@@ -31,6 +32,7 @@ export const TESTS: TestDef[] = [
   ciencias01,
   ciencias02,
   ciencias03,
+  ciencias04,
   ingles01,
   ingles02,
   ingles03,

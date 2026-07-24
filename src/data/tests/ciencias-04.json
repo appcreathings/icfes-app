@@ -1,0 +1,190 @@
+{
+  "id": "ciencias-04",
+  "area": "ciencias",
+  "title": "Ciencias Naturales · Test 4",
+  "source": "Cuadernillo de preguntas Ciencias Naturales, Saber 11.º, Icfes (febrero 2026)",
+  "questions": [
+    {
+      "id": "cn04-q1",
+      "image": "cn04-moleculas-agua.png",
+      "imageAlt": "Modelo de un recipiente cerrado con moléculas de agua en estado líquido, y cuatro modelos (A, B, C, D) que muestran distintas distribuciones de las moléculas en estado líquido y gaseoso tras calentar el recipiente.",
+      "stem": "A continuación, se muestra un modelo de la distribución de las moléculas de agua en estado líquido, en un recipiente cerrado. Cuando este recipiente se calienta manteniendo la presión constante, la distribución de las moléculas cambia, modificando el estado del agua. ¿Cuál de los siguientes modelos muestra correctamente la distribución de las moléculas de agua en estado líquido y gaseoso?",
+      "options": [
+        { "key": "A", "text": "Modelo A" },
+        { "key": "B", "text": "Modelo B" },
+        { "key": "C", "text": "Modelo C" },
+        { "key": "D", "text": "Modelo D" }
+      ],
+      "answer": "B",
+      "competency": "Identificar las características de algunos fenómenos de la naturaleza con base en el análisis de información y en conceptos propios del conocimiento científico.",
+      "tip": "En el estado gaseoso, las moléculas se mueven libremente y se distribuyen de forma dispersa por TODO el volumen disponible del recipiente, con grandes espacios vacíos entre ellas. Descarta cualquier modelo donde las moléculas de gas aparezcan agrupadas o asentadas solo en una parte del recipiente (eso describiría un líquido, no un gas).",
+      "explanation": "El modelo B es el único que muestra las moléculas del panel \"Gas\" dispersas de manera uniforme por todo el recipiente, con amplios espacios vacíos entre ellas, tal como se comportan realmente las partículas en estado gaseoso. Los modelos A, C y D muestran las moléculas de gas agrupadas o sedimentadas en una zona del recipiente (como si aún conservaran cohesión de líquido), lo cual no corresponde a un gas real."
+    },
+    {
+      "id": "cn04-q2",
+      "stem": "Un estudiante analiza cómo cambia la solubilidad de una sal de sodio; para esto, disuelve distintas cantidades de la sal en 20 gramos de agua destilada y registra la temperatura exacta a la cual se logra disolver completamente. Los resultados se muestran a continuación:\n\n| Masa de la sal de sodio (g) | Masa de agua destilada (g) | Temperatura a la cual se disuelve completamente (°C) |\n|---|---|---|\n| 20 | 20 | 57 |\n| 25 | 20 | 65 |\n| 30 | 20 | 73 |\n| 35 | 20 | 83 |\n\nTeniendo en cuenta lo observado con 20 gramos de agua destilada, el estudiante cree que si a 83 °C se agregan 50 gramos de la sal de sodio en 40 gramos de agua destilada, no se solubilizará completamente esta cantidad de sal. ¿La suposición del estudiante es correcta?",
+      "options": [
+        { "key": "A", "text": "Sí, porque para disolver esta cantidad de la sal de sodio en 40 gramos de agua también se necesitaría el doble de temperatura, es decir, 166 °C." },
+        { "key": "B", "text": "No, porque al tener el doble de agua, es más probable que la sal de sodio solo necesite la mitad de la temperatura para disolverse, es decir, 42 °C." },
+        { "key": "C", "text": "No, porque a partir de 65 °C se pueden disolver completamente 50 g de la sal de sodio en 40 gramos de agua, por lo que a 83 °C la sal estará completamente disuelta." },
+        { "key": "D", "text": "Sí, porque con masas mayores a 35 gramos de la sal de sodio, se necesitarían temperaturas mayores que 83 °C para disolverla en esa cantidad de agua." }
+      ],
+      "answer": "C",
+      "competency": "Explicar cómo ocurren algunos fenómenos de la naturaleza con base en observaciones, patrones y conceptos propios del conocimiento científico.",
+      "tip": "Si se duplica la cantidad de agua (de 20 g a 40 g), la cantidad de sal que se puede disolver a cada temperatura también se duplica aproximadamente. Con 20 g de agua, a 65°C se disuelven 25 g de sal; duplicando el agua a 40 g, a esa misma temperatura (65°C) se podrían disolver unos 50 g de sal. Como la pregunta habla de una temperatura MAYOR (83°C), ¿la sal se disolverá con más o menos facilidad que a 65°C?",
+      "explanation": "Al tener el doble de agua (40 g en lugar de 20 g), la cantidad de sal que se disuelve a cada temperatura también se duplica aproximadamente: a 65°C, si con 20 g de agua se disuelven 25 g de sal, con 40 g de agua se disolverían unos 50 g. Como la solubilidad aumenta con la temperatura, a 83°C (una temperatura aún mayor) los 50 g de sal se disolverán sin problema en 40 g de agua. Por eso la suposición del estudiante es incorrecta: la sal sí se disolverá completamente."
+    },
+    {
+      "id": "cn04-q3",
+      "image": "cn04-bus-lluvia-vectores.png",
+      "imageAlt": "Un bus se mueve hacia la derecha mientras llueve verticalmente, visto por las personas fuera del bus. Cuatro diagramas de vectores (A, B, C, D) muestran distintas combinaciones de la velocidad del bus y la velocidad de la lluvia vista desde fuera, cada uno con un vector resultante diagonal.",
+      "stem": "Un bus se mueve con una velocidad constante en la dirección que se indica en la figura (hacia la derecha). Mientras tanto, llueve y las gotas de lluvia caen a velocidad constante. Si las personas fuera del bus ven que la lluvia cae de manera vertical, ¿cuál de los siguientes diagramas de vectores representa mejor la velocidad de las gotas de lluvia para las personas que viajan en el bus?",
+      "options": [
+        { "key": "A", "text": "Diagrama A" },
+        { "key": "B", "text": "Diagrama B" },
+        { "key": "C", "text": "Diagrama C" },
+        { "key": "D", "text": "Diagrama D" }
+      ],
+      "answer": "B",
+      "competency": "Modelar fenómenos de la naturaleza con base en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas.",
+      "tip": "La velocidad de la lluvia vista desde el bus es la resta vectorial: velocidad de la lluvia (hacia abajo) menos la velocidad del bus (hacia la derecha). Eso da como resultado un vector que apunta hacia abajo Y hacia atrás (en dirección OPUESTA a la que se mueve el bus), como cuando corres bajo la lluvia y sientes que te golpea de frente. Busca el diagrama donde el eje \"velocidad del bus\" apunte hacia la derecha (como el bus real) y el vector resultante apunte hacia abajo y hacia la IZQUIERDA.",
+      "explanation": "Para alguien dentro del bus, la velocidad relativa de la lluvia es la velocidad de la lluvia (hacia abajo) menos la velocidad del bus (hacia la derecha), lo que da un vector resultante que apunta hacia abajo y hacia la izquierda (en sentido contrario al movimiento del bus). El diagrama B es el único que muestra el eje \"velocidad del bus\" apuntando correctamente hacia la derecha (como el movimiento real del bus) y, al mismo tiempo, el vector resultante apuntando hacia abajo y hacia la izquierda. Los diagramas C y D muestran el eje del bus apuntando en la dirección incorrecta (izquierda), y el diagrama A muestra el resultante apuntando hacia el mismo lado que el bus, lo cual es físicamente incorrecto."
+    },
+    {
+      "id": "cn04-q4",
+      "stem": "A partir de las cadenas de ARN mensajero se forman las proteínas. En este proceso, por cada tres nucleótidos consecutivos de ARN mensajero se codifica un aminoácido. A continuación, se muestra una secuencia de ARN mensajero:\n\nAUG GCA AGA AAC GAC CAC AUC UAG GUA UGC\n\nLos nucleótidos AUG codifican únicamente para indicar el inicio de la formación de la proteína y los nucleótidos UAG codifican únicamente para indicar su terminación. Con base en esta información, ¿cuántos aminoácidos conformarán la proteína?",
+      "options": [
+        { "key": "A", "text": "8" },
+        { "key": "B", "text": "18" },
+        { "key": "C", "text": "6" },
+        { "key": "D", "text": "10" }
+      ],
+      "answer": "C",
+      "competency": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones.",
+      "tip": "Divide la secuencia en grupos de 3 nucleótidos (codones): AUG-GCA-AGA-AAC-GAC-CAC-AUC-UAG-GUA-UGC. Localiza el codón de inicio (AUG) y el codón de parada (UAG). Solo los codones que están ENTRE esos dos (sin contarlos a ellos mismos) codifican aminoácidos de la proteína; todo lo que viene después del codón de parada ya no se traduce.",
+      "explanation": "Separando la secuencia en codones de 3 nucleótidos se obtiene: AUG (inicio) - GCA - AGA - AAC - GAC - CAC - AUC - UAG (parada) - GUA - UGC. Como AUG solo marca el inicio y UAG solo marca la terminación (ninguno de los dos codifica un aminoácido según el enunciado), los codones que sí codifican aminoácidos son los 6 que están entre ambos: GCA, AGA, AAC, GAC, CAC y AUC. Los codones GUA y UGC quedan después de la señal de parada, por lo que no se traducen y no cuentan."
+    },
+    {
+      "id": "cn04-q5",
+      "stem": "Un grupo de científicos aisló cepas de la bacteria Streptococcus pneumoniae obtenidas en pacientes enfermos de neumonía, las cultivaron con diferentes antibióticos de prueba y midieron el porcentaje de supervivencia de las cepas. La tabla muestra los resultados:\n\n| Antibiótico | Porcentaje (%) de supervivencia de las cepas |\n|---|---|\n| 1 | 97 |\n| 2 | 89 |\n| 3 | 76 |\n| 4 | 70 |\n| Ninguno | 99 |\n\nDe acuerdo con la información anterior, ¿cuál de las siguientes hipótesis se relaciona con los resultados del experimento?",
+      "options": [
+        { "key": "A", "text": "A los enfermos de neumonía no deberían recetarles antibióticos, porque la supervivencia de las bacterias es mínima." },
+        { "key": "B", "text": "El Streptococcus pneumoniae es más sensible al antibiótico 4 que a los otros tres antibióticos." },
+        { "key": "C", "text": "Los pacientes enfermos de neumonía pueden sufrir de alergia a los antibióticos y empeorar." },
+        { "key": "D", "text": "El Streptococcus pneumoniae es una bacteria que habita libremente por el aire y puede contaminar a cualquier ser vivo." }
+      ],
+      "answer": "B",
+      "competency": "Asociar fenómenos naturales con conceptos propios del conocimiento científico.",
+      "tip": "El antibiótico 4 es el que deja el MENOR porcentaje de bacterias vivas (70%), es decir, es el que mata más bacterias. Que una bacteria sea más \"sensible\" a un antibiótico significa precisamente que ese antibiótico la afecta o la mata más.",
+      "explanation": "El antibiótico 4 tiene el porcentaje de supervivencia más bajo (70 %), lo que significa que fue el más efectivo matando bacterias, es decir, que el Streptococcus pneumoniae es más sensible a él que a los antibióticos 1, 2 y 3. Las demás opciones no se derivan de los datos: ni se puede afirmar que la supervivencia sea \"mínima\" (A, sigue siendo alta en todos los casos), ni el experimento dice nada sobre alergias en pacientes (C) ni sobre cómo se transmite la bacteria (D)."
+    },
+    {
+      "id": "cn04-q6",
+      "image": "cn04-piedra-estanque.png",
+      "imageAlt": "Diagrama de cuerpo libre de una piedra cayendo en un estanque de agua en tres instantes: en el primer instante la fuerza de resistencia (flecha hacia arriba) es pequeña comparada con el peso (flecha hacia abajo); en el segundo instante la resistencia crece; en el tercer instante la fuerza de resistencia es igual en magnitud al peso.",
+      "stem": "En tres instantes diferentes, un estudiante dibuja el diagrama de cuerpo libre para una piedra que cae en un estanque de agua, como se muestra en la figura. Si el estudiante mide la aceleración de la piedra después del tercer instante, ¿cómo será su magnitud, respecto a los otros instantes?",
+      "options": [
+        { "key": "A", "text": "Mayor que la del primer instante, porque el peso hace que la piedra se acelere hacia abajo." },
+        { "key": "B", "text": "Mayor que la del primer instante, porque el peso de la piedra disminuye cuando la fuerza de resistencia comienza a aumentar." },
+        { "key": "C", "text": "Constante, porque la aceleración de la piedra siempre es igual que la aceleración de la gravedad." },
+        { "key": "D", "text": "Nula, porque después del tercer instante, el peso de la piedra y la fuerza de resistencia se cancelan." }
+      ],
+      "answer": "D",
+      "competency": "Explicar cómo ocurren algunos fenómenos de la naturaleza con base en observaciones, patrones y conceptos propios del conocimiento científico.",
+      "tip": "En la figura, la flecha de la fuerza de resistencia (hacia arriba) va creciendo en cada instante, mientras que el peso (hacia abajo) se mantiene del mismo tamaño. Fíjate en el tercer instante: ¿cómo se compara el tamaño de la flecha de resistencia con el tamaño de la flecha del peso?",
+      "explanation": "En el diagrama, la fuerza de resistencia (flecha hacia arriba) crece en cada instante mientras el peso (flecha hacia abajo) permanece constante. En el tercer instante, ambas flechas ya tienen el mismo tamaño, es decir, se cancelan mutuamente (fuerza neta = 0). Según la segunda ley de Newton, si la fuerza neta es cero, la aceleración también es cero: la piedra habrá alcanzado su velocidad terminal y ya no acelerará más."
+    },
+    {
+      "id": "cn04-q7",
+      "stem": "El objetivo de una práctica de laboratorio es la detección de almidón en la papa, utilizando lugol como colorante. Se realizan cuatro experimentos con las condiciones que se muestran en la tabla:\n\n| Experimento | Agua (mL) | Lugol (mL) | Papa (g) | Solución de almidón 10 % (mL) |\n|---|---|---|---|---|\n| 1 | 10 | 1 | 10 | 0 |\n| 2 | 10 | 1 | 0 | 0 |\n| 3 | 10 | 0 | 5 | 0 |\n| 4 | 10 | 1 | 0 | 2 |\n\nEn esta práctica, ¿por qué es importante el experimento 4?",
+      "options": [
+        { "key": "A", "text": "Porque permite que el almidón se encuentre soluble." },
+        { "key": "B", "text": "Porque contiene el colorante con el cual se logra la detección de almidón." },
+        { "key": "C", "text": "Porque contiene más almidón que el que contiene la papa." },
+        { "key": "D", "text": "Porque permite establecer el color esperado para la detección de almidón." }
+      ],
+      "answer": "D",
+      "competency": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones.",
+      "tip": "El experimento 4 combina lugol con una solución de almidón PURA y conocida (sin depender de la papa). Piensa en qué función cumple una muestra así en un experimento: ¿sirve para comparar y saber qué color debe aparecer cuando el almidón SÍ está presente?",
+      "explanation": "El experimento 4 usa una solución de almidón de concentración conocida junto con el lugol, sin depender de la papa. Esto lo convierte en un control positivo: muestra exactamente qué color produce el lugol cuando SÍ hay almidón presente, sirviendo como referencia para interpretar el resultado del experimento 1 (papa + lugol) y confirmar si el cambio de color observado allí realmente indica presencia de almidón."
+    },
+    {
+      "id": "cn04-q8",
+      "image": "cn04-sustancia-desconocida.png",
+      "imageAlt": "Gráfica de temperatura contra tiempo de un sólido que se calienta: muestra una meseta (plateau) en 0°C (fusión) y otra meseta en 100°C (ebullición), con las fases sólido, líquido y gas marcadas.",
+      "stem": "En un experimento, un sólido de identidad desconocida se calienta y se mide su temperatura hasta que se evapora, obteniendo la gráfica de la figura. Para identificar el sólido se cuenta con los datos de la siguiente tabla:\n\n| Sustancia | Temperatura de fusión (°C) | Temperatura de ebullición (°C) |\n|---|---|---|\n| Benceno | 6 | 80 |\n| Agua | 0 | 100 |\n| Acetonitrilo | -45 | 82 |\n| 2-butanol | -115 | 100 |\n\nTeniendo en cuenta la información anterior, ¿a qué sustancia corresponde el sólido inicial?",
+      "options": [
+        { "key": "A", "text": "Benceno." },
+        { "key": "B", "text": "Agua." },
+        { "key": "C", "text": "Acetonitrilo." },
+        { "key": "D", "text": "2-butanol." }
+      ],
+      "answer": "B",
+      "competency": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones.",
+      "tip": "En la gráfica, las dos mesetas (donde la temperatura se mantiene constante mientras cambia de estado) ocurren en 0°C y en 100°C. Busca en la tabla la única sustancia cuya temperatura de fusión Y de ebullición coincidan exactamente con esos dos valores.",
+      "explanation": "La gráfica muestra una meseta de fusión en 0°C y una meseta de ebullición en 100°C. Comparando con la tabla, el agua es la única sustancia cuya temperatura de fusión (0°C) Y temperatura de ebullición (100°C) coinciden exactamente con ambos valores observados. El 2-butanol también hierve a 100°C, pero su punto de fusión (-115°C) no coincide con la meseta observada en 0°C, por lo que queda descartado."
+    },
+    {
+      "id": "cn04-q9",
+      "image": "cn04-velocidad-reaccion.png",
+      "imageAlt": "Dos gráficas: la primera muestra la velocidad de formación de Z aumentando linealmente al aumentar la concentración del reactivo X (con Y constante); la segunda muestra la velocidad de formación de Z constante (línea horizontal) al variar la concentración del reactivo Y (con X constante).",
+      "stem": "Una estudiante realiza diferentes ensayos con el objetivo de determinar el efecto de la concentración de los reactivos sobre la velocidad de formación de Z en la reacción X + Y → Z. En cada ensayo mide la velocidad de formación de Z manteniendo constante la concentración de uno de los reactivos y variando la del otro, como se muestra en las gráficas de la figura. Teniendo en cuenta la información anterior, ¿qué se puede concluir del cambio en la velocidad de formación de Z?",
+      "options": [
+        { "key": "A", "text": "El cambio de la velocidad de formación de Z no depende de la concentración de los reactivos." },
+        { "key": "B", "text": "El cambio de la velocidad de formación de Z depende de la concentración de ambos reactivos." },
+        { "key": "C", "text": "El cambio de la velocidad de formación de Z depende solamente de la concentración de X." },
+        { "key": "D", "text": "El cambio de la velocidad de formación de Z depende solamente de la concentración de Y." }
+      ],
+      "answer": "C",
+      "competency": "Observar y relacionar patrones en los datos para evaluar las predicciones.",
+      "tip": "En la primera gráfica (variando X), la velocidad SÍ cambia claramente al aumentar la concentración. En la segunda gráfica (variando Y), la velocidad se mantiene en una línea PLANA sin importar cuánto cambie la concentración de Y. ¿Qué reactivo es entonces el que realmente influye en la velocidad?",
+      "explanation": "La primera gráfica muestra que la velocidad de formación de Z aumenta claramente a medida que aumenta la concentración de X (mientras Y se mantiene constante). En cambio, la segunda gráfica muestra una línea horizontal: la velocidad permanece constante sin importar cómo cambie la concentración de Y (mientras X se mantiene constante). Esto indica que el cambio en la velocidad de formación de Z depende únicamente de la concentración de X, no de la de Y."
+    },
+    {
+      "id": "cn04-q10",
+      "stem": "La polilla grande de la cera es un patógeno que mata las larvas de las abejas y causa grandes pérdidas económicas a los apicultores de todo el mundo, por la gran cantidad de panales que destruye. Según la información anterior, ¿cuál de las siguientes preguntas está relacionada con la problemática descrita y puede resolverse mediante una investigación en el campo de las Ciencias Naturales?",
+      "options": [
+        { "key": "A", "text": "¿En qué etapa del ciclo biológico la polilla afecta los panales de las abejas?" },
+        { "key": "B", "text": "¿Cómo se afecta la economía de los apicultores por causa de la polilla?" },
+        { "key": "C", "text": "¿Cuáles son las características morfológicas de las abejas usadas en la apicultura?" },
+        { "key": "D", "text": "¿Cuánto invierten al año los apicultores para el control de la polilla en la región?" }
+      ],
+      "answer": "A",
+      "competency": "Asociar fenómenos naturales con conceptos propios del conocimiento científico.",
+      "tip": "Busca la única pregunta que sea, a la vez, (1) investigable con métodos de las Ciencias Naturales (biología) y (2) esté directamente relacionada con el problema descrito (cómo la polilla afecta a las abejas), y no con temas económicos o con las abejas en general sin conexión al problema.",
+      "explanation": "La pregunta sobre en qué etapa del ciclo biológico la polilla afecta los panales es la única que se investiga con herramientas propias de las Ciencias Naturales (biología del ciclo de vida de la polilla) y que está directamente conectada con el problema descrito (cómo la polilla daña los panales). Las opciones B y D son preguntas económicas, no de Ciencias Naturales, y la opción C, aunque es biológica, se refiere a las abejas en general y no a la problemática específica de la polilla."
+    },
+    {
+      "id": "cn04-q11",
+      "image": "cn04-montana-rusa.png",
+      "imageAlt": "Gráfica de energía potencial contra tiempo de un vagón de montaña rusa, mostrando un descenso hasta un mínimo en t1, un pico en t2, otro mínimo en t3 y una meseta elevada en t4. Cuatro modelos de pista (A, B, C, D) muestran distintas formas de montaña rusa, incluyendo una con un rizo (loop) circular.",
+      "stem": "Un estudiante calculó la energía potencial de un vagón en una montaña rusa. La gráfica de la figura representa los datos obtenidos por el estudiante. De los siguientes modelos de montaña rusa, ¿cuál explica la gráfica obtenida por el estudiante?",
+      "options": [
+        { "key": "A", "text": "Modelo A" },
+        { "key": "B", "text": "Modelo B" },
+        { "key": "C", "text": "Modelo C" },
+        { "key": "D", "text": "Modelo D" }
+      ],
+      "answer": "D",
+      "competency": "Modelar fenómenos de la naturaleza con base en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas.",
+      "tip": "La gráfica baja hasta un mínimo (t1), sube a un pico intermedio (t2), vuelve a bajar a otro mínimo (t3) y finalmente sube hasta quedar en una meseta elevada (t4). Busca el modelo de pista que tenga una valle, luego algo que haga subir y bajar la energía potencial ENTRE dos puntos bajos (como un rizo o loop), y que termine en una sección plana y elevada.",
+      "explanation": "El modelo D es el único que reproduce ese patrón: el vagón desciende a un valle (t1, energía potencial mínima), sube por un rizo circular hasta su punto más alto (t2, un pico de energía potencial entre dos valles), vuelve a bajar al nivel del valle (t3) y finalmente asciende hasta quedar en un tramo plano y elevado (t4), que corresponde a la meseta final de la gráfica. Los modelos A, B y C no tienen esa estructura de valle-pico-valle-meseta: A y C tienen un solo cambio de dirección, y B es una bajada continua sin ningún pico intermedio."
+    },
+    {
+      "id": "cn04-q12",
+      "image": "cn04-acidez-alcoholes.png",
+      "imageAlt": "Tabla 1: estructura general de alcoholes primarios, secundarios y terciarios, con una flecha que indica que la acidez aumenta de terciario a secundario a primario. Tabla 2: estructuras de cuatro alcoholes (2-butanol, etanol, 2-metil-2-propanol, 2-propanol).",
+      "stem": "En clase, el profesor explica que la acidez de un alcohol está relacionada con su estructura y muestra una tabla con la estructura de los alcoholes de mayor a menor acidez (Tabla 1: primario > secundario > terciario). Luego le pide a sus estudiantes que revisen una segunda tabla con la estructura de cuatro alcoholes: 2-butanol, etanol, 2-metil-2-propanol y 2-propanol. De acuerdo con lo anterior, ¿cuál es el alcohol que presenta la menor acidez?",
+      "options": [
+        { "key": "A", "text": "2-butanol." },
+        { "key": "B", "text": "Etanol." },
+        { "key": "C", "text": "2-metil-2-propanol." },
+        { "key": "D", "text": "2-propanol." }
+      ],
+      "answer": "C",
+      "competency": "Asociar fenómenos naturales con conceptos propios del conocimiento científico.",
+      "tip": "Primero clasifica cada alcohol según cuántos carbonos están unidos al carbono que tiene el -OH: el etanol es primario, el 2-butanol y el 2-propanol son secundarios, y el 2-metil-2-propanol (tres grupos CH3 unidos al carbono del -OH) es terciario. Según la Tabla 1, ¿cuál de esas categorías tiene la MENOR acidez?",
+      "explanation": "Clasificando los cuatro alcoholes: el etanol es primario (el carbono del -OH está unido a un solo carbono), el 2-butanol y el 2-propanol son secundarios (unidos a dos carbonos), y el 2-metil-2-propanol es terciario (unido a tres carbonos: tres grupos CH3). Según la Tabla 1, la acidez disminuye de primario a secundario a terciario, por lo que el alcohol terciario —2-metil-2-propanol— es el que presenta la menor acidez de los cuatro."
+    }
+  ]
+}
