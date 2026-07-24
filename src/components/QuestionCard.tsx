@@ -32,13 +32,25 @@ export function QuestionCard({
   const [selected, setSelected] = useState<OptionKey | null>(null);
   const [wrongAttempts, setWrongAttempts] = useState<OptionKey[]>([]);
   const [solved, setSolved] = useState(false);
+  const [imageExpanded, setImageExpanded] = useState(false);
 
   // Reset local state when the question changes
   useEffect(() => {
     setSelected(null);
     setWrongAttempts([]);
     setSolved(false);
+    setImageExpanded(false);
   }, [question.id]);
+
+  // Allow closing the expanded image with Escape
+  useEffect(() => {
+    if (!imageExpanded) return;
+    function handleKeyDown(e: KeyboardEvent) {
+      if (e.key === "Escape") setImageExpanded(false);
+    }
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [imageExpanded]);
 
   function handleSelect(key: OptionKey) {
     if (solved) return;
@@ -85,10 +97,39 @@ export function QuestionCard({
 
       {question.image && (
         <div className="mb-4 overflow-hidden rounded-xl border border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-900">
+          <button
+            type="button"
+            onClick={() => setImageExpanded(true)}
+            className="block w-full cursor-zoom-in"
+            aria-label="Ampliar imagen"
+          >
+            <img
+              src={`/images/${question.image}`}
+              alt={question.imageAlt ?? "Figura de la pregunta"}
+              className="max-h-[420px] w-full object-contain"
+            />
+          </button>
+        </div>
+      )}
+
+      {imageExpanded && question.image && (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 p-4"
+          onClick={() => setImageExpanded(false)}
+        >
+          <button
+            type="button"
+            onClick={() => setImageExpanded(false)}
+            aria-label="Cerrar imagen"
+            className="absolute right-4 top-4 flex h-10 w-10 items-center justify-center rounded-full bg-white/10 text-2xl leading-none text-white hover:bg-white/20"
+          >
+            ×
+          </button>
           <img
             src={`/images/${question.image}`}
             alt={question.imageAlt ?? "Figura de la pregunta"}
-            className="max-h-[420px] w-full object-contain"
+            className="max-h-full max-w-full cursor-zoom-out object-contain"
+            onClick={(e) => e.stopPropagation()}
           />
         </div>
       )}
