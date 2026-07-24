@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import type { OptionKey, Question } from "../data/types";
+import type { QuestionAnswerState } from "../store/progress";
 import { OptionButton, type OptionStatus } from "./OptionButton";
 import { Feedback } from "./Feedback";
 import { MarkdownText } from "./MarkdownText";
@@ -10,6 +11,8 @@ interface QuestionCardProps {
   totalQuestions: number;
   showContext: boolean;
   areaColor: string;
+  /** Previously saved answer for this question, if the user already attempted it. */
+  savedAnswer?: QuestionAnswerState;
   onAnswered: (chosen: OptionKey, correct: boolean) => void;
   onNext: () => void;
   onPrev: () => void;
@@ -23,24 +26,21 @@ export function QuestionCard({
   totalQuestions,
   showContext,
   areaColor,
+  savedAnswer,
   onAnswered,
   onNext,
   onPrev,
   isFirst,
   isLast,
 }: QuestionCardProps) {
-  const [selected, setSelected] = useState<OptionKey | null>(null);
-  const [wrongAttempts, setWrongAttempts] = useState<OptionKey[]>([]);
-  const [solved, setSolved] = useState(false);
+  // Component remounts on every question change (Quiz renders it with key={question.id}),
+  // so these lazy initializers both set the initial state and hydrate previously saved answers.
+  const [selected, setSelected] = useState<OptionKey | null>(() => savedAnswer?.chosen ?? null);
+  const [wrongAttempts, setWrongAttempts] = useState<OptionKey[]>(() =>
+    savedAnswer && savedAnswer.chosen !== question.answer ? [savedAnswer.chosen] : []
+  );
+  const [solved, setSolved] = useState(() => savedAnswer?.chosen === question.answer);
   const [imageExpanded, setImageExpanded] = useState(false);
-
-  // Reset local state when the question changes
-  useEffect(() => {
-    setSelected(null);
-    setWrongAttempts([]);
-    setSolved(false);
-    setImageExpanded(false);
-  }, [question.id]);
 
   // Allow closing the expanded image with Escape
   useEffect(() => {

@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { getTestById } from "../data/tests";
 import { AREAS } from "../data/areas";
@@ -11,6 +12,7 @@ export function Results() {
   const test = testId ? getTestById(testId) : undefined;
   const progress = useProgressStore((s) => (testId ? s.tests[testId] : undefined));
   const resetTest = useProgressStore((s) => s.resetTest);
+  const [confirmingRetry, setConfirmingRetry] = useState(false);
 
   if (!test || !progress) {
     return (
@@ -70,13 +72,35 @@ export function Results() {
       </div>
 
       <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-        <button
-          type="button"
-          onClick={handleRetry}
-          className="flex-1 rounded-xl border border-slate-300 px-5 py-3 font-semibold text-slate-700 transition-colors hover:bg-slate-100 dark:border-slate-700 dark:text-slate-200 dark:hover:bg-slate-800"
-        >
-          Repetir test
-        </button>
+        {confirmingRetry ? (
+          <div className="flex flex-1 flex-col items-center justify-center gap-2 rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-center text-sm dark:border-red-900/40 dark:bg-red-900/20 sm:flex-row">
+            <span className="text-red-700 dark:text-red-300">¿Borrar tus respuestas y repetir?</span>
+            <div className="flex gap-2">
+              <button
+                type="button"
+                onClick={handleRetry}
+                className="rounded-lg bg-red-600 px-3 py-1.5 font-semibold text-white hover:bg-red-700"
+              >
+                Sí, repetir
+              </button>
+              <button
+                type="button"
+                onClick={() => setConfirmingRetry(false)}
+                className="rounded-lg px-3 py-1.5 font-semibold text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800"
+              >
+                Cancelar
+              </button>
+            </div>
+          </div>
+        ) : (
+          <button
+            type="button"
+            onClick={() => setConfirmingRetry(true)}
+            className="flex-1 rounded-xl border border-slate-300 px-5 py-3 font-semibold text-slate-700 transition-colors hover:bg-slate-100 dark:border-slate-700 dark:text-slate-200 dark:hover:bg-slate-800"
+          >
+            Repetir test
+          </button>
+        )}
         <Link
           to="/"
           className="flex-1 rounded-xl px-5 py-3 text-center font-semibold text-white transition-opacity hover:opacity-90"

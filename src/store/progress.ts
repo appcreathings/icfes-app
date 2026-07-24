@@ -15,6 +15,8 @@ export interface TestProgress {
   firstTryCorrect: number;
   total: number;
   areaScoreEstimate: number;
+  /** Index of the question the user was last viewing in this test. */
+  currentIndex: number;
   completedAt?: string;
   updatedAt: string;
 }
@@ -27,6 +29,8 @@ interface ProgressState {
   completeTest: (test: TestDef) => void;
   /** Returns progress for a given test id, if any. */
   getTestProgress: (testId: string) => TestProgress | undefined;
+  /** Remembers which question the user was viewing, so they can resume there. */
+  setCurrentIndex: (testId: string, index: number) => void;
   resetAll: () => void;
   resetTest: (testId: string) => void;
 }
@@ -72,6 +76,7 @@ export const useProgressStore = create<ProgressState>()(
                 firstTryCorrect: existing?.firstTryCorrect ?? 0,
                 total: existing?.total ?? 0,
                 areaScoreEstimate: existing?.areaScoreEstimate ?? 0,
+                currentIndex: existing?.currentIndex ?? 0,
                 completedAt: existing?.completedAt,
                 updatedAt: new Date().toISOString(),
               },
@@ -99,6 +104,7 @@ export const useProgressStore = create<ProgressState>()(
                 firstTryCorrect,
                 total,
                 areaScoreEstimate,
+                currentIndex: existing?.currentIndex ?? 0,
                 completedAt: new Date().toISOString(),
                 updatedAt: new Date().toISOString(),
               },
@@ -108,6 +114,27 @@ export const useProgressStore = create<ProgressState>()(
       },
 
       getTestProgress: (testId) => get().tests[testId],
+
+      setCurrentIndex: (testId, index) => {
+        set((state) => {
+          const existing = state.tests[testId];
+          return {
+            tests: {
+              ...state.tests,
+              [testId]: {
+                answers: existing?.answers ?? {},
+                completed: existing?.completed ?? false,
+                firstTryCorrect: existing?.firstTryCorrect ?? 0,
+                total: existing?.total ?? 0,
+                areaScoreEstimate: existing?.areaScoreEstimate ?? 0,
+                currentIndex: index,
+                completedAt: existing?.completedAt,
+                updatedAt: new Date().toISOString(),
+              },
+            },
+          };
+        });
+      },
 
       resetAll: () => set({ tests: {} }),
 
