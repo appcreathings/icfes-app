@@ -1,0 +1,298 @@
+{
+  "id": "ciencias-01",
+  "area": "ciencias",
+  "title": "Ciencias Naturales · Test 1",
+  "source": "Cuadernillo de preguntas Ciencias Naturales, Saber 11.º, Icfes (febrero 2026)",
+  "questions": [
+    {
+      "id": "cn01-q1",
+      "stem": "La siguiente ecuación representa la reacción química de la formación de agua (H₂O): 2H₂ + O₂ → 2H₂O. ¿Cuál de las siguientes opciones muestra correctamente los reactivos de la anterior reacción?",
+      "options": [
+        { "key": "A", "text": "H4 y O2." },
+        { "key": "B", "text": "H4 y O4." },
+        { "key": "C", "text": "H2 y O2." },
+        { "key": "D", "text": "H4 y O4." }
+      ],
+      "answer": "C",
+      "tip": "Los reactivos son las sustancias que están ANTES de la flecha en la ecuación química. Fíjate en las fórmulas moleculares tal como aparecen ahí, no en los coeficientes que las multiplican.",
+      "explanation": "En la ecuación 2H₂ + O₂ → 2H₂O, los reactivos (lo que está antes de la flecha) son H₂ (hidrógeno molecular) y O₂ (oxígeno molecular). El \"2\" que acompaña a H₂ es un coeficiente estequiométrico (indica cuántas moléculas reaccionan), no forma parte de la fórmula del reactivo."
+    },
+    {
+      "id": "cn01-q2",
+      "stem": "Un bloque de hielo seco, CO₂ sólido, cambia del estado sólido al gaseoso en condiciones ambientales. Este cambio de estado determina un cambio en la densidad del CO₂. Teniendo en cuenta la información anterior, tras el cambio de estado, ¿por qué disminuye la densidad del CO₂?",
+      "options": [
+        { "key": "A", "text": "Porque la masa de CO2 disminuye." },
+        { "key": "B", "text": "Porque la distancia entre partículas y el volumen aumentan." },
+        { "key": "C", "text": "Porque la distancia entre partículas disminuye." },
+        { "key": "D", "text": "Porque la distancia entre partículas aumenta y su masa disminuye." }
+      ],
+      "answer": "B",
+      "tip": "La densidad es masa dividida entre volumen. Al pasar de sólido a gas, la masa de CO₂ no desaparece ni cambia; lo que sí cambia drásticamente es cuánto espacio ocupan las partículas.",
+      "explanation": "La densidad es masa/volumen. En el cambio de sólido a gas la masa se conserva (no desaparece materia), pero las partículas se separan mucho más entre sí, aumentando enormemente el volumen que ocupa el CO₂. Como el volumen aumenta mientras la masa permanece igual, la densidad disminuye."
+    },
+    {
+      "id": "cn01-q3",
+      "stem": "En el proceso de síntesis de proteínas en una célula, la información del ADN se copia primero al ARN mensajero (transcripción), y luego el ARN mensajero es leído para unir aminoácidos en el orden correcto (traducción). Si no se copia correctamente la información del ADN al ARNm en el proceso de transcripción, ¿qué puede sucederle al proceso de síntesis de proteínas?",
+      "options": [
+        { "key": "A", "text": "Se produciría una cadena de ARNm doble, como la molécula de ADN." },
+        { "key": "B", "text": "El ribosoma no podría entrar al núcleo a leer la información del ADN." },
+        { "key": "C", "text": "Los aminoácidos no podrían unirse al ARNt en el citoplasma." },
+        { "key": "D", "text": "Se unirían aminoácidos que no corresponden con la secuencia de ADN." }
+      ],
+      "answer": "D",
+      "tip": "Piensa en toda la cadena de eventos: si el ARNm queda con un \"mensaje\" equivocado desde el inicio, ¿qué pasa después, cuando ese mensaje se traduce a aminoácidos?",
+      "explanation": "Si el ARNm copia mal la información del ADN, ese error se arrastra a la traducción: el ribosoma leerá el ARNm (con el error) y unirá los aminoácidos según ese mensaje incorrecto, produciendo una secuencia de aminoácidos que no corresponde con la secuencia original del ADN."
+    },
+    {
+      "id": "cn01-q4",
+      "stem": "Una estudiante quiere clasificar dos sustancias de acuerdo con el tipo de mezclas que son. Las mezclas homogéneas son uniformes en todas sus partes, pero las mezclas heterogéneas no lo son. La sustancia 1 es un líquido de una sola fase que, al ser calentado, produce vapor, quedando un sólido blanco en el fondo. La sustancia 2 es un líquido que, al ser introducido en un recipiente, muestra la separación de dos fases visibles. Teniendo en cuenta lo observado, ¿qué tipos de mezclas son las sustancias 1 y 2?",
+      "options": [
+        { "key": "A", "text": "La sustancia 1 es una mezcla homogénea y la sustancia 2 es una mezcla heterogénea." },
+        { "key": "B", "text": "La sustancia 1 es una mezcla heterogénea y la sustancia 2 es una mezcla homogénea." },
+        { "key": "C", "text": "Ambas sustancias son mezclas homogéneas." },
+        { "key": "D", "text": "Ambas sustancias son mezclas heterogéneas." }
+      ],
+      "answer": "A",
+      "tip": "¿Cuántas fases se observan a simple vista en cada sustancia ANTES de calentarlas o manipularlas? Eso es lo que determina si son homogéneas (una sola fase, uniforme) o heterogéneas (varias fases visibles).",
+      "explanation": "La sustancia 1 se presenta en una sola fase uniforme (aunque al calentarla separa sus componentes), lo cual la clasifica como mezcla homogénea. La sustancia 2 muestra dos fases visibles desde el principio, lo cual la clasifica como mezcla heterogénea (no es uniforme)."
+    },
+    {
+      "id": "cn01-q5",
+      "stem": "Un investigador sumerge un detector de sonido en agua para grabar los sonidos emitidos por los animales. El detector muestra la longitud de onda, la frecuencia, la velocidad de propagación y la distancia a la que se produce el sonido. El investigador saca el detector del agua y registra un sonido. ¿Cuál cambio de las variables mencionadas le permite asegurar al investigador que el sonido se transmite por el aire y no por el agua?",
+      "options": [
+        { "key": "A", "text": "La longitud de onda." },
+        { "key": "B", "text": "La frecuencia de la onda." },
+        { "key": "C", "text": "La forma de la onda." },
+        { "key": "D", "text": "La velocidad de la onda." }
+      ],
+      "answer": "D",
+      "tip": "La frecuencia de un sonido no cambia al pasar de un medio a otro (depende de la fuente que lo produce). Pero el sonido viaja a velocidades muy distintas en el aire y en el agua. ¿Qué variable delata directamente en qué medio se está propagando la onda?",
+      "explanation": "La velocidad del sonido es muy diferente en el aire (~343 m/s) que en el agua (~1480 m/s), mientras que la frecuencia se mantiene constante sin importar el medio (depende de la fuente emisora). Por eso, un cambio notable en la velocidad de propagación es la evidencia clave de que el sonido pasó de propagarse en agua a propagarse en aire."
+    },
+    {
+      "id": "cn01-q6",
+      "contextId": "dengue",
+      "context": "El dengue es una enfermedad tropical producida por la infección con un virus, que se transmite a través de las picaduras de algunos mosquitos hembra del género Aedes. Este tipo de mosquito se reproduce principalmente en aguas estancadas. Algunas de las medidas que recomiendan las entidades estatales para disminuir los casos de personas infectadas son:\n\n» Tapar los recipientes con agua al aire libre; eliminar llantas, botellas, barriles u otros recipientes que puedan retener agua.\n» Usar insecticidas para mosquitos.\n\nInvestigaciones recientes han demostrado que adultos de algunas especies de mosquito del género Aedes son más resistentes que otras a algunos insecticidas, sin importar su concentración, de manera que el uso de estos no garantiza un 100 % de protección frente al dengue.",
+      "stem": "Al observar la manera como se transmite el dengue, un estudiante afirma que para garantizarse una protección del 100 % frente al dengue con el uso de insecticidas, debe aumentarse la frecuencia con la que estos se aplican. De acuerdo con la información del contexto, ¿la hipótesis del estudiante debería mantenerse o cambiarse?",
+      "options": [
+        { "key": "A", "text": "Debe mantenerse, porque los mosquitos resistentes pueden dejar de serlo si se disminuye la concentración de insecticida reduciendo la frecuencia de aplicación." },
+        { "key": "B", "text": "Debe mantenerse, porque aunque haya algunos mosquitos resistentes, la cantidad de individuos resistentes es tan pequeña que la cantidad de picaduras será insignificante." },
+        { "key": "C", "text": "Debe cambiarse, porque aunque al aumentar la frecuencia de aplicación se pueden eliminar todos los huevos de mosquitos, aún existirán larvas de otros insectos que probablemente trasmitan la enfermedad." },
+        { "key": "D", "text": "Debe cambiarse, porque al ser resistentes a los insecticidas, sin importar su concentración, aunque se apliquen más dosis, estas probablemente no tendrán efecto sobre los mosquitos resistentes." }
+      ],
+      "answer": "D",
+      "competency": "Derivar conclusiones para algunos fenómenos de la naturaleza basándose en conocimientos científicos y en la evidencia de su propia investigación y la de otros.",
+      "tip": "El contexto dice explícitamente que la resistencia de algunos mosquitos ocurre \"sin importar su concentración\". Si eso es cierto, ¿aplicar el insecticida con más frecuencia cambiaría algo para esos mosquitos resistentes en particular?",
+      "explanation": "El contexto establece que la resistencia de ciertos mosquitos a los insecticidas ocurre sin importar la concentración usada. Aumentar la frecuencia de aplicación no cambia esa resistencia biológica: los mosquitos resistentes seguirán sin verse afectados, por lo que la hipótesis del estudiante (que aumentar la frecuencia garantizaría 100 % de protección) debe cambiarse."
+    },
+    {
+      "id": "cn01-q7",
+      "contextId": "dengue",
+      "stem": "Teniendo en cuenta lo anterior, ¿por qué reducir el número de lugares donde el agua se estanca es un buen método de prevención contra el dengue?",
+      "options": [
+        { "key": "A", "text": "Porque al reducir el número de lugares donde el agua se estanca, disminuirán los casos de personas infectadas por beber este tipo de agua." },
+        { "key": "B", "text": "Porque al reducir el número de lugares donde el agua se estanca, disminuirán los hábitats del mosquito y, por tanto, no habrá tantas picaduras de mosquito que transmitan el virus a las personas." },
+        { "key": "C", "text": "Porque al reducir el número de lugares donde el agua se estanca, el agua no producirá mal olor y se favorecerá el crecimiento y reproducción de los mosquitos." },
+        { "key": "D", "text": "Porque al reducir el número de lugares donde el agua se estanca, disminuirán los hábitats del virus y, por tanto, estos empezarán a infectar a las personas directamente sin necesitar de los mosquitos." }
+      ],
+      "answer": "B",
+      "tip": "Recuerda cómo se transmite el dengue según el contexto: por PICADURAS de mosquito, no por beber agua ni por contacto directo con el virus. ¿Qué papel juega el agua estancada en el ciclo de vida del mosquito?",
+      "explanation": "El dengue se transmite por la picadura de mosquitos Aedes, que se reproducen en aguas estancadas. Al reducir esos lugares, se reduce el hábitat de reproducción del mosquito, hay menos mosquitos, y por lo tanto menos picaduras que puedan transmitir el virus. El dengue no se contrae bebiendo agua ni el virus infecta directamente sin el mosquito como vector."
+    },
+    {
+      "id": "cn01-q8",
+      "stem": "El profesor de Juan le entrega tres objetos de igual volumen y forma, pero de diferente material, y le pide que los deje caer desde la altura de sus hombros y observe el tiempo de caída al suelo de cada uno de ellos. Juan observa que los tres tardan tiempos diferentes para llegar al suelo, a pesar de que los tres están sometidos a la misma aceleración gravitacional. Teniendo en cuenta la información anterior, ¿cuál de las siguientes preguntas se puede contestar a partir de las observaciones que realizó Juan?",
+      "options": [
+        { "key": "A", "text": "¿El tiempo de caída de los objetos depende de la altura de lanzamiento?" },
+        { "key": "B", "text": "¿La fuerza gravitacional es proporcional a la masa de los objetos?" },
+        { "key": "C", "text": "¿La fuerza neta que actúa sobre cada uno de los objetos es diferente?" },
+        { "key": "D", "text": "¿La forma de los objetos está relacionada con diferencias en la fuerza de fricción?" }
+      ],
+      "answer": "C",
+      "tip": "Si la aceleración gravitacional es la MISMA para los tres objetos, pero caen en tiempos diferentes, algo más además de la gravedad debe estar actuando de forma distinta sobre cada uno (por ejemplo, la resistencia del aire, que depende del material). ¿Qué concepto físico resume \"todas las fuerzas que actúan sobre un objeto, sumadas\"?",
+      "explanation": "Como los objetos tienen igual forma y volumen pero distinto material (y por tanto distinta masa y densidad), la resistencia del aire afecta a cada uno de forma distinta, haciendo que la fuerza NETA (la suma de todas las fuerzas, incluyendo gravedad y resistencia del aire) sea diferente para cada objeto, lo cual explica los distintos tiempos de caída pese a la misma aceleración gravitacional teórica. Ni la altura de lanzamiento (A, no varió) ni la relación gravedad-masa (B, no es lo que se observó) son las preguntas que responden directamente estas observaciones."
+    },
+    {
+      "id": "cn01-q9",
+      "stem": "En la extracción minera de oro se emplean cianuro de sodio, zinc y ácidos fuertes durante el proceso de purificación. Los ácidos fuertes que pueden emplearse son ácido sulfúrico (H2SO4) de una concentración volumen-volumen del 78 % o ácido nítrico (HNO3) que contenga 112 mL de ácido por cada 200 mL de solución. Si en la extracción del oro se requiere usar el ácido de mayor concentración, ¿cuál ácido debería emplearse?",
+      "options": [
+        { "key": "A", "text": "HNO3, porque como su volumen es mayor que el de la solución de H2SO4 tiene una mayor concentración." },
+        { "key": "B", "text": "H2SO4, porque la concentración volumen-volumen del HNO3 es del 56 %." },
+        { "key": "C", "text": "HNO3, porque su concentración volumen-volumen es del 112 %." },
+        { "key": "D", "text": "H2SO4, porque como su volumen es menor que el de la solución de HNO3 se encuentra más concentrado." }
+      ],
+      "answer": "B",
+      "tip": "Convierte la proporción del HNO3 (112 mL de ácido en 200 mL de solución) a un porcentaje volumen-volumen, y compáralo directamente con el 78 % dado para el H2SO4.",
+      "explanation": "La concentración volumen-volumen del HNO3 es (112 mL / 200 mL) × 100 % = 56 %. Comparando 56 % (HNO3) contra 78 % (H2SO4), el ácido sulfúrico tiene mayor concentración, por lo que debería emplearse el H2SO4."
+    },
+    {
+      "id": "cn01-q10",
+      "stem": "El salto bungee es un deporte que se practica generalmente en puentes. En uno de estos saltos, el deportista se lanzará desde un puente de 65 metros de altura, utilizando una banda elástica que tiene una longitud sin estirar de 30 metros y que puede estirarse 30 metros más. Cuando el deportista ha descendido apenas 20 metros de altura, ¿cuál de las siguientes transformaciones de energía se habrá dado?",
+      "options": [
+        { "key": "A", "text": "De energía cinética a potencial elástica." },
+        { "key": "B", "text": "De energía cinética a potencial gravitacional." },
+        { "key": "C", "text": "De energía potencial gravitacional a potencial elástica." },
+        { "key": "D", "text": "De energía potencial gravitacional a cinética." }
+      ],
+      "answer": "D",
+      "tip": "La banda elástica mide 30 metros sin estirar. Si el deportista solo ha descendido 20 metros, ¿ya empezó a estirarse la banda, o el deportista sigue en caída libre?",
+      "explanation": "Como la banda mide 30 metros sin estirar y el deportista solo ha caído 20 metros, la banda todavía no se ha tensado: el deportista sigue en caída libre. Durante la caída libre, la energía potencial gravitacional se transforma en energía cinética (a medida que baja, pierde altura pero gana velocidad). La energía elástica solo entra en juego después de los 30 metros, cuando la banda empieza a estirarse."
+    },
+    {
+      "id": "cn01-q11",
+      "stem": "En un metal que pierde electrones, la cantidad de protones es mayor que la de electrones y, por tanto, la carga total es positiva. Se tienen dos esferas metálicas idénticas: una esfera (1) inicialmente con carga +Q y otra esfera (2) inicialmente neutra. Al ponerlas en contacto y luego separarlas, se observa que las dos esferas quedan con cargas iguales +Q/2 cada una. Con base en la información anterior, ¿qué sucedió al poner las esferas en contacto?",
+      "options": [
+        { "key": "A", "text": "De la esfera 2 pasaron electrones hacia la esfera 1." },
+        { "key": "B", "text": "De la esfera 2 pasaron protones hacia la esfera 1." },
+        { "key": "C", "text": "De la esfera 1 pasaron electrones hacia la esfera 2." },
+        { "key": "D", "text": "De la esfera 1 pasaron protones hacia la esfera 2." }
+      ],
+      "answer": "A",
+      "tip": "En los metales, lo que se mueve libremente son los electrones, nunca los protones (que están fijos en el núcleo). Piensa: si la esfera 1 tenía +Q (le \"faltaban\" electrones) y terminó con +Q/2 (menos positiva, es decir, con MÁS electrones que antes), ¿de dónde le llegaron esos electrones?",
+      "explanation": "En los conductores metálicos, los protones no se mueven; solo los electrones. La esfera 1 pasó de +Q a +Q/2, es decir, se volvió MENOS positiva, lo que significa que GANÓ electrones. Esos electrones solo pudieron venir de la esfera 2 (que tenía más electrones disponibles al estar neutra). Por eso, los electrones fluyeron de la esfera 2 hacia la esfera 1."
+    },
+    {
+      "id": "cn01-q12",
+      "stem": "Una estudiante calentó en una estufa, durante 1 minuto, un litro de agua que inicialmente estaba a 15 °C. La temperatura final del agua fue 17 °C. Si ahora calienta 2 litros de agua que inicialmente están a 15 °C, en la misma estufa durante un minuto, ¿cuál será la temperatura final de los 2 litros de agua?",
+      "options": [
+        { "key": "A", "text": "19 ºC." },
+        { "key": "B", "text": "17 ºC." },
+        { "key": "C", "text": "16 ºC." },
+        { "key": "D", "text": "15 ºC." }
+      ],
+      "answer": "C",
+      "tip": "La estufa entrega la MISMA cantidad de energía en el mismo tiempo (1 minuto), sin importar cuánta agua haya. Si esa misma energía ahora se reparte entre el DOBLE de agua, ¿el aumento de temperatura será el mismo, mayor o menor que antes?",
+      "explanation": "Con 1 litro, la energía entregada en 1 minuto produjo un aumento de 2 °C (de 15 °C a 17 °C). Esa misma cantidad de energía, repartida ahora entre el doble de masa de agua (2 litros), producirá la mitad del aumento de temperatura, es decir, 1 °C. Por lo tanto, la temperatura final será 15 °C + 1 °C = 16 °C."
+    },
+    {
+      "id": "cn01-q13",
+      "stem": "En la tabla se muestra la configuración electrónica de un átomo neutro de aluminio y de un ion de aluminio: Aluminio neutro: 1s² 2s² 2p⁶ 3s² 3p¹ (13 electrones). Ion de aluminio: 1s² 2s² 2p⁶ (10 electrones). Teniendo en cuenta que el estado de oxidación de un átomo se determina conociendo los cambios en el número de electrones de la configuración electrónica respecto al átomo neutro, ¿por qué es correcto afirmar que el estado de oxidación del ion de aluminio es 3+?",
+      "options": [
+        { "key": "A", "text": "Porque el último nivel de energía de su configuración electrónica es 3." },
+        { "key": "B", "text": "Porque tiene 3 electrones menos en su configuración electrónica que el aluminio neutro." },
+        { "key": "C", "text": "Porque tiene 3 electrones más en su configuración electrónica que el aluminio neutro." },
+        { "key": "D", "text": "Porque el número total de electrones en su configuración electrónica es 3." }
+      ],
+      "answer": "B",
+      "tip": "Cuenta los electrones en cada configuración: el aluminio neutro tiene 13 (2+2+6+2+1), y el ion tiene 10 (2+2+6). ¿Cuántos electrones se perdieron, y qué relación tiene eso con una carga positiva de 3+?",
+      "explanation": "El aluminio neutro tiene 13 electrones y el ion de aluminio tiene 10 electrones: perdió 3 electrones. Al perder electrones (partículas con carga negativa), el átomo queda con más protones que electrones, es decir, con una carga neta positiva igual al número de electrones perdidos: 3+."
+    },
+    {
+      "id": "cn01-q14",
+      "stem": "Un estudiante sopla una pelota por un tubo vertical y esta sube aceleradamente por el tubo. Teniendo en cuenta lo anterior, ¿por qué ocurre esto?",
+      "options": [
+        { "key": "A", "text": "Porque el peso de la pelota cambia cuando el estudiante sopla aire por el tubo." },
+        { "key": "B", "text": "Porque la fuerza que ejerce el aire que sopla el estudiante es igual que el peso de la pelota." },
+        { "key": "C", "text": "Porque el peso de la pelota es mayor que la fuerza del aire que sopla el estudiante." },
+        { "key": "D", "text": "Porque la fuerza que ejerce el aire que sopla el estudiante es mayor que el peso de la pelota." }
+      ],
+      "answer": "D",
+      "tip": "La pelota sube ACELERADAMENTE (con aceleración neta hacia arriba). Según las leyes de Newton, para que haya aceleración en una dirección, la fuerza neta debe apuntar en esa dirección. Compara qué fuerza debe ser mayor: la del aire (hacia arriba) o el peso (hacia abajo).",
+      "explanation": "Para que la pelota acelere hacia arriba, la fuerza neta debe apuntar hacia arriba, lo que significa que la fuerza que ejerce el aire soplado (hacia arriba) debe ser mayor que el peso de la pelota (hacia abajo). Si fueran iguales (B), la pelota no aceleraría (se movería a velocidad constante o quedaría en reposo); y el peso de la pelota no cambia solo por soplarle aire (descarta A)."
+    },
+    {
+      "id": "cn01-q15",
+      "stem": "El siguiente modelo representa la relación entre la altura y la cantidad de partículas de aire: a mayor altura, menor cantidad de partículas de aire (menor presión atmosférica). Una olla con agua hierve a una temperatura de 100 °C, cuando la altura es de 0 km (nivel del mar). Teniendo en cuenta que el punto de ebullición corresponde a la temperatura a la cual la presión de vapor del líquido iguala a la presión atmosférica, si se pone a calentar la misma cantidad de agua a una altura de 25 km, ¿qué le sucede al agua?",
+      "options": [
+        { "key": "A", "text": "Hierve a una temperatura menor que 100 °C, porque la presión es menor en esta altura." },
+        { "key": "B", "text": "Hierve a una temperatura mayor que 100 °C, porque la presión es menor en esta altura." },
+        { "key": "C", "text": "Nunca hierve, porque en esta altura hay muy poca cantidad de aire." },
+        { "key": "D", "text": "Se congela, porque al no haber aire el agua pasará a estado sólido." }
+      ],
+      "answer": "A",
+      "tip": "A mayor altura, hay MENOS presión atmosférica. Si el punto de ebullición es la temperatura a la que la presión de vapor del líquido IGUALA la presión atmosférica, y esa presión atmosférica ahora es más baja, ¿se necesita alcanzar una temperatura mayor o menor para lograr esa igualdad?",
+      "explanation": "A mayor altura, la presión atmosférica es menor. Como el punto de ebullición es la temperatura a la que la presión de vapor del agua iguala la presión atmosférica, si esta última es más baja, se necesita menos energía (menor temperatura) para que la presión de vapor la alcance. Por eso, a 25 km de altura, el agua hierve a una temperatura menor que 100 °C. Esto es justamente lo que ocurre en la vida real a grandes altitudes (como en la cima de una montaña)."
+    },
+    {
+      "id": "cn01-q16",
+      "stem": "La materia puede clasificarse, según su composición, en sustancias puras (con composición fija) y mezclas (con composición variable). El acero es un material que contiene los elementos hierro y carbono. Dos muestras distintas de acero tienen diferentes cantidades de estos elementos, pero ambas muestras tienen composición uniforme (una sola fase). Usando esta clasificación, ¿cómo clasificaría al acero?",
+      "options": [
+        { "key": "A", "text": "Como una mezcla homogénea, porque está formado por diferentes elementos y es uniforme." },
+        { "key": "B", "text": "Como una sustancia pura, porque tiene composición uniforme y es un solo compuesto." },
+        { "key": "C", "text": "Como una mezcla heterogénea, porque está formado por diferentes elementos." },
+        { "key": "D", "text": "Como una sustancia pura, porque muestras distintas tienen composición diferente." }
+      ],
+      "answer": "A",
+      "tip": "Las sustancias puras (como los compuestos químicos) tienen SIEMPRE la misma proporción fija de sus elementos. Si dos muestras de acero tienen cantidades DIFERENTES de hierro y carbono, ¿puede ser una sustancia pura? Y si cada muestra individual es uniforme (una sola fase), ¿es homogénea o heterogénea?",
+      "explanation": "Como distintas muestras de acero tienen proporciones variables de hierro y carbono, no puede ser una sustancia pura (que tendría una composición fija, como el agua H₂O siempre en la misma proporción). Pero cada muestra individual es uniforme en toda su extensión (una sola fase), lo cual la clasifica como mezcla homogénea."
+    },
+    {
+      "id": "cn01-q17",
+      "stem": "En las células animales, los lisosomas son los organelos encargados de digerir con enzimas los nutrientes que la célula consume. Si todos los lisosomas de una célula se rompieran, ¿qué le sucedería inicialmente a la célula?",
+      "options": [
+        { "key": "A", "text": "Se degradarían moléculas en su interior." },
+        { "key": "B", "text": "Perdería toda el agua del citoplasma." },
+        { "key": "C", "text": "No habría respiración celular." },
+        { "key": "D", "text": "No se formarían proteínas." }
+      ],
+      "answer": "A",
+      "tip": "Los lisosomas contienen enzimas digestivas. Si esas enzimas se liberan de golpe dentro de la célula (en lugar de quedar contenidas dentro del lisosoma), ¿sobre qué actuarían?",
+      "explanation": "Los lisosomas contienen enzimas digestivas capaces de degradar moléculas. Si se rompen, esas enzimas quedarían libres dentro de la célula y comenzarían a digerir (degradar) las moléculas y estructuras del propio citoplasma celular, en lugar de mantenerlas contenidas y controladas dentro del organelo."
+    },
+    {
+      "id": "cn01-q18",
+      "stem": "En una especie de pato se pueden encontrar individuos con cuello corto e individuos con cuello largo. En esta especie hay una mayor cantidad de patos con cuello largo (rasgo dominante). En un experimento se aparearon una hembra y un macho de cuello largo; de sus hijos, 3/4 son de cuello largo y 1/4 son de cuello corto. Teniendo en cuenta lo anterior, ¿cuál afirmación es correcta sobre el genotipo de los padres?",
+      "options": [
+        { "key": "A", "text": "Ambos padres eran heterocigotos." },
+        { "key": "B", "text": "El macho era heterocigoto y la hembra era homocigoto recesivo." },
+        { "key": "C", "text": "El macho era heterocigoto y la hembra era homocigoto dominante." },
+        { "key": "D", "text": "Ambos padres eran homocigotos dominantes." }
+      ],
+      "answer": "A",
+      "tip": "Una proporción 3:1 en la descendencia es la \"huella\" clásica de un cruce genético. Recuerda el cruce Aa × Aa (heterocigoto por heterocigoto) en un cuadro de Punnett: ¿qué proporción de descendientes dominantes y recesivos produce?",
+      "explanation": "La proporción 3/4 dominante : 1/4 recesivo es exactamente el resultado clásico de cruzar dos individuos heterocigotos (Aa × Aa): el cuadro de Punnett da 1 AA : 2 Aa : 1 aa, es decir, 3/4 con el rasgo dominante (cuello largo) y 1/4 con el recesivo (cuello corto). Por eso, ambos padres, aunque de cuello largo, debían ser heterocigotos (portadores del alelo recesivo)."
+    },
+    {
+      "id": "cn01-q19",
+      "stem": "Al agitar una cuerda extendida horizontalmente, cada sección de la cuerda se mueve de arriba abajo en dirección perpendicular a la dirección de propagación de la onda generada; este es un ejemplo de una onda transversal. En contraste, en una onda longitudinal, las partículas del medio vibran en la MISMA dirección de propagación de la onda. Un grupo de personas quiere representar una onda longitudinal formando una fila (la fila representa el medio de propagación y las personas representan las partículas del medio). Para lograr la representación, ¿cuál es el movimiento que debe hacer la primera persona y que las demás deben repetir sucesivamente?",
+      "options": [
+        { "key": "A", "text": "Alzar y bajar lateralmente los brazos." },
+        { "key": "B", "text": "Sentarse y ponerse de pie." },
+        { "key": "C", "text": "Balancearse de izquierda a derecha." },
+        { "key": "D", "text": "Moverse hacia adelante y atrás." }
+      ],
+      "answer": "D",
+      "tip": "La onda se va a propagar A LO LARGO de la fila (hacia adelante). En una onda LONGITUDINAL, las partículas vibran en esa MISMA dirección de propagación, no perpendicular a ella.",
+      "explanation": "Como la onda se propaga a lo largo de la fila (hacia adelante), y en una onda longitudinal las partículas vibran en la misma dirección de propagación, cada persona debe moverse hacia adelante y atrás (en la dirección de la fila), no de lado a lado ni verticalmente, que corresponderían a una onda transversal."
+    },
+    {
+      "id": "cn01-q20",
+      "stem": "Unos estudiantes analizaron el agua de un río y encontraron que contenía altos niveles de cadmio y plomo, que son metales tóxicos. Al estudiar el origen de la contaminación, descubrieron que los metales provenían de filtraciones de la descomposición de pilas en un botadero de basura cercano. Los estudiantes proponen que, a futuro, se deberían separar las pilas del resto de los desechos en contenedores completamente aislados. Con base en la información anterior, ¿se puede afirmar que la propuesta de los estudiantes es apropiada o inapropiada?",
+      "options": [
+        { "key": "A", "text": "Inapropiada, porque es mejor desarmar las pilas y luego desecharlas." },
+        { "key": "B", "text": "Apropiada, porque se evitaría la presencia de metales pesados en el agua." },
+        { "key": "C", "text": "Apropiada, porque luego se podrían reutilizar las pilas desechadas." },
+        { "key": "D", "text": "Inapropiada, porque es mejor quemarlas ya que no entrarían en contacto con el agua." }
+      ],
+      "answer": "B",
+      "tip": "El problema identificado es que las pilas, al descomponerse mezcladas con la basura común, filtran metales tóxicos hacia el agua. Si se aíslan completamente en contenedores separados, ¿ese contacto con el agua (y por tanto la filtración) seguiría ocurriendo?",
+      "explanation": "Si las pilas se aíslan en contenedores separados del resto de los desechos, se evita que sus componentes tóxicos (cadmio, plomo) entren en contacto con el agua y la filtración que contamina el río. Por eso la propuesta es apropiada. Desarmarlas (A) o quemarlas (D) serían más peligrosos, no menos, y no hay indicio de que puedan reutilizarse (C)."
+    },
+    {
+      "id": "cn01-q21",
+      "stem": "El anabolismo es una forma de metabolismo que requiere energía y da como resultado la elaboración de moléculas complejas a partir de moléculas simples. Por el contrario, el catabolismo transforma moléculas complejas en moléculas simples y produce energía. La fotosíntesis en las plantas usa luz solar, agua y CO2 para producir glucosa (una molécula compleja) y oxígeno. Con base en la información anterior, ¿qué se puede afirmar?",
+      "options": [
+        { "key": "A", "text": "Que la fotosíntesis es un proceso anabólico porque produce glucosa como molécula compleja." },
+        { "key": "B", "text": "Que la fotosíntesis es un proceso catabólico porque requiere energía en forma de luz solar." },
+        { "key": "C", "text": "Que la respiración es un proceso anabólico porque produce energía en forma de ATP." },
+        { "key": "D", "text": "Que la respiración es un proceso catabólico porque produce moléculas complejas como CO2 y agua." }
+      ],
+      "answer": "A",
+      "tip": "Repasa la definición dada: el anabolismo REQUIERE energía y PRODUCE moléculas complejas a partir de simples. ¿La fotosíntesis usa energía (luz solar) para construir una molécula compleja (glucosa) a partir de moléculas simples (CO2 y agua)?",
+      "explanation": "La fotosíntesis usa energía lumínica para construir glucosa (molécula compleja) a partir de CO2 y agua (moléculas simples), lo cual encaja exactamente con la definición de anabolismo dada en el texto. La opción B confunde la definición (requerir energía es la característica del anabolismo, no del catabolismo). C y D describen mal la respiración celular: la respiración es catabólica (rompe moléculas complejas como la glucosa en moléculas simples como CO2 y agua, liberando energía), no al revés."
+    },
+    {
+      "id": "cn01-q22",
+      "stem": "Un investigador somete dos grupos de ratones a las siguientes condiciones: un grupo hace ejercicio antes del experimento, y el otro grupo no hace ejercicio antes del experimento. Él quiere evaluar la capacidad que tienen estos dos grupos de ratones de recordar un lugar, guiados por objetos ubicados en el espacio. Para esto, mete los ratones de cada grupo en un tanque con agua durante un minuto por 7 días consecutivos, para que encuentren un recipiente transparente que flota en el tanque y que está señalizado con un triángulo en la pared (el mismo triángulo, visible para ambos grupos por igual). El último día, los ratones del grupo con ejercicio ubicaron el recipiente mucho más rápido que los del grupo sin ejercicio. De acuerdo con el experimento, ¿por qué los ratones del grupo con ejercicio ubicaron tan fácilmente el recipiente?",
+      "options": [
+        { "key": "A", "text": "Porque el triángulo los guio hasta el recipiente." },
+        { "key": "B", "text": "Porque nadaron más rápido que los ratones del grupo sin ejercicio." },
+        { "key": "C", "text": "Porque permanecieron más tiempo en el tanque que los ratones del grupo sin ejercicio." },
+        { "key": "D", "text": "Porque el ejercicio mejoró su capacidad de memorizar." }
+      ],
+      "answer": "D",
+      "tip": "La única diferencia declarada entre los dos grupos es si hicieron ejercicio o no. El triángulo señalizador estaba presente y era visible IGUAL para ambos grupos, así que no puede explicar por qué un grupo encontró el recipiente más rápido que el otro. ¿Qué variable sí es diferente entre los dos grupos?",
+      "explanation": "La única variable que distingue a los dos grupos es la realización de ejercicio previo. El triángulo señalizador estaba disponible por igual para ambos grupos, así que no explica la diferencia (descarta A). El experimento evalúa memoria espacial, no velocidad de natación ni tiempo en el tanque (que tampoco se plantean como variables manipuladas). Por lo tanto, la explicación más consistente con el diseño experimental es que el ejercicio mejoró la capacidad de memorizar de esos ratones."
+    }
+  ]
+}

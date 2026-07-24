@@ -1,0 +1,272 @@
+{
+  "id": "ingles-01",
+  "area": "ingles",
+  "title": "Inglés · Test 1 (Examen 1)",
+  "source": "Cuadernillo de preguntas Inglés, Saber 11.º, Icfes (octubre 2024)",
+  "questions": [
+    {
+      "id": "ing01-q1",
+      "image": "ing01-q6-sign.png",
+      "imageAlt": "Cartel que dice: 'Draw a line to complete the snake and color it'",
+      "stem": "¿Dónde es más probable ver este aviso?",
+      "options": [
+        { "key": "A", "text": "on a rug" },
+        { "key": "B", "text": "on a test" },
+        { "key": "C", "text": "on a bookcase" }
+      ],
+      "answer": "B",
+      "tip": "El aviso le pide al lector que dibuje una línea y coloree una serpiente: es una instrucción típica de un ejercicio o actividad, no algo relacionado con un objeto para sentarse ni con un mueble.",
+      "explanation": "\"On a test\" (en un examen) es el lugar más lógico: dibujar y colorear una serpiente para \"completarla\" es un típico ejercicio de examen o guía de actividades, no algo que se encontraría sobre una alfombra o un librero."
+    },
+    {
+      "id": "ing01-q2",
+      "stem": "Complete la conversación: \"Grandma, shall I hold those bags for you?\"",
+      "options": [
+        { "key": "A", "text": "I'm not afraid!" },
+        { "key": "B", "text": "Where are you?" },
+        { "key": "C", "text": "That's fine." }
+      ],
+      "answer": "C",
+      "tip": "Es un ofrecimiento de ayuda (\"¿te ayudo con las bolsas?\"). Busca la respuesta que acepte o agradezca cortésmente ese ofrecimiento.",
+      "explanation": "\"That's fine\" es una forma natural de aceptar o responder amablemente a un ofrecimiento de ayuda. Las otras opciones no tienen relación lógica con un ofrecimiento de cargar bolsas."
+    },
+    {
+      "id": "ing01-q3",
+      "stem": "Complete la conversación: \"How much is that umbrella?\"",
+      "options": [
+        { "key": "A", "text": "Anything else?" },
+        { "key": "B", "text": "50 dollars." },
+        { "key": "C", "text": "Cash only!" }
+      ],
+      "answer": "B",
+      "tip": "Es una pregunta sobre el PRECIO de algo (\"how much\"). Busca la opción que responda con un valor en dinero.",
+      "explanation": "La pregunta \"How much is...?\" pide un precio, y \"50 dollars\" es la única opción que responde directamente con un valor monetario."
+    },
+    {
+      "id": "ing01-q4",
+      "contextId": "coffee",
+      "context": "COFFEE\n\nCoffee is popular around the world. (0) Over the past centuries, few subjects have been as carefully studied as coffee. Its (9) ___ important component is caffeine and it has lots of benefits.\n\nCoffee has been well-known (10) ___ the beginning of the 14th century, (11) ___ Sufi Yemenis started using coffee to stay alert during special activities. It became a popular medicine (12) ___ Europeans in the 1600s.\n\nCaffeine was first (13) ___ in the 1800s by Ferdinand Runge, a doctor that found out some effects of coffee on people.\n\nSome people say (14) ___ coffee isn't good, but doctors say you (15) ___ believe this. Thanks to caffeine you don't get hungry. Coffee can also reduce headaches and blood problems.\n\n(16) ___ many people believe coffee is bad, studies show it is good for your heart.",
+      "stem": "Elige la palabra correcta para el espacio (9): \"Its (9) ___ important component is caffeine\"",
+      "options": [
+        { "key": "A", "text": "much" },
+        { "key": "B", "text": "more" },
+        { "key": "C", "text": "most" }
+      ],
+      "answer": "C",
+      "tip": "Se habla de UN solo componente que destaca por encima de todos los demás (\"el componente MÁS importante\"). ¿Qué forma del adjetivo se usa para expresar eso: comparativa o superlativa?",
+      "explanation": "\"Most important\" es el superlativo, correcto aquí porque se habla del componente más importante del café entre varios (una cualidad que sobresale sobre las demás), no de una comparación entre solo dos cosas (\"more\") ni de cantidad (\"much\")."
+    },
+    {
+      "id": "ing01-q5",
+      "contextId": "coffee",
+      "stem": "Elige la palabra correcta para el espacio (10): \"Coffee has been well-known (10) ___ the beginning of the 14th century\"",
+      "options": [
+        { "key": "A", "text": "during" },
+        { "key": "B", "text": "until" },
+        { "key": "C", "text": "since" }
+      ],
+      "answer": "C",
+      "tip": "\"Since\" se usa para indicar el PUNTO DE INICIO de algo que continúa hasta ahora (\"conocido desde el siglo XIV\"). \"During\" indica un periodo específico, y \"until\" indica un límite final.",
+      "explanation": "\"Since\" es correcto porque introduce el punto de partida de un estado que continúa en el presente (\"bien conocido desde el comienzo del siglo XIV\"). \"During\" se usaría para un periodo puntual, y \"until\" indicaría cuándo algo terminó, lo cual no aplica aquí."
+    },
+    {
+      "id": "ing01-q6",
+      "contextId": "coffee",
+      "stem": "Elige la palabra correcta para el espacio (11): \"(11) ___ Sufi Yemenis started using coffee to stay alert\"",
+      "options": [
+        { "key": "A", "text": "when" },
+        { "key": "B", "text": "which" },
+        { "key": "C", "text": "who" }
+      ],
+      "answer": "A",
+      "tip": "La frase conecta un momento en el tiempo (\"comienzo del siglo XIV\") con una explicación de qué pasó EN ese momento. ¿Qué palabra conecta un momento en el tiempo con una oración explicativa?",
+      "explanation": "\"When\" es correcto porque conecta la referencia temporal (comienzo del siglo XIV) con la explicación de qué ocurrió en ese momento. \"Which\" y \"who\" se usan para referirse a cosas o personas, no para introducir una cláusula de tiempo así."
+    },
+    {
+      "id": "ing01-q7",
+      "contextId": "coffee",
+      "stem": "Elige la palabra correcta para el espacio (12): \"It became a popular medicine (12) ___ Europeans in the 1600s\"",
+      "options": [
+        { "key": "A", "text": "among" },
+        { "key": "B", "text": "about" },
+        { "key": "C", "text": "along" }
+      ],
+      "answer": "A",
+      "tip": "Se habla de que el café se hizo popular ENTRE o DENTRO de un grupo de personas (los europeos). ¿Cuál preposición significa \"entre un grupo\"?",
+      "explanation": "\"Among\" significa \"entre\" un grupo de personas o cosas, que es el sentido correcto aquí (\"popular entre los europeos\"). \"About\" significa \"acerca de\" y \"along\" significa \"a lo largo de\"; ninguna encaja en este contexto."
+    },
+    {
+      "id": "ing01-q8",
+      "contextId": "coffee",
+      "stem": "Elige la palabra correcta para el espacio (13): \"Caffeine was first (13) ___ in the 1800s by Ferdinand Runge\"",
+      "options": [
+        { "key": "A", "text": "describe" },
+        { "key": "B", "text": "described" },
+        { "key": "C", "text": "describes" }
+      ],
+      "answer": "B",
+      "tip": "La estructura es \"was first ___\": es una construcción pasiva (algo LE FUE hecho a la cafeína). ¿Qué forma del verbo se usa después de \"was\" en voz pasiva?",
+      "explanation": "En voz pasiva se usa \"was/were\" + participio pasado. \"Was first described\" significa \"fue descrita por primera vez\", que es la forma correcta aquí, ya que la cafeína es el sujeto que recibe la acción de describir."
+    },
+    {
+      "id": "ing01-q9",
+      "contextId": "coffee",
+      "stem": "Elige la palabra correcta para el espacio (14): \"Some people say (14) ___ coffee isn't good\"",
+      "options": [
+        { "key": "A", "text": "drink" },
+        { "key": "B", "text": "drinking" },
+        { "key": "C", "text": "drunk" }
+      ],
+      "answer": "B",
+      "tip": "La palabra que falta funciona como sujeto de la oración incrustada (\"___ café no es bueno\"). Cuando un verbo funciona como sujeto en inglés, generalmente toma la forma -ing (gerundio).",
+      "explanation": "\"Drinking coffee isn't good\" usa el gerundio \"drinking\" como sujeto de la oración (equivalente a decir \"tomar café no es bueno\"). \"Drink\" es el verbo base y \"drunk\" es el participio pasado; ninguno funciona como sujeto aquí."
+    },
+    {
+      "id": "ing01-q10",
+      "contextId": "coffee",
+      "stem": "Elige la palabra correcta para el espacio (15): \"doctors say you (15) ___ believe this\"",
+      "options": [
+        { "key": "A", "text": "mustn't" },
+        { "key": "B", "text": "couldn't" },
+        { "key": "C", "text": "wouldn't" }
+      ],
+      "answer": "A",
+      "tip": "Los médicos están dando una recomendación fuerte de NO creer ese mito. ¿Cuál modal expresa una prohibición u obligación negativa fuerte (\"no debes\")?",
+      "explanation": "\"Mustn't\" expresa una prohibición u obligación negativa fuerte (\"no debes creer esto\"), que es el sentido de la oración: los médicos advierten firmemente que ese mito sobre el café no es cierto."
+    },
+    {
+      "id": "ing01-q11",
+      "contextId": "coffee",
+      "stem": "Elige la palabra correcta para el espacio (16): \"(16) ___ many people believe coffee is bad, studies show it is good for your heart\"",
+      "options": [
+        { "key": "A", "text": "While" },
+        { "key": "B", "text": "Except" },
+        { "key": "C", "text": "Because" }
+      ],
+      "answer": "A",
+      "tip": "La oración contrasta dos ideas opuestas: lo que MUCHA GENTE CREE frente a lo que LOS ESTUDIOS MUESTRAN. ¿Qué palabra se usa para introducir un contraste, como \"aunque\"?",
+      "explanation": "\"While\" aquí funciona como \"aunque\" o \"mientras que\", introduciendo un contraste entre la creencia popular y la evidencia científica. \"Because\" indicaría una causa (no un contraste), y \"except\" significa \"excepto\", que no encaja en la oración."
+    },
+    {
+      "id": "ing01-q12",
+      "contextId": "salter",
+      "context": "JAMES SALTER'S DAYS IN FILM\n\nJames Salter was a pilot in the United States Air Force. He abandoned the military profession in 1957 after the publication of his first novel, The Hunters. He is best known as a novelist, but during the sixties and seventies, he worked in film making. Salter made documentaries, wrote scripts for films, and even was the director of a film called Three, starring Charlotte Rampling and Sam Waterston.\n\nBurning the Days, a short story published in The New Yorker in 1997, where Salter tells the story of his life, was adapted into a film called Passionate Falsehoods.\n\nSalter's time in the film world is both good and bad. In Rome, he met directors and stars. In New York, he explored the city with Robert Redford and enjoyed being famous. Deborah Treisman, and Michael Agger have talked about Salter. Nick Paumgarten in The Last Book, describes Salter's opinion about his film career:\n\n\"Of sixteen scripts for movies, only four were popular. There was money, attractive women, and entrance into rooms where there were stories more for the dinner table than for the page\". Salter thought he was wasting his time.\n\nPerhaps he wasted his time in a larger artistic way, but it still makes for attractive reading. The Last Book is available to everyone in online stores.",
+      "stem": "James Salter played an important part in the making of movies",
+      "options": [
+        { "key": "A", "text": "from 1960 to 1979." },
+        { "key": "B", "text": "in 1957." },
+        { "key": "C", "text": "after 1997." }
+      ],
+      "answer": "A",
+      "tip": "Busca en el texto en qué década(s) se dice que Salter trabajó haciendo películas.",
+      "explanation": "El texto dice que \"during the sixties and seventies, he worked in film making\", es decir, trabajó en cine durante los años 60 y 70, lo cual coincide con el rango \"from 1960 to 1979\"."
+    },
+    {
+      "id": "ing01-q13",
+      "contextId": "salter",
+      "stem": "Passionate Falsehoods is",
+      "options": [
+        { "key": "A", "text": "a newspaper." },
+        { "key": "B", "text": "a play." },
+        { "key": "C", "text": "a movie." }
+      ],
+      "answer": "C",
+      "tip": "Busca la palabra \"film\" cerca de \"Passionate Falsehoods\" en el texto.",
+      "explanation": "El texto dice que Burning the Days \"was adapted into a film called Passionate Falsehoods\", es decir, es una película."
+    },
+    {
+      "id": "ing01-q14",
+      "contextId": "salter",
+      "stem": "Salter had nice and difficult times when he was",
+      "options": [
+        { "key": "A", "text": "an actor." },
+        { "key": "B", "text": "making movies." },
+        { "key": "C", "text": "in a different city." }
+      ],
+      "answer": "B",
+      "tip": "La frase clave es \"Salter's time in the film world is both good and bad\" (tuvo momentos buenos y malos). ¿A qué actividad se refiere \"film world\"?",
+      "explanation": "El texto dice explícitamente que \"Salter's time in the film world is both good and bad\" (nice and difficult = both good and bad), refiriéndose a su tiempo trabajando en el mundo del cine, es decir, haciendo películas."
+    },
+    {
+      "id": "ing01-q15",
+      "contextId": "salter",
+      "stem": "The Last Book was written by",
+      "options": [
+        { "key": "A", "text": "James Salter." },
+        { "key": "B", "text": "Deborah Treisman." },
+        { "key": "C", "text": "Nick Paumgarten." }
+      ],
+      "answer": "C",
+      "tip": "Busca quién es el autor mencionado junto al título \"The Last Book\" en el texto.",
+      "explanation": "El texto dice \"Nick Paumgarten in The Last Book, describes Salter's opinion...\", indicando que Nick Paumgarten es el autor de The Last Book."
+    },
+    {
+      "id": "ing01-q16",
+      "contextId": "salter",
+      "stem": "James Salter thinks that his work in the cinema business was",
+      "options": [
+        { "key": "A", "text": "not useful." },
+        { "key": "B", "text": "not hard." },
+        { "key": "C", "text": "not usual." }
+      ],
+      "answer": "A",
+      "tip": "Busca la frase donde se dice qué pensaba Salter sobre su propio tiempo en el cine (\"Salter thought he was...\").",
+      "explanation": "El texto dice \"Salter thought he was wasting his time\" (pensaba que estaba perdiendo el tiempo), lo cual equivale a decir que consideraba su trabajo en el cine como algo \"not useful\" (no útil)."
+    },
+    {
+      "id": "ing01-q17",
+      "contextId": "salter",
+      "stem": "Reading about James Salter's years in the cinema could be",
+      "options": [
+        { "key": "A", "text": "clever enough." },
+        { "key": "B", "text": "just fair." },
+        { "key": "C", "text": "quite interesting." }
+      ],
+      "answer": "C",
+      "tip": "Busca la frase final del texto que describe cómo es leer sobre esta parte de la vida de Salter (\"it still makes for attractive reading\").",
+      "explanation": "El texto concluye diciendo que \"it still makes for attractive reading\" (sigue siendo una lectura atractiva), lo cual equivale a decir que es \"quite interesting\" (bastante interesante)."
+    },
+    {
+      "id": "ing01-q18",
+      "contextId": "salter",
+      "stem": "The Last Book can be found",
+      "options": [
+        { "key": "A", "text": "in museums." },
+        { "key": "B", "text": "at a café." },
+        { "key": "C", "text": "on the web." }
+      ],
+      "answer": "C",
+      "tip": "Busca la última oración del texto, que dice dónde está disponible el libro.",
+      "explanation": "El texto termina diciendo \"The Last Book is available to everyone in online stores\" (está disponible en tiendas en línea), es decir, se puede encontrar en internet (\"on the web\")."
+    },
+    {
+      "id": "ing01-q19",
+      "context": "SWIFT PIZZA AND SANDWICH HOUSE\n\nToday we have the pleasure of showing you the best letter written by our customer Mark. He wins £25 for writing about us this week. He is so happy with the orders at Swift Pizza and Sandwich House that he wants to declare a holiday to celebrate his experience here: \"Happy burgerday and Merry Sandwichmas to everyone!\" he wrote.\n\nWednesday May 18, 2011.\n\nOne typical day I was too tired after working all day long to cook for myself, and I was very hungry. I really wanted something to eat, so I decided to find a burger.\n\nI ordered a half-pound burger and a lamb and chicken sandwich. I also had some special requests about extra cheese and vegetables.\n\nFood arrived very fast (less than twenty minutes) and was hot and fresh. The burger was delicious, and left me wanting more - fortunately I had the sandwich left. It felt as if it was cut just a minute before I opened it - juicy, fresh, and great.\n\nEvery single special request I made was completely satisfied, 100%!\n\nAnd the best thing was that all of the above and some drinks cost me ONLY 10 dollars! If that doesn't say value for money, I don't know what it does.\n\nIt certainly feels great to find new excellent food delivery companies for whenever you don't feel like cooking yourself. I recently had a sad experience with my usual take away restaurant, so I decided to change to something else - and on my first try I got what I wanted!\n\nOrder now from Swift Pizza and Sandwich House.\n\nMark",
+      "contextId": "swift-pizza",
+      "stem": "According to the text, the customer",
+      "options": [
+        { "key": "A", "text": "left a £25 tip to the waiters who work there." },
+        { "key": "B", "text": "celebrated Christmas and New Year at this restaurant." },
+        { "key": "C", "text": "found this great restaurant after many attempts." },
+        { "key": "D", "text": "posted an excellent review about this restaurant." }
+      ],
+      "answer": "D",
+      "tip": "Todo el texto ES la carta/reseña que escribió un cliente satisfecho. Fíjate: ¿ganó dinero por escribir sobre el restaurante, o por dejar propina? ¿La expresión \"Happy burgerday and Merry Sandwichmas\" significa que celebró la Navidad real ahí, o es solo una forma alegre de hablar sobre la comida?",
+      "explanation": "El texto es la carta ganadora de un cliente que escribió sobre su experiencia en el restaurante (\"the best letter written by our customer... he wins £25 for writing about us\"), es decir, publicó una excelente reseña. No dejó propina (A), no celebró la Navidad literalmente ahí (B es un juego de palabras, no un hecho real), y encontró el restaurante en su PRIMER intento, no después de muchos intentos (descarta C: \"on my first try I got what I wanted\")."
+    },
+    {
+      "id": "ing01-q20",
+      "contextId": "swift-pizza",
+      "stem": "It can be inferred from the text that Mark",
+      "options": [
+        { "key": "A", "text": "does not like cooking food for himself." },
+        { "key": "B", "text": "almost always eats hamburgers." },
+        { "key": "C", "text": "enjoys eating fast food sometimes." },
+        { "key": "D", "text": "is tired of going to restaurants." }
+      ],
+      "answer": "C",
+      "tip": "Cuidado con las inferencias exageradas: el texto dice que un día estaba muy cansado para cocinar, no que odie cocinar siempre. Busca la opción más moderada y respaldada por todo el texto.",
+      "explanation": "El texto solo describe una ocasión en la que Mark, cansado, decidió pedir comida rápida y la disfrutó mucho. Eso permite inferir que disfruta la comida rápida a veces, no que odie cocinar siempre (A, muy fuerte), ni que coma hamburguesas casi siempre (B, un solo pedido no lo prueba), ni que esté cansado de los restaurantes (D, es lo contrario: encontró uno nuevo que le encantó)."
+    }
+  ]
+}

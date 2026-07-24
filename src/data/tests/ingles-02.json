@@ -1,0 +1,284 @@
+{
+  "id": "ingles-02",
+  "area": "ingles",
+  "title": "Inglés · Test 2 (Examen 2)",
+  "source": "Cuadernillo de preguntas Inglés, Saber 11.º, Icfes (octubre 2024)",
+  "questions": [
+    {
+      "id": "ing02-q1",
+      "stem": "¿Dónde es más probable ver este aviso? \"How's my driving? Phone: 0152067\" (un adhesivo típico que pide llamar para reportar cómo conduce el vehículo).",
+      "options": [
+        { "key": "A", "text": "on a plane" },
+        { "key": "B", "text": "on a bus" },
+        { "key": "C", "text": "on a boat" }
+      ],
+      "answer": "B",
+      "tip": "Este tipo de aviso (\"¿cómo estoy conduciendo? llame a este número\") es un adhesivo clásico que se pega en la parte trasera de vehículos de transporte terrestre, para que otros conductores reporten quejas.",
+      "explanation": "Los avisos de \"How's my driving?\" con un número de teléfono son adhesivos comunes en la parte trasera de buses y camiones, para que otros conductores puedan reportar un mal manejo. Por eso es más probable verlo en un bus, no en un avión ni en un bote."
+    },
+    {
+      "id": "ing02-q2",
+      "stem": "¿Dónde es más probable ver este aviso? \"New Toys: Green monsters, angry dolls, and black helicopters\"",
+      "options": [
+        { "key": "A", "text": "in a house" },
+        { "key": "B", "text": "in a shop" },
+        { "key": "C", "text": "in a zoo" }
+      ],
+      "answer": "B",
+      "tip": "El aviso anuncia \"New Toys\" (juguetes nuevos) con nombres llamativos, como haría un anuncio comercial.",
+      "explanation": "\"New Toys\" (juguetes nuevos) es un anuncio típico de una tienda que vende juguetes, no de una casa particular ni de un zoológico."
+    },
+    {
+      "id": "ing02-q3",
+      "stem": "¿Dónde es más probable ver este aviso? \"Please, take the one you want to read\"",
+      "options": [
+        { "key": "A", "text": "on a stool" },
+        { "key": "B", "text": "on a computer" },
+        { "key": "C", "text": "on a bookshelf" }
+      ],
+      "answer": "C",
+      "tip": "El aviso invita a \"tomar el que quieras leer\": está hablando de algo que se puede leer y que hay varias opciones para elegir.",
+      "explanation": "\"Take the one you want to read\" (toma el que quieras leer) tiene sentido junto a una colección de libros o revistas para elegir, es decir, en un librero (bookshelf), no en un banco (stool) ni en un computador."
+    },
+    {
+      "id": "ing02-q4",
+      "stem": "Complete la conversación: \"I can't eat a cold sandwich. It is horrible!\"",
+      "options": [
+        { "key": "A", "text": "I hope so." },
+        { "key": "B", "text": "I agree." },
+        { "key": "C", "text": "I am not." }
+      ],
+      "answer": "B",
+      "tip": "La persona está expresando una opinión fuerte (\"es horrible\"). Busca la respuesta que muestre estar de acuerdo con esa opinión.",
+      "explanation": "\"I agree\" (estoy de acuerdo) es la respuesta natural para mostrar que se comparte la opinión de que un sándwich frío es horrible. Las otras opciones no tienen sentido lógico en este contexto."
+    },
+    {
+      "id": "ing02-q5",
+      "stem": "Complete la conversación: \"I am going on vacation to Vancouver!\"",
+      "options": [
+        { "key": "A", "text": "That's great!" },
+        { "key": "B", "text": "I like swimming!" },
+        { "key": "C", "text": "You are first!" }
+      ],
+      "answer": "A",
+      "tip": "Alguien comparte una buena noticia (unas vacaciones). Busca la respuesta que sea una reacción entusiasta apropiada para ese tipo de anuncio.",
+      "explanation": "\"That's great!\" es la reacción natural y entusiasta ante la noticia de que alguien se va de vacaciones. Las otras respuestas no encajan como reacción a ese anuncio."
+    },
+    {
+      "id": "ing02-q6",
+      "stem": "Complete la conversación: \"It rained a lot last night!\"",
+      "options": [
+        { "key": "A", "text": "Did you accept?" },
+        { "key": "B", "text": "Did you understand?" },
+        { "key": "C", "text": "Did you sleep?" }
+      ],
+      "answer": "C",
+      "tip": "Piensa en cómo la lluvia intensa durante la noche podría afectar directamente a la otra persona (por ejemplo, el ruido de la lluvia).",
+      "explanation": "\"Did you sleep?\" es una pregunta de seguimiento natural, ya que la lluvia fuerte durante la noche puede afectar el sueño de alguien (por el ruido). Las otras preguntas no tienen relación lógica con el comentario sobre la lluvia."
+    },
+    {
+      "id": "ing02-q7",
+      "contextId": "ethiopian-wolf",
+      "context": "THE ETHIOPIAN WOLF\n\nIt is an African animal, which is called the Simien Jackal. Some scientists have said it is not a real wolf. But studies show that its close relationship to grey wolves and coyotes is evident. These Ethiopian wolves are more similar to grey wolves and coyotes than any other African canines.\n\nScientists also believe there are about 450 of them living in wild conditions. The largest group of Ethiopian wolves lives in the Bale Mountains National Park.\n\nThe Ethiopian wolf has a special red coat with a white part in the front of the body. It is 1,1 to 1,4 meters in size. By nature, the Ethiopian wolf looks for food by day, but it is sometimes nocturnal in areas where other animals may hunt it.",
+      "stem": "Elige la palabra correcta para el espacio: \"Some scientists have ___ it is not a real wolf.\"",
+      "options": [
+        { "key": "A", "text": "saying" },
+        { "key": "B", "text": "said" },
+        { "key": "C", "text": "say" }
+      ],
+      "answer": "B",
+      "tip": "Después de \"have\" (presente perfecto), el verbo va en participio pasado.",
+      "explanation": "La estructura \"have + participio pasado\" forma el presente perfecto (\"have said\" = \"han dicho\"). \"Saying\" sería gerundio y \"say\" es la forma base; ninguna encaja después de \"have\"."
+    },
+    {
+      "id": "ing02-q8",
+      "contextId": "ethiopian-wolf",
+      "stem": "Elige la palabra correcta para el espacio: \"studies show that ___ close relationship to grey wolves and coyotes is evident.\"",
+      "options": [
+        { "key": "A", "text": "its" },
+        { "key": "B", "text": "his" },
+        { "key": "C", "text": "your" }
+      ],
+      "answer": "A",
+      "tip": "Se habla de un animal (el lobo etíope), no de una persona. El posesivo para un animal u objeto (\"de él/ella\", refiriéndose a algo no humano) en inglés es \"its\".",
+      "explanation": "\"Its\" es el pronombre posesivo correcto para referirse a un animal (\"su relación cercana\", es decir, la relación del lobo etíope). \"His\" se usaría para una persona o animal específicamente masculino ya mencionado como tal, y \"your\" significa \"tu/su\" (de quien lee), lo cual no aplica aquí."
+    },
+    {
+      "id": "ing02-q9",
+      "contextId": "ethiopian-wolf",
+      "stem": "Elige la palabra correcta para el espacio: \"___ Ethiopian wolves are more similar to grey wolves and coyotes than any other African canines.\"",
+      "options": [
+        { "key": "A", "text": "This" },
+        { "key": "B", "text": "That" },
+        { "key": "C", "text": "These" }
+      ],
+      "answer": "C",
+      "tip": "La palabra que falta debe concordar en número con \"Ethiopian wolves\" (plural). ¿Cuál de las tres opciones es la forma plural de \"this/that\"?",
+      "explanation": "\"These\" es la forma plural de \"this\", y concuerda correctamente con el sustantivo plural \"Ethiopian wolves\" que le sigue. \"This\" y \"that\" son formas singulares y no concuerdan gramaticalmente con un sustantivo plural."
+    },
+    {
+      "id": "ing02-q10",
+      "contextId": "ethiopian-wolf",
+      "stem": "Elige la palabra correcta para el espacio: \"Scientists also believe there are about 450 of them living in wild conditions. The ___ group of Ethiopian wolves lives in the Bale Mountains National Park.\"",
+      "options": [
+        { "key": "A", "text": "larger" },
+        { "key": "B", "text": "largest" },
+        { "key": "C", "text": "large" }
+      ],
+      "answer": "B",
+      "tip": "Se habla de UN grupo que se destaca por encima de todos los demás grupos de lobos etíopes (el más grande de todos), no de una comparación entre solo dos grupos.",
+      "explanation": "\"Largest\" es el superlativo (\"el más grande\"), correcto aquí porque se refiere al grupo más numeroso entre varios grupos de lobos etíopes. \"Larger\" es comparativo (se usa para comparar dos cosas) y \"large\" es la forma simple del adjetivo, sin comparación."
+    },
+    {
+      "id": "ing02-q11",
+      "contextId": "ethiopian-wolf",
+      "stem": "Elige la palabra correcta para el espacio: \"The largest group of Ethiopian wolves lives ___ the Bale Mountains National Park.\"",
+      "options": [
+        { "key": "A", "text": "in" },
+        { "key": "B", "text": "along" },
+        { "key": "C", "text": "on" }
+      ],
+      "answer": "A",
+      "tip": "Para decir que algo vive DENTRO de un área o parque, ¿qué preposición de lugar se usa en inglés?",
+      "explanation": "\"In\" es la preposición correcta para indicar que algo vive dentro de un lugar delimitado, como un parque nacional (\"lives in the Bale Mountains National Park\"). \"Along\" significa \"a lo largo de\" y \"on\" se usa para superficies, ninguna encaja aquí."
+    },
+    {
+      "id": "ing02-q12",
+      "contextId": "artistic-adventure",
+      "context": "MY ARTISTIC ADVENTURE\n\nWhen I was a child in Ireland, I went to bed late, and I could not sleep past six. One morning, I found a Spanish television show with a French man who was painting a beautiful countryside with oil paints.\n\nRight then, I began watching this show. With his quiet voice he explained his natural way of painting, and he quickly made trees and rivers, simply by moving his hand across the canvas. He made it look simple and easy, so I thought I could do it by myself.\n\nEvery Sunday morning, I would try to paint what he was painting on the screen, but I needed oil paints to make my paintings as beautiful as his. I could not buy oil paints; I was only seven, and my parents would not buy them for me. Then I decided to use my mother's cosmetics and paper for my painting. I was ready to paint my first picture.\n\nAfter my mum saw what I did with her things, I was told I could not paint again. This put an end to my idea of using food the next time to make a picture. After a while, I stopped watching the French painter. This put an end to my dream of becoming an artist.",
+      "stem": "Where was the painter from?",
+      "options": [
+        { "key": "A", "text": "Ireland" },
+        { "key": "B", "text": "Spain" },
+        { "key": "C", "text": "France" }
+      ],
+      "answer": "C",
+      "tip": "Busca en el texto la nacionalidad del pintor mencionado (\"a French man who was painting...\").",
+      "explanation": "El texto dice explícitamente \"a French man who was painting a beautiful countryside\": el pintor era francés."
+    },
+    {
+      "id": "ing02-q13",
+      "contextId": "artistic-adventure",
+      "stem": "She was mostly excited by the",
+      "options": [
+        { "key": "A", "text": "painter's ability." },
+        { "key": "B", "text": "painter's voice." },
+        { "key": "C", "text": "painter's show." }
+      ],
+      "answer": "A",
+      "tip": "Busca lo que más impresionó a la narradora sobre el pintor: ¿su forma de hablar, el programa en sí, o su habilidad para pintar rápido y fácil?",
+      "explanation": "El texto describe cómo el pintor \"quickly made trees and rivers, simply by moving his hand across the canvas. He made it look simple and easy\", lo que muestra que lo que más impresionó a la narradora fue su habilidad (ability) para pintar."
+    },
+    {
+      "id": "ing02-q14",
+      "contextId": "artistic-adventure",
+      "stem": "How often did she watch the show?",
+      "options": [
+        { "key": "A", "text": "three times a week" },
+        { "key": "B", "text": "once a week" },
+        { "key": "C", "text": "twice a week" }
+      ],
+      "answer": "B",
+      "tip": "Busca la frase que indica con qué frecuencia veía el programa (\"Every Sunday morning...\").",
+      "explanation": "El texto dice \"Every Sunday morning, I would try to paint...\", es decir, veía el programa los domingos, una vez por semana (once a week)."
+    },
+    {
+      "id": "ing02-q15",
+      "contextId": "artistic-adventure",
+      "stem": "She could not get oil paints because she",
+      "options": [
+        { "key": "A", "text": "didn't speak Spanish." },
+        { "key": "B", "text": "was too young." },
+        { "key": "C", "text": "always watched TV." }
+      ],
+      "answer": "B",
+      "tip": "Busca la razón explícita que da el texto para no poder comprar pinturas al óleo (\"I could not buy oil paints; I was only seven...\").",
+      "explanation": "El texto explica: \"I could not buy oil paints; I was only seven, and my parents would not buy them for me\", es decir, no podía comprarlas porque era muy joven (solo tenía siete años)."
+    },
+    {
+      "id": "ing02-q16",
+      "contextId": "artistic-adventure",
+      "stem": "Stopping painting was",
+      "options": [
+        { "key": "A", "text": "the painter's idea." },
+        { "key": "B", "text": "her mother's order." },
+        { "key": "C", "text": "her own decision." }
+      ],
+      "answer": "B",
+      "tip": "Busca qué pasó después de que la mamá viera lo que la niña había hecho con sus cosméticos (\"I was told I could not paint again\").",
+      "explanation": "El texto dice: \"After my mum saw what I did with her things, I was told I could not paint again\", es decir, fue la madre quien le ordenó dejar de pintar, no una decisión propia ni del pintor francés."
+    },
+    {
+      "id": "ing02-q17",
+      "context": "JONATHAN'S TRIP TO COLOMBIA\n\nI went to Colombia last summer. My journey began on the Caribbean coast and ended on the border with Ecuador. Colombia is a splendid country, extremely diverse and full of wonderful people. I will tell you why.\n\nIn South Colombia there is a city called Pereira, just outside you can find an area where you will see the farm Villa María - a hidden paradise that takes a long time to get to. It is a working coffee farm located in the middle of a valley. Coffee and plantain grow as far as the eye can see. The farm is made up of the house and the processing plant. The family business hosts guests at the house for just $45.000 a night. This includes three home-cooked meals a day, a swimming pool, and as much coffee as you can drink. The scene is quite unbelievable. Bamboo chairs rest on the corners of the Villa, mangos hang from the trees and parrots and birds fly wild.\n\nA wonderful man named Hector who runs the farm is happy to show guests around the coffee processing plant. By day, the only sounds are of the horses coming down the valley side carrying food. By night, the wildlife comes alive, and depending on the time of the year thunderstorms offer a spectacular light show. For those who wish to escape, Villa María is the answer.\n\nThis is just one attraction of many in Colombia. I could write pages on the country and not get bored. I graduate next year and I can't wait to return to this beautiful country. Some of you reading this may feel inspired to do the same.",
+      "contextId": "jonathan-trip",
+      "stem": "What is the writer trying to do in this article?",
+      "options": [
+        { "key": "A", "text": "encouraging tourists to visit Colombia." },
+        { "key": "B", "text": "convincing people to buy a Colombian coffee farm." },
+        { "key": "C", "text": "telling readers to run a coffee business in Colombia." },
+        { "key": "D", "text": "inviting tourists to write about places they visit in Colombia." }
+      ],
+      "answer": "A",
+      "tip": "Fíjate en el tono entusiasta del texto y, sobre todo, en la última frase: \"Some of you reading this may feel inspired to do the same\" (visitar Colombia). ¿Ese cierre busca vender una finca, invitar a escribir, o animar a los lectores a viajar?",
+      "explanation": "El texto describe con entusiasmo las bellezas de Colombia y la experiencia en la finca cafetera, y cierra invitando al lector a sentirse \"inspirado a hacer lo mismo\" (visitar el país). El propósito general es animar a los turistas a visitar Colombia, no vender la finca (B) ni pedir que se escriban artículos (D)."
+    },
+    {
+      "id": "ing02-q18",
+      "contextId": "valentines-day",
+      "context": "VALENTINE'S DAY\n\nDo you know what happens on February 14th every year? Many people exchange gifts, chocolates, cards, and flowers. This is done to celebrate Valentine's Day. It's always a lot of fun to get a card or some chocolates, but why do we do this? There is a lot of mystery about this day.\n\nOne of the stories says that the original Valentine was a priest. It is said that the king, Claudius II, had forbidden marriage because he thought that only unmarried men made the best soldiers. However, Valentine continued to hold weddings for a lot of young couples in secret. When the King found out, he ordered soldiers to kill Valentine!\n\nValentine's Day is now the second biggest holiday for cards and gifts. Women buy almost 90% of the cards, but gentlemen still buy the most chocolates and flowers to give as a Valentine's Day present.",
+      "stem": "Elige la palabra correcta para el espacio: \"It's always a lot of fun to get a card or some chocolates, but ___ do we do this?\"",
+      "options": [
+        { "key": "A", "text": "where" },
+        { "key": "B", "text": "why" },
+        { "key": "C", "text": "when" },
+        { "key": "D", "text": "what" }
+      ],
+      "answer": "B",
+      "tip": "La siguiente oración dice \"There is a lot of mystery about this day\" (hay mucho misterio sobre el motivo/origen de este día). ¿Qué palabra pregunta por una razón o motivo?",
+      "explanation": "\"Why\" pregunta por la razón o el motivo, lo cual encaja con la idea de que hay \"mucho misterio\" sobre el origen de la celebración. \"Where\", \"when\" y \"what\" preguntan por lugar, tiempo y cosa, no por motivo."
+    },
+    {
+      "id": "ing02-q19",
+      "contextId": "valentines-day",
+      "stem": "Elige la palabra correcta para el espacio: \"One of the ___ says that the original Valentine was a priest.\"",
+      "options": [
+        { "key": "A", "text": "essays" },
+        { "key": "B", "text": "stories" },
+        { "key": "C", "text": "reports" },
+        { "key": "D", "text": "letters" }
+      ],
+      "answer": "B",
+      "tip": "El párrafo anterior dice que \"hay mucho misterio\" sobre el origen de esta celebración, y lo que sigue es una narración legendaria (no un ensayo académico ni un reporte oficial). ¿Qué palabra encaja con una explicación de tipo legendario o tradicional?",
+      "explanation": "\"Stories\" (historias, relatos) encaja con el tono legendario y algo incierto (\"mystery\") con el que se presenta el origen de Valentine's Day. \"Essays\" (ensayos) y \"reports\" (reportes) sugieren un tono más formal/académico que no corresponde a una leyenda popular."
+    },
+    {
+      "id": "ing02-q20",
+      "contextId": "valentines-day",
+      "stem": "Elige la palabra correcta para el espacio: \"However, Valentine continued to hold weddings for a lot of young couples in secret. When the King found ___, he ordered soldiers to kill Valentine!\"",
+      "options": [
+        { "key": "A", "text": "off" },
+        { "key": "B", "text": "in" },
+        { "key": "C", "text": "at" },
+        { "key": "D", "text": "out" }
+      ],
+      "answer": "D",
+      "tip": "\"Find out\" es una expresión (phrasal verb) que significa \"descubrir\" o \"enterarse\". El rey se ENTERÓ de que Valentine seguía casando parejas en secreto.",
+      "explanation": "\"Find out\" es el phrasal verb que significa \"descubrir\" o \"enterarse de algo\". El rey se enteró de que Valentine seguía casando parejas en secreto, por eso ordenó matarlo."
+    },
+    {
+      "id": "ing02-q21",
+      "contextId": "valentines-day",
+      "stem": "Elige la palabra correcta para el espacio: \"Women buy ___ 90% of the cards, but gentlemen still buy the most chocolates and flowers.\"",
+      "options": [
+        { "key": "A", "text": "almost" },
+        { "key": "B", "text": "only" },
+        { "key": "C", "text": "hardly" },
+        { "key": "D", "text": "just" }
+      ],
+      "answer": "A",
+      "tip": "El dato es una cifra MUY alta y cercana al total (90%), no una cifra baja. Busca la palabra que signifique \"casi\" (cerca de, pero sin llegar exactamente a esa cifra).",
+      "explanation": "\"Almost\" significa \"casi\", lo cual encaja con una cifra alta como \"90% de las tarjetas\" (casi la totalidad). \"Hardly\" significa \"apenas\" (sugiere una cantidad pequeña, lo opuesto), y aunque \"only\" y \"just\" son gramaticalmente posibles, no comunican tan bien la idea de \"cerca del total\" que \"almost\" transmite con este porcentaje tan alto."
+    }
+  ]
+}

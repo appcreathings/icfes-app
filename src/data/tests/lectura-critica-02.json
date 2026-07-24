@@ -1,0 +1,325 @@
+{
+  "id": "lectura-critica-02",
+  "area": "lectura-critica",
+  "title": "Lectura Crítica · Test 2",
+  "source": "Cuadernillo de preguntas Lectura Crítica, Saber 11.º, Icfes (febrero 2026)",
+  "questions": [
+    {
+      "id": "lc02-q1",
+      "contextId": "historia-arte",
+      "context": "La historia del arte\n\nA mucha gente le gusta ver en los cuadros lo que también le gustaría ver en la realidad. Se trata de una preferencia perfectamente comprensible. A todos nos atrae lo bello en la naturaleza y agradecemos a los artistas que lo recojan en sus obras. Esos mismos artistas no nos censurarían por nuestros gustos. Cuando el gran artista flamenco Rubens dibujó a su hijo, estaba orgulloso de sus agradables acciones y deseaba que también nosotros admiráramos al pequeño. Pero esta inclinación a los temas bonitos y atractivos puede convertirse en nociva si nos conduce a rechazar obras que representan asuntos menos agradables. El gran pintor alemán Alberto Durero seguramente dibujó a su madre con tanta devoción y cariño como Rubens a su hijo. Su verista estudio de la vejez y la decrepitud puede producirnos tan viva impresión que nos haga apartar los ojos de él y, sin embargo, si reaccionamos contra esta primera aversión, quedaremos recompensados con creces, pues el dibujo de Durero, en su tremenda sinceridad, es una gran obra. En efecto, de pronto descubrimos que la hermosura de un cuadro no reside realmente en la belleza de su tema. No sé si los golfillos que el pintor español Murillo se complacía en pintar eran estrictamente bellos o no, pero tal como fueron pintados por él, poseen desde luego gran encanto.\n\nTomado de: Gombrich, E. H. (2003). La historia del arte. Madrid: Random House Mondadori.",
+      "stem": "¿Cuál de los siguientes títulos podría ser el más adecuado para el texto anterior?",
+      "options": [
+        { "key": "A", "text": "En defensa del mal gusto en el arte." },
+        { "key": "B", "text": "El arte como modelo de la realidad." },
+        { "key": "C", "text": "La representación de la belleza en el arte." },
+        { "key": "D", "text": "Rubens, Durero y Murillo: el arte de la pintura." }
+      ],
+      "answer": "C",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "El texto cierra con una idea central: \"la hermosura de un cuadro no reside realmente en la belleza de su tema\". Busca el título que capture esa reflexión general sobre qué hace bello a un cuadro, sin quedarte en los nombres propios de los pintores mencionados.",
+      "explanation": "El hilo conductor del texto es reflexionar sobre en qué consiste realmente la belleza de una obra de arte (concluyendo que no depende del tema representado, sino de cómo está hecha). \"La representación de la belleza en el arte\" resume ese eje temático. Un título centrado solo en los tres pintores (D) se queda en el detalle, no en la idea general."
+    },
+    {
+      "id": "lc02-q2",
+      "contextId": "anillo-giges",
+      "context": "El Anillo de Giges: La Naturaleza de la Justicia\n\nNadie es justo por voluntad sino porque no tiene el poder de cometer injusticias. Esto lo percibiremos mejor si nos imaginamos las cosas del siguiente modo: demos tanto al justo como al injusto el poder de hacer lo que cada uno de ellos quiere, y a continuación sigámoslos para observar hasta dónde lo lleva a cada uno el deseo. Entonces sorprenderemos al justo tomando el mismo camino que el injusto, siguiendo sus propios intereses, lo que toda criatura persigue por naturaleza como un bien, pero que la fuerza de la ley obliga a seguir el camino del respeto por la igualdad.\n\nEl poder del que hablo sería efectivo al máximo si aquellos hombres adquirieran una fuerza tal como la que se dice que cierta vez tuvo Giges, el antepasado del lidio. Giges era un pastor que servía al entonces rey de Lidia. Un día sobrevino una gran tormenta y un terremoto que rasgó la tierra y produjo un abismo en el lugar en que Giges llevaba el ganado a pastorear. Asombrado al ver esto, descendió al abismo y halló, entre otras maravillas que narran los mitos, un caballo de bronce, hueco y con ventanillas, a través de las cuales divisó adentro un cadáver de tamaño más grande que el de un hombre, según parecía, y que no tenía nada excepto un anillo de oro en la mano. Giges le quitó el anillo y salió del abismo.\n\nAhora bien, los pastores hacían su reunión habitual para dar al rey el informe mensual concerniente a la hacienda, cuando llegó Giges llevando el anillo. Tras sentarse entre los demás, casualmente volvió el engaste del anillo hacia el interior de su mano. Al suceder esto se tornó invisible para los que estaban sentados allí, quienes se pusieron a hablar de él como si se hubiera ido. Giges se asombró, y luego, examinando el anillo, dio vuelta al engaste hacia afuera y tornó a hacerse visible. Al advertirlo, experimentó con el anillo para ver si tenía tal propiedad, y comprobó que así era: cuando giraba el engaste hacia adentro, su dueño se hacía invisible, y cuando lo giraba hacia afuera, se hacía visible. En cuanto se hubo cerciorado de ello, maquinó el modo de formar parte de los que fueron a la residencia del rey como informantes y, una vez allí, sedujo a la reina y con ayuda de ella mató al rey y se apoderó del reino.\n\nPor consiguiente, si hubiese dos anillos como el de Giges y se diera uno a un hombre justo y otro a uno injusto, ninguno perseveraría en la justicia ni soportaría abstenerse de bienes ajenos, cuando podría tanto apoderarse impunemente de lo que quisiera del mercado, como, al entrar en las casas, acostarse con la mujer que prefiriera, y tanto matar a unos como librar de las cadenas a otros, según su voluntad, y hacer todo como si fuera igual a un dios entre los hombres. En esto, el hombre justo no haría nada diferente del injusto, sino que ambos marcharían por el mismo camino. E incluso se diría que esto es una importante prueba de que nadie es justo si no es forzado a serlo, por no considerarse a la justicia como un bien individual, ya que allí donde cada uno se cree capaz de cometer injusticias, las comete. En efecto, todo hombre piensa que la injusticia le brinda más ventajas individuales que la justicia, y está en lo cierto, si habla de acuerdo con esta teoría.\n\nTomado de: Platón (1986). República IV, Traducción y notas de C. Eggers Lan, Madrid, Gredos.",
+      "stem": "¿Cuál de las siguientes afirmaciones contradice las ideas que presenta el autor?",
+      "options": [
+        { "key": "A", "text": "Algunas personas actúan justamente a pesar de poder actuar de manera injusta." },
+        { "key": "B", "text": "La injusticia, contrariamente a la justicia, es natural en el ser humano." },
+        { "key": "C", "text": "Actuar con justicia brinda menos ventajas que hacerlo con injusticia." },
+        { "key": "D", "text": "La injusticia, contrariamente a la justicia, se comete voluntariamente." }
+      ],
+      "answer": "A",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "La tesis central del texto es que NADIE actuaría justamente si tuviera el poder de no ser descubierto (como con el anillo de Giges). Busca la única opción que afirme justo lo contrario a esa tesis.",
+      "explanation": "El texto sostiene que, con el poder de actuar impunemente (como el anillo de Giges), ningún ser humano —ni el considerado justo— se abstendría de cometer injusticias; la justicia solo se practica por la fuerza de la ley, no por voluntad propia. Afirmar que \"algunas personas actúan justamente a pesar de poder actuar de manera injusta\" contradice directamente esta tesis central."
+    },
+    {
+      "id": "lc02-q3",
+      "contextId": "anillo-giges",
+      "stem": "De los siguientes enunciados, ¿cuál presenta un supuesto subyacente a la afirmación \"Todo hombre piensa que la injusticia le brinda más ventajas individuales que la justicia, y está en lo cierto, si habla de acuerdo con esta teoría\"?",
+      "options": [
+        { "key": "A", "text": "La injusticia brinda las mismas ventajas individuales que la justicia." },
+        { "key": "B", "text": "La justicia, al igual que la injusticia, brinda ventajas individuales." },
+        { "key": "C", "text": "La injusticia, a diferencia de la justicia, brinda pocas ventajas individuales." },
+        { "key": "D", "text": "La justicia no brinda ninguna de las ventajas individuales que la injusticia brinda." }
+      ],
+      "answer": "B",
+      "tip": "Un \"supuesto subyacente\" es algo que la afirmación da por sentado sin decirlo explícitamente. Si se dice que la injusticia brinda MÁS ventajas que la justicia (comparación), eso implica que la justicia también brinda ALGUNAS ventajas, solo que menos.",
+      "explanation": "Decir que la injusticia brinda \"MÁS\" ventajas que la justicia presupone, aunque no lo diga explícitamente, que la justicia también ofrece ventajas individuales (solo que en menor medida); de lo contrario, no tendría sentido hacer la comparación. Por eso, el supuesto subyacente es que ambas, justicia e injusticia, brindan ventajas individuales."
+    },
+    {
+      "id": "lc02-q4",
+      "contextId": "anillo-giges",
+      "stem": "¿Cuál de las siguientes afirmaciones constituye una razón a favor de la tesis principal del texto anterior, a saber, que cuando alguien actúa justamente lo hace por obligación y no voluntariamente?",
+      "options": [
+        { "key": "A", "text": "La gente se ve obligada a actuar justamente." },
+        { "key": "B", "text": "Solo la igualdad garantiza el respeto por la ley." },
+        { "key": "C", "text": "La injusticia brinda las mismas ventajas individuales que la justicia." },
+        { "key": "D", "text": "Siempre que una persona cuente con la libertad para cometer injusticias lo hará." }
+      ],
+      "answer": "D",
+      "tip": "Busca la opción que funcione como EVIDENCIA o argumento de apoyo a la tesis (no que simplemente repita la tesis con otras palabras). Piensa en el experimento mental del anillo: ¿qué observación general apoya la idea de que la justicia no es voluntaria?",
+      "explanation": "La afirmación D es una generalización que resume precisamente lo que demuestra el relato de Giges: cuando alguien tiene la libertad de cometer injusticias sin consecuencias, lo hará. Esa observación es la razón que sostiene la tesis de que la justicia se practica por obligación (por miedo a la ley), no por elección voluntaria."
+    },
+    {
+      "id": "lc02-q5",
+      "contextId": "anillo-giges",
+      "stem": "¿Cuál de las siguientes afirmaciones sintetiza adecuadamente las ideas contenidas en el primer párrafo del texto?",
+      "options": [
+        { "key": "A", "text": "El que alguien sea justo es un deber que se deriva de la conciencia moral que tienen todos los hombres." },
+        { "key": "B", "text": "El que alguien sea justo resulta de una imposición, pues toda persona sin las restricciones y exigencias de la ley buscará satisfacer sus deseos." },
+        { "key": "C", "text": "La justicia es una ilusión, ya que lo natural es que una persona busque cumplir sus deseos y alcanzar sus intereses, sin reparar en la igualdad que exige la ley." },
+        { "key": "D", "text": "La justicia es un ideal inalcanzable, ya que toda persona, por más justa que aparente ser, tiene intereses propios que pueden llevarla a cometer injusticias." }
+      ],
+      "answer": "B",
+      "tip": "El primer párrafo dice que nadie es justo \"por voluntad\", sino porque la ley lo obliga a seguir el camino de la igualdad, aunque naturalmente perseguiría sus propios intereses. Busca la opción que refleje esa idea de \"justicia por obligación legal\", sin caer en afirmaciones más extremas (como que la justicia sea pura ilusión o algo inalcanzable).",
+      "explanation": "El primer párrafo argumenta que las personas son justas porque la ley las obliga a respetar la igualdad, no por una elección natural (naturalmente seguirían sus propios intereses, como el injusto). Esto es justamente lo que sintetiza la opción B: la justicia es una imposición de la ley, no un impulso natural. C y D exageran la idea, presentando la justicia como \"ilusión\" o algo \"inalcanzable\", lo cual el texto no afirma."
+    },
+    {
+      "id": "lc02-q6",
+      "contextId": "anillo-giges",
+      "stem": "Dada la estructura del texto anterior, ¿qué propósito general tiene el autor al introducir el relato sobre el anillo de Giges, y cómo lo alcanza?",
+      "options": [
+        { "key": "A", "text": "Promover en la audiencia la idea de que es más ventajoso seguir el camino de la injusticia. El caso de Giges muestra cómo obtuvo beneficios gracias al comportamiento injusto que le posibilitó el anillo." },
+        { "key": "B", "text": "Convencer a la audiencia de que todo hombre cometerá injusticias cuando tenga la oportunidad. Así lo hizo Giges una vez descubrió el poder que le otorgaba el anillo." },
+        { "key": "C", "text": "Reforzar en la audiencia la idea de que todos cometemos injusticias. El caso de Giges ilustra cómo las personas aparentemente justas en realidad cometen grandes injusticias." },
+        { "key": "D", "text": "Persuadir a la audiencia de que actuar justamente requiere mucha fuerza de voluntad. En el caso de Giges, la tentación derivada del poder del anillo doblegó su voluntad." }
+      ],
+      "answer": "B",
+      "tip": "El relato de Giges es un EJEMPLO (un experimento mental convertido en historia) que ilustra la tesis general planteada antes: que cualquier persona, con el poder de actuar impunemente, cometería injusticias. Busca la opción que describa esto como el propósito general del relato, no como un caso aislado sobre una sola persona.",
+      "explanation": "El relato de Giges sirve como ilustración concreta de la tesis general del texto: que cualquier ser humano, sin importar cuán justo parezca, cometerá injusticias si tiene el poder de hacerlo sin consecuencias (como la invisibilidad del anillo). El propósito es convencer a la audiencia de esa idea general sobre la naturaleza humana, usando a Giges como caso ilustrativo, no como una idea centrada solo en \"personas aparentemente justas\" (C, más específico de lo que dice el texto)."
+    },
+    {
+      "id": "lc02-q7",
+      "contextId": "matrimonio",
+      "context": "El matrimonio: más allá del amor\n\nEn nuestra sociedad, se tiende a pensar que el matrimonio, la base de la familia, se sostiene si hay confianza mutua y buena comunicación, así como si ambos miembros de la pareja trabajan unidos para resolver los conflictos y pasan tiempo juntos. En resumen, su piedra angular es un amor maduro y sincero. No obstante, la idea de que este deba ser la razón última del enlace es bastante reciente: aparece en el siglo XVIII y se afianza en el XIX, con el movimiento romántico. Hasta entonces, el matrimonio era ante todo una institución económica y política demasiado trascendente como para dejarla en manos de los dos individuos implicados. En general, resultaba inconcebible que semejante acuerdo se basara en algo tan irracional como el enamoramiento. De hecho, no se inventó ni para que los hombres protegieran a las mujeres ni para que las explotaran. Se trataba de una alianza entre grupos que iba más allá de los familiares más cercanos o incluso los pequeños grupos. Para las élites, era una manera excelente de consolidar la riqueza, fusionar recursos y forjar uniones políticas.\n\nDesde la Edad Media, la dote de boda de la mujer constituía el mayor ingreso de dinero, bienes o tierras que un hombre iba a recibir en toda su vida. Para los más pobres, también suponía una transacción económica que debía ser beneficiosa para la familia. Así, se solía casar al hijo con la hija de quien tenía un campo colindante. El matrimonio se convirtió en la estructura que garantizaba la supervivencia de la familia extendida, que incluye abuelos, hermanos, sobrinos… Al contrario de lo que solemos creer, la imagen del marido trabajando fuera de la casa y la mujer haciéndose cargo de la misma es un producto reciente, de los años 50. Hasta entonces, la familia no se sostenía con un único proveedor, sino que todos sus integrantes contribuían al único negocio de la que esta dependía.\n\nQue el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran. Sin embargo, en algunas culturas se trata de algo incompatible con el matrimonio. En la China tradicional, por ejemplo, una atracción excesiva entre los esposos era tenida como una amenaza al respeto y solidaridad debida a la familia. Es más, en tal ambiente, la palabra amor solo se aplicaba para describir las relaciones ilícitas. Fue en la década de 1920 cuando se inventó un término para designar el cariño entre cónyuges. Una idea tan radicalmente nueva exigía un vocabulario especial. Aún hoy, muchas sociedades desaprueban la idea de que el amor sea el centro del matrimonio. Es el caso de los fulbes africanos, del norte de Camerún. \"Muchas de sus mujeres niegan vehementemente cualquier apego hacia el marido\", asegura Helen A. Regis, del Departamento de Geografía y Antropología de la Universidad Estatal de Luisiana. Otras, en cambio, aprueban el amor entre esposos, pero nunca antes de que el matrimonio haya cumplido su objetivo primordial.\n\nTomado y adaptado de: Sabadell, Miguel Ángel (2013). \"Líos de familias\". En: Muy Interesante, No. 384, pp. 72-76.",
+      "stem": "Para el autor, el amor o el enamoramiento son",
+      "options": [
+        { "key": "A", "text": "la base fundamental del matrimonio y de la familia." },
+        { "key": "B", "text": "una atracción que amenaza al respeto y la solidaridad debida a la familia." },
+        { "key": "C", "text": "unas ideas vinculadas recientemente al matrimonio y la familia." },
+        { "key": "D", "text": "unos sentimientos irracionales que contradicen el deber ser del matrimonio." }
+      ],
+      "answer": "C",
+      "tip": "El texto dice explícitamente que la idea del amor como base del matrimonio \"es bastante reciente\": aparece en el siglo XVIII y se afianza en el XIX. Busca la opción que refleje esa idea de novedad histórica, no una opinión personal del autor sobre si el amor es bueno o malo para el matrimonio.",
+      "explanation": "El texto sitúa históricamente la asociación entre amor y matrimonio como una idea reciente (siglos XVIII-XIX), no como algo natural o inherente al matrimonio a lo largo de toda la historia. Las opciones B y D son juicios de valor sobre el amor que corresponden a la visión de ciertas culturas mencionadas en el texto (como la China tradicional), no la posición general del autor."
+    },
+    {
+      "id": "lc02-q8",
+      "contextId": "matrimonio",
+      "stem": "En el fragmento tomado del texto: \"Que el matrimonio no se basara en el amor no quiere decir que las personas no se enamoraran. Sin embargo, en algunas culturas se trata de algo incompatible con el matrimonio\", ¿qué función cumple el conector \"Sin embargo\"?",
+      "options": [
+        { "key": "A", "text": "Introducir un nuevo tema de reflexión." },
+        { "key": "B", "text": "Negar información suministrada previamente." },
+        { "key": "C", "text": "Agregar nuevos detalles acerca de lo dicho anteriormente." },
+        { "key": "D", "text": "Contrastar la información anterior sin llegar a invalidarla." }
+      ],
+      "answer": "D",
+      "tip": "Antes del \"sin embargo\" se dice que la gente SÍ se enamoraba (aunque el matrimonio no se basara en eso). Después del \"sin embargo\" se matiza esa idea (en algunas culturas el amor es incompatible con el matrimonio), sin negar por completo lo primero. ¿Eso es negación total, o un contraste que matiza sin invalidar?",
+      "explanation": "\"Sin embargo\" aquí no niega que la gente se enamorara (eso seguiría siendo cierto), sino que introduce un matiz o contraste: en algunas culturas, ese enamoramiento se consideraba incompatible con el matrimonio. Es un contraste que matiza la idea anterior, sin invalidarla por completo."
+    },
+    {
+      "id": "lc02-q9",
+      "contextId": "matrimonio",
+      "stem": "La palabra \"dote\" utilizada en el segundo párrafo del texto puede remplazarse, sin que se modifique el sentido de lo dicho, por:",
+      "options": [
+        { "key": "A", "text": "Ahorros de la futura esposa." },
+        { "key": "B", "text": "Dinero de los familiares." },
+        { "key": "C", "text": "Aporte patrimonial." },
+        { "key": "D", "text": "Ceremonia matrimonial." }
+      ],
+      "answer": "C",
+      "tip": "El texto dice que \"la dote de boda de la mujer constituía el mayor ingreso de dinero, bienes o tierras\" que un hombre recibía. Busca la opción que generalice ese concepto (dinero, bienes O tierras), sin reducirlo únicamente a \"ahorros\" o a un evento (\"ceremonia\").",
+      "explanation": "El texto describe la dote como \"dinero, bienes o tierras\", es decir, una contribución económica o de patrimonio (no necesariamente solo ahorros personales, ni dinero de los familiares específicamente, ni mucho menos la ceremonia en sí). \"Aporte patrimonial\" es el término que mejor generaliza ese sentido sin cambiarlo."
+    },
+    {
+      "id": "lc02-q10",
+      "contextId": "matrimonio",
+      "stem": "En el texto, ¿qué función cumple el tercer párrafo?",
+      "options": [
+        { "key": "A", "text": "Presentar un paralelo entre las concepciones del amor y el matrimonio en la China tradicional y en Occidente." },
+        { "key": "B", "text": "Demostrar que en China el enamoramiento entre esposos era una amenaza al respeto y la solidaridad de la familia." },
+        { "key": "C", "text": "Sintetizar las razones por las cuales en algunas culturas el enamoramiento y el matrimonio se consideran incompatibles." },
+        { "key": "D", "text": "Proveer un ejemplo de cómo la asociación entre el amor y el matrimonio no es algo propio de todos los tiempos y culturas." }
+      ],
+      "answer": "D",
+      "tip": "El párrafo menciona la China tradicional y a los fulbes africanos como ejemplos concretos. ¿Esos ejemplos buscan comparar dos culturas específicas entre sí (A), o sirven como evidencia de una idea más amplia planteada desde el inicio del texto (que el amor como base del matrimonio no es universal)?",
+      "explanation": "El tercer párrafo aporta ejemplos concretos (China tradicional, los fulbes africanos) que ilustran la idea general planteada en el texto: que la asociación entre amor y matrimonio no es universal ni constante a lo largo de la historia y las culturas. No se trata de \"demostrar\" un solo caso (B, muy específico) ni de comparar solo dos culturas puntuales (A), sino de dar evidencia diversa de esa idea más general."
+    },
+    {
+      "id": "lc02-q11",
+      "contextId": "matrimonio",
+      "stem": "De acuerdo con el texto, ¿cuál de los siguientes enunciados apoya la idea de que el amor maduro y sincero no siempre ha sido considerado como la base de la familia?",
+      "options": [
+        { "key": "A", "text": "En los años 50 se produjo una marcada distinción entre los roles masculino y femenino en la familia." },
+        { "key": "B", "text": "La idea del amor como la razón que ha de llevar al matrimonio surgió con el movimiento romántico en el siglo XVIII." },
+        { "key": "C", "text": "Ambos miembros de la pareja deben poner mucho empeño para que el matrimonio se sostenga." },
+        { "key": "D", "text": "El matrimonio se consolidó en el siglo XIX como la principal forma de institucionalización del amor conyugal." }
+      ],
+      "answer": "B",
+      "tip": "Busca la opción que hable directamente sobre CUÁNDO y CÓMO surgió la idea de que el amor debía ser la base del matrimonio, mostrando que antes de ese momento histórico no se pensaba así.",
+      "explanation": "Decir que la idea del amor como base del matrimonio \"surgió\" con el movimiento romántico en el siglo XVIII apoya directamente la idea de que antes de ese momento histórico, el amor NO era considerado la base de la familia (fue una idea que apareció en un momento concreto, no algo que existió siempre)."
+    },
+    {
+      "id": "lc02-q12",
+      "contextId": "matrimonio",
+      "stem": "De acuerdo con el texto, ¿cuál de los siguientes ejemplos ilustra la idea de la familia como una institución política y económica?",
+      "options": [
+        { "key": "A", "text": "En la Edad Media la mujer aportaba una dote en el momento de casarse." },
+        { "key": "B", "text": "Entre los fulbes africanos es común que las mujeres nieguen amar a sus maridos." },
+        { "key": "C", "text": "En los siglos XVIII y XIX cambió la idea sobre cuál es la base que sostiene la familia." },
+        { "key": "D", "text": "En la sociedad china solo hasta la década de 1920 se acuñó un término para designar el cariño entre esposos." }
+      ],
+      "answer": "A",
+      "tip": "Busca el ejemplo que tenga que ver directamente con dinero, bienes o transacciones (economía) al momento de formar una familia mediante el matrimonio.",
+      "explanation": "La dote (aporte de dinero, bienes o tierras al casarse) es un ejemplo directo y concreto de cómo el matrimonio funcionaba como una transacción económica, ilustrando la idea de la familia como institución económica. Las demás opciones se refieren a otros aspectos del texto (actitudes hacia el amor, cambios históricos de ideas), no específicamente al carácter económico o político de la familia."
+    },
+    {
+      "id": "lc02-q13",
+      "contextId": "matrimonio",
+      "stem": "De acuerdo con el texto, ¿qué implicación sobre el matrimonio entre los fulbes africanos puede derivarse a partir de lo dicho por el autor?",
+      "options": [
+        { "key": "A", "text": "Que en esa comunidad no sucede que haya amor entre esposos." },
+        { "key": "B", "text": "Que en esa comunidad el amor no es una condición necesaria para el matrimonio." },
+        { "key": "C", "text": "Que las mujeres de esa comunidad sienten temor a enamorarse de sus esposos." },
+        { "key": "D", "text": "Que las mujeres de esa comunidad no ven su amor correspondido por sus esposos." }
+      ],
+      "answer": "B",
+      "tip": "El texto dice que las mujeres fulbes \"niegan vehementemente cualquier apego\" hacia el marido, y que algunas SÍ aprueban el amor, pero nunca antes de que el matrimonio haya cumplido su objetivo. ¿Eso significa que el amor está totalmente ausente (A), o que simplemente no es un requisito para casarse?",
+      "explanation": "El texto no dice que el amor esté completamente ausente entre los fulbes (de hecho, menciona que algunas mujeres sí lo aprueban, aunque después de que el matrimonio cumpla su función), sino que el amor no es una condición necesaria para casarse. Eso es distinto de afirmar que nunca hay amor (A, muy absoluto) o de hablar de miedo (C) o de falta de reciprocidad (D), ideas que el texto no plantea."
+    },
+    {
+      "id": "lc02-q14",
+      "contextId": "matrimonio",
+      "stem": "De acuerdo con el texto, ¿qué se puede concluir acerca del matrimonio?",
+      "options": [
+        { "key": "A", "text": "Que es una institución que tiene únicamente propósitos económicos y políticos." },
+        { "key": "B", "text": "Que es la base de la familia en culturas tan diversas y complejas como las nuestras." },
+        { "key": "C", "text": "Que es una institución que varía dependiendo del contexto histórico y social." },
+        { "key": "D", "text": "Que es un pacto entre dos individuos que debe basarse en el amor y la confianza." }
+      ],
+      "answer": "C",
+      "tip": "El texto recorre distintas épocas (Edad Media, siglos XVIII-XIX, años 50) y distintas culturas (China tradicional, fulbes africanos, Occidente actual) mostrando que la idea de matrimonio ha cambiado. Busca la conclusión que refleje esa variabilidad, sin quedarte con una sola característica (como \"solo económico\" o \"debe basarse en el amor\") que el texto ya matiza.",
+      "explanation": "A lo largo del texto se muestra que el matrimonio ha tenido distintos propósitos y significados según la época histórica (Edad Media, Ilustración, Romanticismo, años 50) y la cultura (Occidente, China tradicional, fulbes africanos). La conclusión más ajustada a todo el texto es que el matrimonio es una institución que varía según el contexto histórico y social, no que tenga un propósito único y fijo (A o D, ambas demasiado absolutas)."
+    },
+    {
+      "id": "lc02-q15",
+      "contextId": "infografia-transito",
+      "image": "lc02-infografia-transito.png",
+      "imageAlt": "Infografía 'Traumatismos causados por el tránsito: los hechos' con estadísticas de la OMS: 1,24 millones de muertes anuales por accidentes de tránsito, 3 de 4 fallecidos son hombres, países de ingresos medios tienen 52% de los vehículos pero 80% de las muertes, tasas de mortalidad por nivel de ingresos (8,7 altos, 20,1 medios, 18,3 bajos), mapa de muertes por región, y 50% de los fallecidos son peatones, ciclistas o motociclistas.",
+      "context": "RESPONDE LAS PREGUNTAS 15 A 22 DE ACUERDO CON LA SIGUIENTE INFOGRAFÍA",
+      "stem": "Según la infografía, \"los países de ingresos medios solo tienen la mitad de los vehículos existentes en el mundo y, a pesar de eso, sufren el 80 % de las muertes por accidente de tránsito\". En este enunciado, ¿qué función cumple la conjunción 'a pesar de'?",
+      "options": [
+        { "key": "A", "text": "Resaltar que el índice de muertes por accidente de tránsito en países de ingresos medios es bastante elevado dadas sus condiciones particulares." },
+        { "key": "B", "text": "Oponer el alto número de vehículos en países de ingresos medios frente al bajo porcentaje de muertes por accidente de tránsito." },
+        { "key": "C", "text": "Aclarar que el alto índice de muertes por accidente de tránsito en países de ingresos medios está estrechamente relacionado con el número de autos." },
+        { "key": "D", "text": "Señalar que el índice de muertes por accidente de tránsito en países de ingresos medios puede ser aún más alto de lo dicen las cifras oficiales." }
+      ],
+      "answer": "A",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "\"A pesar de\" marca un contraste inesperado: tener SOLO la mitad de los vehículos del mundo pero sufrir un porcentaje MUCHO mayor de muertes (80%) es desproporcionado. ¿Qué opción resalta esa desproporción llamativa?",
+      "explanation": "\"A pesar de\" señala que, aunque los países de ingresos medios tienen relativamente pocos vehículos (52 %), sufren una proporción desproporcionadamente alta de muertes (80 %). Eso resalta lo elevado e inesperado de esa cifra de muertes dadas sus condiciones (cantidad de vehículos). No es una oposición entre \"alto número de vehículos\" y \"bajo porcentaje de muertes\" (B invierte los datos: el porcentaje de muertes es alto, no bajo)."
+    },
+    {
+      "id": "lc02-q16",
+      "contextId": "infografia-transito",
+      "stem": "Si alguien lee la infografía y hace la siguiente descripción: «La infografía muestra datos sobre la frecuencia de los accidentes de tránsito en el mundo, y ejemplos relacionados. Además, informa sobre la mortalidad por género, por ingresos, por número de vehículos, por tipo de vehículo y por ubicación regional.» Usted diría que la descripción es insatisfactoria porque:",
+      "options": [
+        { "key": "A", "text": "Pasa por alto información esencial contenida en la infografía." },
+        { "key": "B", "text": "El orden de su contenido no corresponde con el de la infografía." },
+        { "key": "C", "text": "Expone información que no está presente en la infografía." },
+        { "key": "D", "text": "Omite evidencias que sustentan la información de la infografía." }
+      ],
+      "answer": "A",
+      "tip": "Revisa la infografía completa: ¿menciona la descripción el dato de que los accidentes de tránsito son la PRIMERA causa de muerte en el grupo de 15 a 29 años, o el total de 1,24 millones de muertes al año? Esos son datos destacados que la descripción no incluye.",
+      "explanation": "La descripción omite información importante y muy visible de la infografía, como el total de 1,24 millones de muertes anuales y el dato de que los accidentes de tránsito son la primera causa de muerte en el grupo de 15 a 29 años. Por eso pasa por alto información esencial, aunque sí mencione correctamente otros aspectos (género, ingresos, vehículos, región)."
+    },
+    {
+      "id": "lc02-q17",
+      "contextId": "infografia-transito",
+      "stem": "De acuerdo con la información presentada sobre el porcentaje de muertes por tipo de vehículo, se puede afirmar que es más probable que alguien que haya muerto por accidente de tránsito hubiera estado desplazándose",
+      "options": [
+        { "key": "A", "text": "a pie." },
+        { "key": "B", "text": "en moto." },
+        { "key": "C", "text": "en bicicleta." },
+        { "key": "D", "text": "en otro tipo de vehículo." }
+      ],
+      "answer": "D",
+      "tip": "La infografía muestra que peatones (22 %), ciclistas (5 %) y motociclistas (23 %) suman en total el 50 % de las muertes. Si esas tres categorías juntas son la mitad, ¿qué representa el otro 50 % restante, y cómo se compara ese bloque completo con cada categoría individual?",
+      "explanation": "Peatones (22 %), ciclistas (5 %) y motociclistas (23 %) suman exactamente 50 % de las muertes. El otro 50 % corresponde a \"otros tipos de vehículo\" (por ejemplo, ocupantes de carros, buses, etc.). Comparando ese 50 % como bloque único contra cada categoría individual (22 %, 5 % o 23 %), \"otro tipo de vehículo\" es, con diferencia, la categoría más grande."
+    },
+    {
+      "id": "lc02-q18",
+      "contextId": "infografia-transito",
+      "stem": "¿Qué se puede inferir de la información que presenta la infografía en el cuadro inferior izquierdo, sobre la cantidad relativa de muertes por accidentes de tránsito en función de la región?",
+      "options": [
+        { "key": "A", "text": "Cuáles son los países donde menos se utilizan vehículos motorizados." },
+        { "key": "B", "text": "Cuáles zonas tienen el mismo número de muertes por accidente." },
+        { "key": "C", "text": "Cuál es el riesgo de morir en un accidente de tránsito según la zona geográfica." },
+        { "key": "D", "text": "Cuáles son las zonas geográficas en donde se requiere un mejoramiento de las vías." }
+      ],
+      "answer": "C",
+      "tip": "El mapa muestra \"muertes por accidentes de tránsito, por 100.000 habitantes\" en cada región (Europa 10,3; África 24,1; Américas 16,1, etc.). Esa es una tasa (un riesgo relativo), no un número absoluto de vehículos ni una evaluación del estado de las carreteras.",
+      "explanation": "El mapa presenta tasas de muertes por cada 100.000 habitantes en distintas regiones del mundo, lo cual es una medida del riesgo relativo de morir en un accidente de tránsito según dónde se viva. No informa directamente sobre el uso de vehículos motorizados (A), ni sobre el estado de las vías (D); tampoco todas las zonas tienen el mismo número (B, las cifras son claramente distintas)."
+    },
+    {
+      "id": "lc02-q19",
+      "contextId": "infografia-transito",
+      "stem": "A partir de las gráficas sobre la relación entre el número de vehículos y el número de muertes en accidentes de tránsito, se puede inferir que, comparada con la población de los países de ingresos medios, la de los países de ingresos altos",
+      "options": [
+        { "key": "A", "text": "tiene más vehículos por persona." },
+        { "key": "B", "text": "usa menos el vehículo particular." },
+        { "key": "C", "text": "es más educada en materia vial." },
+        { "key": "D", "text": "está más expuesta a multas de tránsito." }
+      ],
+      "answer": "C",
+      "tip": "La infografía muestra que los países de ingresos altos tienen la tasa de mortalidad vial MÁS BAJA (8,7 por 100.000) frente a los de ingresos medios (20,1). Como la infografía no habla de multas ni compara directamente el uso de vehículo particular, piensa qué explicación general (relacionada con comportamiento vial) es la más razonable para esa menor mortalidad.",
+      "explanation": "Los países de ingresos altos muestran la tasa de mortalidad vial más baja (8,7 por 100.000 habitantes) en comparación con los de ingresos medios (20,1). Como la infografía no ofrece datos sobre multas de tránsito ni sobre uso comparativo del vehículo particular, la inferencia más razonable, dada esa menor mortalidad, es que existe una mejor cultura o educación vial en esos países."
+    },
+    {
+      "id": "lc02-q20",
+      "contextId": "infografia-transito",
+      "stem": "A propósito del cuadro que presenta la información según la cual 3 de 4 de los fallecidos en accidentes de tránsito son del sexo masculino, se puede afirmar que las figuras (los íconos de personas) que acompañan el texto",
+      "options": [
+        { "key": "A", "text": "ilustran la información presentada." },
+        { "key": "B", "text": "profundizan la información dada." },
+        { "key": "C", "text": "proporcionan información adicional." },
+        { "key": "D", "text": "ejemplifican la información descrita." }
+      ],
+      "answer": "A",
+      "tip": "Los cuatro íconos (tres siluetas oscuras y una gris) representan visualmente la proporción \"3 de 4\" ya mencionada en el texto. ¿Agregan datos nuevos, o simplemente hacen visual algo que ya se dijo con palabras?",
+      "explanation": "Los íconos de las cuatro personas (tres coloreadas y una en gris) no aportan datos nuevos ni profundizan la información: simplemente representan de forma visual la proporción \"3 de 4\" que ya se expresó en el texto. Por eso su función es ilustrar la información presentada."
+    },
+    {
+      "id": "lc02-q21",
+      "contextId": "infografia-transito",
+      "stem": "A partir de la información presentada, se puede afirmar que el autor de la infografía tiene como propósito",
+      "options": [
+        { "key": "A", "text": "sensibilizar al espectador sobre los riesgos de morir en un accidente de tránsito." },
+        { "key": "B", "text": "incentivar al espectador a que use formas de movilidad alternas al automóvil." },
+        { "key": "C", "text": "conmover al espectador presentando datos sobre el número de accidentes de tránsito." },
+        { "key": "D", "text": "sensibilizar al espectador acerca de la necesidad de manejar sobrio y despacio." }
+      ],
+      "answer": "A",
+      "tip": "Repasa el título de la infografía (\"Traumatismos causados por el tránsito: los hechos\") y el conjunto de datos: mortalidad, grupos de riesgo, regiones. ¿El objetivo general parece ser promover un medio de transporte específico, hablar de conducir sobrio, o simplemente hacer consciente al lector de la magnitud del problema?",
+      "explanation": "El conjunto de la infografía (cifras globales de muertes, grupos etarios y de género más afectados, comparación por ingresos y regiones) apunta a un propósito general de sensibilización sobre la magnitud y el riesgo de morir en un accidente de tránsito, sin enfocarse específicamente en promover el transporte alternativo (B) ni en un mensaje puntual como manejar sobrio (D, no mencionado en los datos)."
+    },
+    {
+      "id": "lc02-q22",
+      "contextId": "infografia-transito",
+      "stem": "De acuerdo con el contenido de la información presentada, ¿a cuál de los siguientes contextos se adecuaría mejor la infografía?",
+      "options": [
+        { "key": "A", "text": "Una protesta ecológica en contra del uso de vehículos motorizados." },
+        { "key": "B", "text": "Una exposición sobre el transporte público como alternativa de movilidad." },
+        { "key": "C", "text": "Una campaña diseñada para promover la adquisición de seguros de vida." },
+        { "key": "D", "text": "Un estudio sobre asesinatos según el género y la condición socioeconómica." }
+      ],
+      "answer": "C",
+      "tip": "La infografía no trata temas ambientales ni de transporte público como alternativa, ni tampoco de asesinatos (los accidentes de tránsito no son crímenes intencionales). Se centra en el riesgo de morir en un accidente. ¿En qué tipo de campaña sería útil resaltar el riesgo de muerte para motivar una decisión de protección financiera?",
+      "explanation": "Como la infografía se centra en el riesgo de morir por accidentes de tránsito (no en temas ambientales, de transporte público, ni de crímenes intencionales), su contenido encajaría mejor en una campaña que busque sensibilizar sobre ese riesgo de muerte para motivar, por ejemplo, la adquisición de un seguro de vida."
+    }
+  ]
+}

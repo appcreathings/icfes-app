@@ -1,0 +1,159 @@
+{
+  "id": "ciencias-02",
+  "area": "ciencias",
+  "title": "Ciencias Naturales · Test 2",
+  "source": "Cuadernillo de preguntas Ciencias Naturales, Icfes (2026) y Ejemplos de preguntas explicadas",
+  "questions": [
+    {
+      "id": "cn02-q1",
+      "image": "cn02-graficas-enfriamiento.png",
+      "imageAlt": "Cuatro gráficas de temperatura contra tiempo (A, B, C, D) mostrando distintas formas de enfriamiento desde 100°C hasta 20°C.",
+      "stem": "Juan calienta una gran cantidad de agua en una olla. Al retirarla del fuego, mide la temperatura del agua: 100 °C. También mide la temperatura del entorno: 20 °C. La ley de enfriamiento de Newton establece que cuanto mayor es la diferencia de temperatura entre un objeto y el entorno, mayor es el flujo de calor y, por lo tanto, más rápido se enfría el objeto. Teniendo en cuenta lo anterior, ¿cuál de las siguientes gráficas describe mejor el proceso de enfriamiento del agua en la olla?",
+      "options": [
+        { "key": "A", "text": "Gráfica A" },
+        { "key": "B", "text": "Gráfica B" },
+        { "key": "C", "text": "Gráfica C" },
+        { "key": "D", "text": "Gráfica D" }
+      ],
+      "answer": "C",
+      "competency": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones.",
+      "tip": "Según la ley de Newton, el enfriamiento debe ser MÁS RÁPIDO al principio (cuando la diferencia de temperatura con el entorno es mayor: 100°C vs 20°C) y IRSE HACIENDO MÁS LENTO a medida que la temperatura del agua se acerca a la del entorno. Busca la curva que baje muy rápido al inicio y luego se aplane suavemente, sin ser una línea recta.",
+      "explanation": "La gráfica C muestra la caída más pronunciada justo al principio (cuando la diferencia de temperatura es máxima) y luego se va aplanando suavemente hasta acercarse a los 20°C, sin llegar a ser nunca una línea recta. Eso es exactamente lo que predice la ley de Newton: una curva de enfriamiento exponencial, rápida al inicio y cada vez más lenta. La gráfica D, en cambio, muestra un descenso en línea recta (velocidad de enfriamiento constante), lo cual contradice la ley."
+    },
+    {
+      "id": "cn02-q2",
+      "image": "cn02-carteleras-dengue.png",
+      "imageAlt": "Cuatro carteleras (A, B, C, D) con el mensaje 'usar insecticida no te protege 100% del dengue', cada una con distinta evidencia de apoyo: A con una foto de mosquitos, B con una tabla de resistencia de insecticidas por especie, C con precios de insecticidas, y D con número de casos de dengue por año.",
+      "context": "El dengue es una enfermedad tropical producida por la infección con un virus, que se transmite a través de las picaduras de algunos mosquitos hembra del género Aedes. Investigaciones recientes han demostrado que adultos de algunas especies de mosquito del género Aedes son más resistentes que otras a algunos insecticidas, sin importar su concentración, de manera que el uso de estos no garantiza un 100 % de protección frente al dengue.",
+      "stem": "Los habitantes de un municipio quieren que todas las personas conozcan que el uso de insecticidas no garantiza la protección contra el dengue. ¿Cuál de las siguientes carteleras comunica apropiadamente resultados que soportan este descubrimiento?",
+      "options": [
+        { "key": "A", "text": "Cartelera A (foto de los mosquitos)" },
+        { "key": "B", "text": "Cartelera B (tabla de resistencia por marca de insecticida y especie)" },
+        { "key": "C", "text": "Cartelera C (tabla de precios de insecticidas)" },
+        { "key": "D", "text": "Cartelera D (número de casos de dengue por año)" }
+      ],
+      "answer": "B",
+      "competency": "Derivar conclusiones para algunos fenómenos de la naturaleza basándose en conocimientos científicos y en la evidencia de su propia investigación y la de otros.",
+      "tip": "El hallazgo que se quiere comunicar es específicamente sobre RESISTENCIA de los mosquitos a los insecticidas. Busca la cartelera cuyos datos midan justamente eso (resistencia/susceptibilidad), no precios, ni solo una imagen, ni el número total de casos (que no explica la causa).",
+      "explanation": "La cartelera B presenta datos directamente relevantes: una tabla que muestra qué tan resistentes o susceptibles son distintas especies de mosquito a distintas marcas de insecticida. Eso es evidencia concreta que respalda la idea de que el insecticida no protege al 100 % (porque hay mosquitos resistentes). La cartelera A solo muestra una foto sin datos, C muestra precios (irrelevante para la protección) y D solo muestra que los casos aumentaron, sin explicar si fue por resistencia a insecticidas u otra causa."
+    },
+    {
+      "id": "cn02-q3",
+      "stem": "Considere la siguiente reacción y las masas molares de reactivos y productos: P₄ + 6 Cl₂ → 4 PCl₃, donde la masa molar de P₄ es 124 g/mol, la de Cl₂ es 70 g/mol y la de PCl₃ es 137 g/mol. De acuerdo con la información anterior, si reaccionan 124 g de P₄ con 210 g de Cl₂, ¿cuál es el reactivo límite?",
+      "options": [
+        { "key": "A", "text": "El Cl₂, porque reaccionan en su totalidad 210 gramos de Cl₂ y queda la mitad de P₄ sin reaccionar." },
+        { "key": "B", "text": "El P₄, porque su masa en gramos es menor que la del Cl₂." },
+        { "key": "C", "text": "El Cl₂, porque según la relación estequiométrica siempre se necesitan 6 moles de Cl₂, sin importar la cantidad de P₄." },
+        { "key": "D", "text": "El P₄, porque su masa molar es casi el doble que la del Cl₂." }
+      ],
+      "answer": "A",
+      "competency": "Explicar cómo ocurren algunos fenómenos de la naturaleza con base en observaciones, patrones y conceptos propios del conocimiento científico.",
+      "tip": "Convierte los gramos a moles primero: 124 g de P₄ ÷ 124 g/mol = 1 mol de P₄. 210 g de Cl₂ ÷ 70 g/mol = 3 moles de Cl₂. La ecuación dice que 1 mol de P₄ necesita 6 moles de Cl₂. ¿Alcanzan los 3 moles de Cl₂ disponibles para hacer reaccionar TODO el P₄?",
+      "explanation": "Hay 1 mol de P₄ (124/124) y 3 moles de Cl₂ (210/70). Según la ecuación, 1 mol de P₄ necesitaría 6 moles de Cl₂ para reaccionar completamente, pero solo hay 3 moles de Cl₂ disponibles: esos 3 moles de Cl₂ solo alcanzan para hacer reaccionar 0,5 mol de P₄ (la mitad). Por eso el Cl₂ es el reactivo límite (se agota primero) y queda la mitad del P₄ sin reaccionar."
+    },
+    {
+      "id": "cn02-q4",
+      "image": "cn02-red-trofica.png",
+      "imageAlt": "Diagrama de una red trófica marina: fitoplancton y pastos marinos alimentan a zooplancton y pez loro; zooplancton alimenta a sardinas y calamar; pez loro alimenta a calamar; calamar y sardinas alimentan a atún; atún alimenta a tiburón. Las flechas indican 'sirve de alimento a'.",
+      "stem": "El modelo muestra una red trófica marina (las flechas indican \"sirve de alimento a\"). La pesca indiscriminada de varias especies de atún ha llevado a las organizaciones ambientales a implementar estrategias para impedir su extinción. Con base en la información del modelo, ¿qué le sucedería al ecosistema marino, a mediano plazo, si se extingue el atún?",
+      "options": [
+        { "key": "A", "text": "Disminuirían las poblaciones de pez loro debido al aumento de su principal depredador." },
+        { "key": "B", "text": "Aumentarían las poblaciones de tiburones, porque podrán alimentarse de todos los otros niveles tróficos." },
+        { "key": "C", "text": "Aumentaría la cantidad de zooplancton, porque disminuiría la presión de sus depredadores." },
+        { "key": "D", "text": "Disminuiría la abundancia de productores, porque aumentarían los consumidores primarios." }
+      ],
+      "answer": "A",
+      "competency": "Modelar fenómenos de la naturaleza con base en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas.",
+      "tip": "Sigue la cadena: el atún se alimenta de calamar. Si el atún desaparece, el calamar pierde un depredador y su población aumentaría. Ahora mira de qué se alimenta el calamar en el diagrama... ¿eso te lleva a algún otro nivel trófico que se vería afectado?",
+      "explanation": "El atún se alimenta de calamar (entre otros). Si el atún se extingue, el calamar deja de tener ese depredador y su población aumentaría. Pero el calamar, a su vez, se alimenta de pez loro (según las flechas del diagrama). Más calamares significa más presión de depredación sobre el pez loro, por lo que sus poblaciones disminuirían. Las demás opciones no se sostienen con el diagrama: los tiburones solo se alimentan de atún (no de \"todos los niveles\"), y el zooplancton tiene otros depredadores además del atún."
+    },
+    {
+      "id": "cn02-q5",
+      "image": "cn02-esponja-densidad.png",
+      "imageAlt": "Gráfica de masa (g) contra densidad (g/cm³) con puntos de datos experimentales y una línea de tendencia que cruza el eje vertical en aproximadamente 7-8 gramos cuando la densidad es cero.",
+      "stem": "Un grupo de estudiantes realizó un experimento que consistía en sumergir una esponja en líquidos de diferente densidad, para luego medir su volumen y masa. En la gráfica se presentan los resultados de este experimento marcados con puntos, y una línea de tendencia. Un estudiante afirma que, si se usa un líquido con una densidad extremadamente baja, la masa registrada será diferente de cero. ¿Esta afirmación puede considerarse una predicción basada en los datos experimentales?",
+      "options": [
+        { "key": "A", "text": "Sí, porque la línea de tendencia cruza en un punto diferente de cero." },
+        { "key": "B", "text": "No, porque no se observa ningún patrón entre la densidad y la masa." },
+        { "key": "C", "text": "No, porque no existen datos que usen líquidos con muy baja densidad." },
+        { "key": "D", "text": "Sí, porque todos los datos presentan masas diferentes de cero." }
+      ],
+      "answer": "A",
+      "tip": "Una predicción basada en datos experimentales se apoya en EXTRAPOLAR la línea de tendencia más allá de los datos medidos. Mira dónde cruza la línea de tendencia el eje vertical (densidad = 0): ¿está en cero, o por encima?",
+      "explanation": "La línea de tendencia, al extrapolarse hasta una densidad de 0 (extremadamente baja), cruza el eje de masa en un punto claramente por encima de cero (alrededor de 7-8 g). Por eso, aunque no hay datos medidos con líquidos de densidad extremadamente baja, sí se puede hacer esa predicción extrapolando el patrón claro (lineal) que muestran los datos y la línea de tendencia."
+    },
+    {
+      "id": "cn02-q6",
+      "image": "cn02-conductividad-mgso4.png",
+      "imageAlt": "Gráfica de conductividad (S/cm) contra concentración (mol/L) para una disolución de sulfato de magnesio (MgSO4), con la temperatura fija en 25°C.",
+      "stem": "La conductividad de una disolución es la capacidad que tiene esta para conducir la corriente eléctrica. Un estudiante realiza una serie de experimentos para estudiar la conductividad del sulfato de magnesio (MgSO₄) disuelto en agua, manteniendo la temperatura fija en 25 °C y variando la concentración de la sal, y obtiene los resultados mostrados en la gráfica. Con base en la información anterior, ¿qué se buscaba estudiar con este experimento?",
+      "options": [
+        { "key": "A", "text": "La influencia de la temperatura sobre la conductividad." },
+        { "key": "B", "text": "El efecto de la conductividad de la disolución sobre la concentración de la sal." },
+        { "key": "C", "text": "La influencia de la carga de los iones sobre la conductividad." },
+        { "key": "D", "text": "El efecto de la concentración de la sal sobre la conductividad de la disolución." }
+      ],
+      "answer": "D",
+      "tip": "Identifica cuál variable se mantuvo CONSTANTE (fija) y cuál se dejó CAMBIAR (variable) en el experimento. Lo que se deja variar deliberadamente para observar su efecto es la variable independiente que se está estudiando.",
+      "explanation": "La temperatura se mantuvo fija (25 °C) en todo el experimento, mientras que la concentración de la sal fue la variable que se modificó (eje horizontal) para observar su efecto sobre la conductividad (eje vertical). Por eso el experimento buscaba estudiar el efecto de la concentración sobre la conductividad, no el de la temperatura (A, que se mantuvo constante) ni el de la carga de los iones (C, que no se varió)."
+    },
+    {
+      "id": "cn02-q7",
+      "image": "cn02-resistencia-temperatura.png",
+      "imageAlt": "Gráfica de resistencia eléctrica (ohmios) contra temperatura (°C) para cuatro resistencias R1, R2, R3 y R4, medidas entre 0°C y 80°C. R1 sube lentamente de 3 a 4.5 ohmios; R2 sube rápidamente de 2 a 5 ohmios; R3 baja de 5 a 2 ohmios; R4 se mantiene constante en 4 ohmios.",
+      "stem": "La gráfica muestra la relación entre la resistencia eléctrica y la temperatura para cuatro resistencias eléctricas (R1, R2, R3 y R4), medidas entre 0°C y 80°C. Un estudiante realiza actividades experimentales y encuentra que la corriente eléctrica en un circuito es inversamente proporcional a la resistencia eléctrica. Se le solicita al estudiante construir un circuito usando una de estas resistencias, de forma que pase la menor cantidad de corriente eléctrica a 90 °C. Si las tendencias de resistencia como función de la temperatura se mantienen, ¿cuál resistencia se debe utilizar?",
+      "options": [
+        { "key": "A", "text": "R1, porque tiene la mayor resistencia eléctrica desde los 40 °C hasta los 80 °C." },
+        { "key": "B", "text": "R2, porque su resistencia eléctrica será la mayor a 90 °C." },
+        { "key": "C", "text": "R3, porque tiene la menor resistencia desde los 40 °C hasta los 80 °C." },
+        { "key": "D", "text": "R4, porque su resistencia eléctrica no depende de la temperatura." }
+      ],
+      "answer": "B",
+      "tip": "Como la corriente es inversamente proporcional a la resistencia, necesitas la resistencia MÁS ALTA a 90°C para lograr la MENOR corriente. La gráfica solo llega hasta 80°C: extiende mentalmente cada línea 10°C más y compara cuál queda más alta a los 90°C.",
+      "explanation": "R2 tiene la pendiente de crecimiento más pronunciada de las cuatro (sube rápidamente de 2 a 5 ohmios entre 0 y 80°C). Si esa tendencia continúa hasta los 90°C, R2 superará el valor de las demás resistencias en ese punto, incluyendo a R4 (que se mantiene constante en 4 ohmios) y a R1 (que sube más lentamente). Por eso R2 dará la mayor resistencia —y por tanto la menor corriente— a 90°C."
+    },
+    {
+      "id": "cn02-q8",
+      "image": "cn02-piscina-refraccion.png",
+      "imageAlt": "Dos figuras: la Figura 1 muestra una piscina vacía con un farol en el borde y un nadador viendo el farol a través del aire en línea recta. La Figura 2 muestra la misma piscina llena de agua, donde el rayo de luz del farol se dobla (refracta) al pasar del aire al agua antes de llegar al nadador sumergido.",
+      "stem": "Los rayos de luz emitidos por objetos luminosos viajan en línea recta dentro de un mismo medio. Si un rayo de luz pasa de aire a agua, cambia su dirección (se refracta), doblándose hacia la línea perpendicular a la superficie del agua. Cuando una piscina está vacía, un nadador observa el farol que está en el borde en línea recta (Figura 1); luego, cuando se llena la piscina (Figura 2), ¿cómo verá el nadador el farol?",
+      "options": [
+        { "key": "A", "text": "Más bajo." },
+        { "key": "B", "text": "De la misma altura." },
+        { "key": "C", "text": "Más alto." },
+        { "key": "D", "text": "Invertido." }
+      ],
+      "answer": "C",
+      "tip": "Nuestro cerebro interpreta la posición de un objeto según la dirección desde la que le llega la luz al ojo, como si el rayo hubiera viajado en línea recta (ignorando que se dobló). Si el rayo se dobla ACERCÁNDOSE a la línea vertical (normal) al entrar al agua, la dirección aparente desde la que \"parece\" venir la luz apunta más hacia arriba de lo que realmente está el farol.",
+      "explanation": "Cuando la luz pasa del aire (menos denso) al agua (más densa), se dobla acercándose a la línea perpendicular a la superficie (normal). El cerebro del nadador interpreta que la luz viajó en línea recta desde donde llega al ojo, por lo que percibe el farol en una posición más alta de la que realmente tiene. Este es el mismo fenómeno de refracción por el cual los objetos sumergidos parecen estar a menor profundidad de la real, visto en sentido inverso."
+    },
+    {
+      "id": "cn02-q9",
+      "stem": "Un estudiante desea comparar los valores de las densidades de tres líquidos (agua, etanol y aceite) y para ello hace tres mediciones de una misma masa de líquido (100 g) a tres temperaturas DISTINTAS para cada líquido (es decir, no usó las mismas tres temperaturas para los tres líquidos). Con base en la información anterior, ¿por qué el experimento está mal planteado?",
+      "options": [
+        { "key": "A", "text": "Porque las temperaturas empleadas no son las mismas, por lo que no se pueden hacer comparaciones entre las densidades de los tres líquidos." },
+        { "key": "B", "text": "Porque no se pueden hacer comparaciones sin medir diferentes volúmenes de los tres líquidos en las temperaturas indicadas." },
+        { "key": "C", "text": "Porque es necesario realizar otras mediciones a temperaturas más altas, para saber si el valor de la densidad sigue cambiando." },
+        { "key": "D", "text": "Porque el aceite posee propiedades físicas y químicas muy diferentes del agua y del etanol y esto hace que no se puedan comparar." }
+      ],
+      "answer": "A",
+      "competency": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones.",
+      "tip": "Recuerda que la densidad de un líquido cambia con la temperatura (el volumen se expande o contrae). Para comparar de forma justa las densidades de tres líquidos, ¿es válido medir cada uno a temperaturas diferentes entre sí?",
+      "explanation": "Si el objetivo es comparar las densidades de tres líquidos, deben medirse en las MISMAS condiciones de temperatura, ya que la densidad de un líquido varía con la temperatura (aunque la masa sea igual, el volumen que ocupa cambia). Al usar temperaturas distintas para cada líquido, cualquier diferencia observada podría deberse al efecto de la temperatura y no a una diferencia real entre las densidades de los líquidos."
+    },
+    {
+      "id": "cn02-q10",
+      "stem": "Los ecosistemas se consideran sistemas abiertos porque en su mantenimiento es fundamental el flujo de materia y energía que intercambian de manera constante con su medio externo (es decir, un ecosistema abierto necesita tanto entradas como salidas de materia y energía). Se presentan cuatro modelos de ecosistema: el modelo A muestra solo una entrada de energía, sin salidas. El modelo B muestra entradas de energía y materia, pero sin salidas. El modelo C muestra tanto entradas como salidas de energía y materia. El modelo D muestra solo salidas de energía y materia, sin entradas. De acuerdo con la información anterior, ¿cuál de los siguientes modelos representa precisamente un ecosistema abierto?",
+      "options": [
+        { "key": "A", "text": "El modelo A (solo entrada de energía, sin salidas)." },
+        { "key": "B", "text": "El modelo B (entradas de energía y materia, sin salidas)." },
+        { "key": "C", "text": "El modelo C (entradas y salidas de energía y materia)." },
+        { "key": "D", "text": "El modelo D (solo salidas de energía y materia, sin entradas)." }
+      ],
+      "answer": "C",
+      "competency": "Modelar fenómenos de la naturaleza con base en el análisis de variables, la relación entre dos o más conceptos del conocimiento científico y de la evidencia derivada de investigaciones científicas.",
+      "tip": "Un sistema \"abierto\" en ciencias naturales significa que intercambia materia y energía con su entorno en AMBOS sentidos: hacia adentro (entradas) y hacia afuera (salidas). Descarta cualquier modelo que muestre solo un sentido del intercambio.",
+      "explanation": "Un ecosistema abierto requiere tanto entradas como salidas de energía y materia para mantenerse. El modelo C es el único que representa ambos flujos (entradas y salidas). Los modelos A y B solo muestran entradas (sin salidas), y el modelo D solo muestra salidas (sin entradas), por lo que ninguno de esos tres representa correctamente un sistema abierto."
+    }
+  ]
+}

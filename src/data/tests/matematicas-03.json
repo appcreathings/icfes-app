@@ -1,0 +1,141 @@
+{
+  "id": "matematicas-03",
+  "area": "matematicas",
+  "title": "Matemáticas · Test 3",
+  "source": "Cuadernillo de preguntas Matemáticas, Saber 11.º, Icfes (marzo 2026)",
+  "questions": [
+    {
+      "id": "mat03-q1",
+      "image": "mat03-graficas-costos-ciudades.png",
+      "imageAlt": "Cuatro gráficas de barras (A, B, C, D) comparando el costo de transporte en camiones y el costo de pago a trabajadores entre la Ciudad W y la Ciudad Z.",
+      "context": "Para transportar mango y banano desde un pueblo cercano a dos ciudades, W y Z, un comerciante utiliza camiones con capacidad de 5 toneladas cada uno; por cada camión contrata dos trabajadores en cada viaje. En la tabla se muestran los gastos de transporte y de trabajadores para cada ciudad:\n\n| Ciudad | Costo transporte por camión | Pago por trabajador por viaje |\n|---|---|---|\n| W | $150.000 | $180.000 |\n| Z | $180.000 | $200.000 |",
+      "stem": "Si se transportan 7 toneladas de fruta a la ciudad W y 10 toneladas de fruta a la ciudad Z, ¿cuál es la gráfica que muestra correctamente la relación de costos por ciudad?",
+      "options": [
+        { "key": "A", "text": "Gráfica A" },
+        { "key": "B", "text": "Gráfica B" },
+        { "key": "C", "text": "Gráfica C" },
+        { "key": "D", "text": "Gráfica D" }
+      ],
+      "answer": "B",
+      "tip": "Primero halla cuántos camiones se necesitan en cada ciudad (capacidad máxima 5 toneladas por camión): 7 toneladas necesitan 2 camiones, y 10 toneladas también necesitan 2 camiones (5+5). Luego calcula el costo de transporte (camiones × costo por camión) y el costo de trabajadores (camiones × 2 trabajadores × pago por trabajador) para cada ciudad, y compara con las gráficas.",
+      "explanation": "7 toneladas y 10 toneladas requieren 2 camiones cada una (ya que cada camión lleva máximo 5 toneladas). En W: transporte = 2×$150.000=$300.000; trabajadores = 2×2×$180.000=$720.000. En Z: transporte = 2×$180.000=$360.000; trabajadores = 2×2×$200.000=$800.000. En ambos rubros, Z tiene costos mayores que W, y los valores rondan $300.000-360.000 (transporte) y $720.000-800.000 (trabajadores), lo cual coincide con la escala y las barras de la gráfica B."
+    },
+    {
+      "id": "mat03-q2",
+      "stem": "La tabla presenta la información sobre el gasto en publicidad y las ganancias de una empresa durante los años 2020 a 2022 (datos en millones de pesos):\n\n| Año | Gasto en publicidad | Ganancia obtenida |\n|---|---|---|\n| 2020 | 200 | 8.000 |\n| 2021 | 280 | 10.400 |\n| 2022 | 250 | 9.500 |\n\n¿Cuál es la función que representa la ganancia obtenida G, en millones de pesos, en función del gasto en publicidad p?",
+      "options": [
+        { "key": "A", "text": "G(p) = 30p + 2.000" },
+        { "key": "B", "text": "G(p) = 10p" },
+        { "key": "C", "text": "G(p) = 40p" },
+        { "key": "D", "text": "G(p) = 40p − 800" }
+      ],
+      "answer": "A",
+      "tip": "Prueba cada función con los valores de la tabla: sustituye p (gasto) y verifica si el resultado coincide con la G (ganancia) correspondiente en los tres años. La función correcta debe funcionar para los TRES pares de datos, no solo uno.",
+      "explanation": "Probando G(p)=30p+2.000: con p=200, G=30×200+2.000=8.000 ✓; con p=280, G=30×280+2.000=10.400 ✓; con p=250, G=30×250+2.000=9.500 ✓. Los tres valores coinciden exactamente con la tabla, confirmando que esta es la función correcta."
+    },
+    {
+      "id": "mat03-q3",
+      "image": "mat03-cuadrado-paralelogramos.png",
+      "imageAlt": "Tres figuras: la Figura 1 muestra un cuadrado con un paralelogramo sombreado formado conectando los puntos medios P, Q, R, S. La Figura 2 muestra la misma construcción con los triángulos de las esquinas movidos, formando cuatro paralelogramos congruentes. La Figura 3 muestra un cuadrado más grande con líneas diagonales que forman un cuadrado sombreado más pequeño en el centro.",
+      "stem": "Una profesora de Matemáticas le entrega a sus estudiantes un cuadrado cuya área es 1 dm². P, Q, R y S son los puntos medios de cada lado (Figura 1). La profesora le pide a sus estudiantes que calculen el área del paralelogramo sombreado, para lo cual Eloísa razona así: \"Si se mueven los triángulos de las esquinas es posible obtener una figura con cuatro paralelogramos congruentes al sombreado\" (Figura 2). Eloísa concluye: \"Como el área de esta figura es igual al área del cuadrado inicial, cada paralelogramo tiene un área de 1/4 dm²\". Al ver la solución, la profesora le dice: \"Excelente idea; usa una estrategia similar para hallar el área del cuadrado sombreado en la Figura 3, donde el cuadrado grande también tiene 1 dm² de área\". ¿Cuál es el área del cuadrado sombreado en la Figura 3?",
+      "options": [
+        { "key": "A", "text": "1/9 dm²" },
+        { "key": "B", "text": "1/8 dm²" },
+        { "key": "C", "text": "1/6 dm²" },
+        { "key": "D", "text": "1/5 dm²" }
+      ],
+      "answer": "D",
+      "tip": "Este es un resultado geométrico clásico: cuando se conecta cada vértice de un cuadrado con el punto medio de un lado no adyacente (como en la Figura 3), las líneas se cruzan formando un cuadrado central cuya área es siempre una fracción fija del cuadrado original, sin importar el tamaño del cuadrado inicial.",
+      "explanation": "La construcción de la Figura 3 (conectar cada vértice con el punto medio de un lado no adyacente) es un resultado geométrico conocido: el cuadrado central que se forma en el cruce de esas líneas siempre tiene un área igual a 1/5 del área del cuadrado original, sin importar su tamaño. Como el cuadrado grande mide 1 dm², el cuadrado sombreado mide 1/5 dm²."
+    },
+    {
+      "id": "mat03-q4",
+      "stem": "El sistema de comunicaciones de un hotel utiliza los dígitos 2, 3, 4 y 5 para asignar un número de extensión telefónica de 4 dígitos diferentes (sin repetir ningún dígito) a cada habitación. ¿Cuántas habitaciones del hotel pueden tener extensión telefónica?",
+      "options": [
+        { "key": "A", "text": "24" },
+        { "key": "B", "text": "56" },
+        { "key": "C", "text": "120" },
+        { "key": "D", "text": "256" }
+      ],
+      "answer": "A",
+      "tip": "Hay 4 dígitos disponibles (2,3,4,5) y se deben usar los 4 para formar cada número, sin repetir ninguno. Para el primer dígito hay 4 opciones, para el segundo quedan 3 opciones (ya usaste una), para el tercero 2, y para el cuarto solo queda 1. Multiplica esas posibilidades.",
+      "explanation": "Como no se puede repetir ningún dígito y hay exactamente 4 dígitos disponibles para 4 posiciones, se trata de una permutación de los 4 dígitos: 4×3×2×1 = 24 extensiones telefónicas diferentes posibles."
+    },
+    {
+      "id": "mat03-q5",
+      "image": "mat03-parque-automotor.png",
+      "imageAlt": "Gráfico circular del transporte intermunicipal de pasajeros en Colombia, con porcentajes: Buseta, Automóvil, Camioneta, Campero, Bus escalera, Bus y Microbús, sumando 100%.",
+      "stem": "A continuación, se muestran los resultados de una encuesta que indagó sobre el parque automotor del transporte intermunicipal en Colombia. Según la información de la gráfica circular, ¿cuál de las siguientes afirmaciones es verdadera?",
+      "options": [
+        { "key": "A", "text": "La mayor parte del parque automotor son automóviles, camionetas y camperos." },
+        { "key": "B", "text": "La mitad del parque automotor corresponde a automóviles, camionetas y camperos." },
+        { "key": "C", "text": "La mayor parte del parque automotor son buses, microbuses y busetas." },
+        { "key": "D", "text": "La mitad del parque automotor corresponde a buses, microbuses y busetas." }
+      ],
+      "answer": "C",
+      "tip": "Suma los porcentajes de las categorías \"bus\", \"microbús\" y \"buseta\" que se muestran en la gráfica, y compáralos con la suma de \"automóvil\", \"camioneta\" y \"campero\". ¿Cuál de las dos sumas es mayor, y es esa suma más de la mitad (50%) o no?",
+      "explanation": "Sumando las categorías bus + microbús + buseta se obtiene aproximadamente 65% del total, claramente la mayor parte del parque automotor (aunque no llega a ser exactamente \"la mitad\", sino bastante más). En cambio, automóvil + camioneta + campero suman apenas alrededor de 34%, muy por debajo de la mitad. Por eso la afirmación verdadera es que la mayor parte corresponde a buses, microbuses y busetas."
+    },
+    {
+      "id": "mat03-q6",
+      "image": "mat03-escalera-muro.png",
+      "imageAlt": "Dos figuras: la Figura 1 muestra una escalera apoyada sobre un muro a 12 metros del suelo, con una distancia de 5 metros en la base. La Figura 2 muestra el mismo triángulo rectángulo con catetos de 12 y 5, hipotenusa de 13, y el ángulo θ entre el suelo y la escalera.",
+      "stem": "Para fijar un aviso publicitario se coloca sobre un muro una escalera que llega a 12 metros del suelo, con la base de la escalera a 5 metros del muro (formando un triángulo rectángulo con hipotenusa 13 metros, la longitud de la escalera). ¿Cuál es el coseno del ángulo θ que forman el suelo y la escalera?",
+      "options": [
+        { "key": "A", "text": "12/13" },
+        { "key": "B", "text": "12/5" },
+        { "key": "C", "text": "5/13" },
+        { "key": "D", "text": "13/5" }
+      ],
+      "answer": "C",
+      "tip": "El coseno de un ángulo en un triángulo rectángulo es \"cateto adyacente sobre hipotenusa\". El ángulo θ está entre el suelo (cateto de 5 metros) y la escalera (hipotenusa de 13 metros), así que el cateto ADYACENTE a θ es el de 5 metros.",
+      "explanation": "El ángulo θ se forma entre el suelo (cateto adyacente = 5 m) y la escalera (hipotenusa = 13 m). El coseno es cateto adyacente sobre hipotenusa: cos(θ) = 5/13."
+    },
+    {
+      "id": "mat03-q7",
+      "image": "mat03-tablas-transporte.png",
+      "imageAlt": "Cuatro tablas (A, B, C, D) que cruzan género (hombre/mujer) con medio de transporte (en bus/caminando), cada una con distintos números.",
+      "stem": "En una fábrica se aplica una encuesta a los empleados para saber el medio de transporte que usan para llegar al trabajo. Los resultados mostraron estas tres conclusiones sobre un grupo de 100 empleados que viven cerca de la fábrica y que se desplazan únicamente en bus o a pie: el 60 % del grupo son mujeres; el 20 % de las mujeres se desplazan en bus; el 40 % de los hombres se desplazan caminando. ¿Cuál de las siguientes tablas representa correctamente la información obtenida de ese grupo?",
+      "options": [
+        { "key": "A", "text": "Tabla A" },
+        { "key": "B", "text": "Tabla B" },
+        { "key": "C", "text": "Tabla C" },
+        { "key": "D", "text": "Tabla D" }
+      ],
+      "answer": "D",
+      "tip": "De 100 empleados, 60 son mujeres y 40 son hombres. De las 60 mujeres, el 20% va en bus: 0,20×60=12 mujeres en bus, y las otras 48 caminan. De los 40 hombres, el 40% camina: 0,40×40=16 hombres caminan, y los otros 24 van en bus. Compara estos cuatro números con cada tabla.",
+      "explanation": "60 mujeres × 20% en bus = 12 mujeres en bus, y 60−12=48 mujeres caminando. 40 hombres × 40% caminando = 16 hombres caminando, y 40−16=24 hombres en bus. Esto da exactamente: Hombre en bus=24, Mujer en bus=12, Hombre caminando=16, Mujer caminando=48, que coincide con la tabla D."
+    },
+    {
+      "id": "mat03-q8",
+      "image": "mat03-graficas-area-Ax.png",
+      "imageAlt": "Un plano cartesiano con la curva f(x)=5/x y un rectángulo sombreado formado desde el origen hasta un punto de la curva, seguido de cuatro gráficas candidatas (A, B, C, D) para la función de área A(x).",
+      "context": "El área de los rectángulos que se pueden construir a partir del origen, los ejes y un punto que pertenece a la gráfica de la función f(x) = 5/x, donde x > 0, se describe con la expresión A(x) = x·f(x).",
+      "stem": "¿Cuál de las siguientes gráficas corresponde a A(x)?",
+      "options": [
+        { "key": "A", "text": "Gráfica A" },
+        { "key": "B", "text": "Gráfica B" },
+        { "key": "C", "text": "Gráfica C" },
+        { "key": "D", "text": "Gráfica D" }
+      ],
+      "answer": "B",
+      "tip": "Sustituye f(x)=5/x en la expresión A(x)=x·f(x) y simplifica algebraicamente antes de pensar en gráficas. ¿Qué le pasa a la \"x\" en la multiplicación?",
+      "explanation": "A(x) = x·f(x) = x·(5/x) = 5. La \"x\" se cancela algebraicamente, dejando una función CONSTANTE: A(x)=5 para todo x>0. Eso significa que el área de estos rectángulos no cambia sin importar qué punto de la curva se elija, lo cual corresponde a una línea horizontal en y=5, es decir, la gráfica B."
+    },
+    {
+      "id": "mat03-q9",
+      "image": "mat03-solidos-volumen.png",
+      "imageAlt": "Tres figuras geométricas: un cilindro con altura h=2 y radio r=3/2; una caja de base cuadrada con altura h=2 y lado L=3/2; y una esfera con radio r=3/2.",
+      "stem": "Alfonso tiene tres empaques para almacenar dulces: 1) un cilindro cuya altura es h=2 y el radio de la base mide r=3/2; 2) una caja de base cuadrada, cuya altura es h=2 y el lado de la base mide L=3/2; y 3) una esfera con radio r=3/2. ¿Cuál de las siguientes afirmaciones es verdadera respecto al volumen de los tres empaques?",
+      "options": [
+        { "key": "A", "text": "El volumen del cilindro es mayor que el volumen de la caja; además, el volumen de la esfera es igual que el volumen del cilindro." },
+        { "key": "B", "text": "El volumen del cilindro es igual que el volumen de la caja; además, el volumen de la esfera es mayor que el volumen del cilindro." },
+        { "key": "C", "text": "El volumen del cilindro es menor que el volumen de la caja; además, el volumen de la esfera es igual que el volumen del cilindro." },
+        { "key": "D", "text": "El volumen del cilindro es mayor que el volumen de la caja; además, el volumen de la esfera es mayor que el volumen del cilindro." }
+      ],
+      "answer": "A",
+      "tip": "Calcula cada volumen por separado usando las fórmulas: cilindro V=πr²h; caja (prisma rectangular) V=L²h; esfera V=(4/3)πr³. Sustituye r=L=3/2 y h=2 en cada una, y compara los tres resultados.",
+      "explanation": "Cilindro: V=πr²h=π×(3/2)²×2=π×(9/4)×2=4,5π≈14,14. Caja: V=L²h=(3/2)²×2=(9/4)×2=4,5 (sin factor π, mucho menor). Esfera: V=(4/3)πr³=(4/3)×π×(3/2)³=(4/3)×π×(27/8)=4,5π≈14,14. El cilindro (4,5π) es mucho mayor que la caja (4,5), y la esfera (4,5π) resulta exactamente IGUAL al volumen del cilindro."
+    }
+  ]
+}

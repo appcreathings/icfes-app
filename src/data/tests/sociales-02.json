@@ -1,0 +1,216 @@
+{
+  "id": "sociales-02",
+  "area": "sociales",
+  "title": "Sociales y Ciudadanas · Test 2",
+  "source": "Cuadernillo de práctica, Prueba Sociales y Ciudadanas, Icfes",
+  "questions": [
+    {
+      "id": "soc02-q1",
+      "stem": "Considere el siguiente fragmento extraído de un Plan Nacional de Desarrollo de México: \"La productividad no sólo se incrementa con las grandes reformas estructurales. El proceso de crecimiento del país también se puede y debe impulsar desde los sectores privado, social y desde todos los órdenes de gobierno. En este sentido, esta estrategia plantea que la Administración Pública Federal busque el incremento de la productividad mediante la eliminación de trabas que impiden el funcionamiento adecuado de la economía, promoviendo la creación de empleos, mejorando la regulación y, de manera especial, simplificando la normatividad y trámites gubernamentales\". ¿Con cuál de los siguientes modelos es afín esta propuesta para mejorar la productividad económica?",
+      "options": [
+        { "key": "A", "text": "Con el socialismo, porque busca que el Estado tenga un control total de la economía." },
+        { "key": "B", "text": "Con la monarquía, porque centraliza las decisiones económicas en el jefe de Estado." },
+        { "key": "C", "text": "Con el neoliberalismo, porque restringe el rol del Estado a la protección del mercado." },
+        { "key": "D", "text": "Con la democracia, porque invita a todos a tomar parte en las decisiones económicas." }
+      ],
+      "answer": "C",
+      "tip": "El fragmento propone ELIMINAR trabas, simplificar trámites y reducir la regulación gubernamental para impulsar la economía desde el sector privado. ¿Ese enfoque de \"menos Estado, más mercado\" con qué modelo económico se asocia?",
+      "explanation": "La propuesta busca reducir la intervención estatal (eliminar trabas, simplificar trámites, dejar que el sector privado impulse el crecimiento), lo cual es característico del modelo neoliberal, que restringe el papel del Estado a garantizar las condiciones para que el mercado funcione, en lugar de controlarlo o dirigirlo directamente."
+    },
+    {
+      "id": "soc02-q2",
+      "stem": "Lea detenidamente la siguiente definición de proteccionismo económico: \"Se puede definir el proteccionismo como el uso de varios mecanismos con el objetivo principal de proteger a las empresas nacionales de la competencia extranjera. El mecanismo más utilizado es el de aplicar un alto nivel de impuestos a la entrada de productos hechos en otros países (estos impuestos se denominan aranceles). Los aranceles son una barrera ya que son costos que tienen que pagar las empresas al comerciar entre países. Estos costos aumentan el precio del producto y, por lo tanto, dificultan su venta\". Teniendo en cuenta el fragmento anterior, ¿en cuál de las siguientes condiciones se justificaría el uso del modelo proteccionista en un país?",
+      "options": [
+        { "key": "A", "text": "Cuando se fabrica tecnología de punta para optimizar la producción de alimentos." },
+        { "key": "B", "text": "Cuando tiene suelos desérticos que impiden la producción de alimentos." },
+        { "key": "C", "text": "Cuando importa un buen número de alimentos que se producen en su territorio." },
+        { "key": "D", "text": "Cuando exporta más alimentos de los que compra en los mercados extranjeros." }
+      ],
+      "answer": "C",
+      "tip": "El proteccionismo busca proteger a los productores NACIONALES de la competencia extranjera. Para que eso tenga sentido, el país debe tener una industria nacional que producir ese mismo tipo de bien, y que compite contra importaciones de ese mismo producto.",
+      "explanation": "El proteccionismo tiene sentido cuando un país produce internamente un bien, pero además importa cantidades significativas de ese mismo tipo de bien desde el exterior (compitiendo con la producción nacional). En ese caso, poner aranceles protege a los productores locales de alimentos frente a la competencia extranjera. Si el país tiene suelos desérticos que impiden producir alimentos (B), no habría industria nacional que proteger."
+    },
+    {
+      "id": "soc02-q3",
+      "stem": "Lea atentamente el siguiente planteamiento: \"El actual conflicto armado que enluta a vastas regiones y amplios sectores de la población colombiana, afecta de manera directa o indirecta a toda la nación (…) somos conscientes de la nefasta influencia totalizadora de este flagelo sobre los diversos estamentos de la vida nacional. Toda guerra de hecho compromete a la población civil, destruye la economía de las regiones y subvierte los valores sociales. La guerra que desató la subversión y que nos ha obligado a responder, no es una guerra de posiciones con distintivos convencionales y combatientes identificables, como en los enfrentamientos bélicos regulares. Es una guerra irregular, en la cual la guerrilla se camufla dentro de la población civil\". Probablemente, ¿quién elaboró este planteamiento?",
+      "options": [
+        { "key": "A", "text": "Un empresario, porque señala las consecuencias indirectas del conflicto sobre la economía del país." },
+        { "key": "B", "text": "Un congresista, porque señala las consecuencias del conflicto armado y la necesidad de crear un marco jurídico para la paz." },
+        { "key": "C", "text": "Un investigador, porque se muestra externo al conflicto y califica la confrontación como de carácter irregular y poco convencional." },
+        { "key": "D", "text": "Un paramilitar, porque afirma que fueron las acciones de la guerrilla las que obligaron a su organización a involucrarse en el conflicto." }
+      ],
+      "answer": "D",
+      "tip": "Fíjate en la expresión \"la guerra que desató la subversión y que nos ha obligado a responder\": quien habla se presenta como parte de un \"nosotros\" que reacciona (no como observador externo) contra la guerrilla (\"subversión\"). ¿Qué actor del conflicto armado colombiano se definió históricamente así, en oposición directa y armada contra la guerrilla?",
+      "explanation": "El uso de \"nos ha obligado a responder\" muestra que quien habla es un actor directamente involucrado en el conflicto (no un observador externo como un investigador), que se presenta a sí mismo como reaccionando ante las acciones de la guerrilla. Ese patrón discursivo —justificar la propia beligerancia como respuesta obligada a la subversión— es característico de los grupos paramilitares colombianos."
+    },
+    {
+      "id": "soc02-q4",
+      "stem": "En las principales ciudades del mundo moderno está produciéndose un paulatino abandono de las zonas residenciales del centro urbano, al tiempo que las zonas periféricas tienden a un mayor poblamiento. Estas migraciones las realizan personas o familias que tienen ingresos medios y altos. ¿Cuál es probablemente la principal causa de este fenómeno?",
+      "options": [
+        { "key": "A", "text": "El creciente desarrollo de la industria en el centro de las ciudades." },
+        { "key": "B", "text": "La búsqueda de mejor calidad de vida en barrios tranquilos." },
+        { "key": "C", "text": "La escasa oferta de servicios en los barrios del centro de la ciudad." },
+        { "key": "D", "text": "La creciente oferta de vivienda barata en las afueras de la ciudad." }
+      ],
+      "answer": "B",
+      "tip": "Quienes migran hacia la periferia tienen ingresos MEDIOS y ALTOS, no bajos. Eso descarta que se muden por buscar vivienda \"barata\" (esa motivación aplicaría más a personas de bajos ingresos). Piensa en qué buscan las familias con más recursos al alejarse del centro urbano.",
+      "explanation": "Como quienes migran tienen ingresos medios y altos, no es plausible que la razón principal sea buscar vivienda barata (D, más asociado a personas de bajos ingresos) ni la falta de servicios (C, el centro suele tener MÁS servicios, no menos). La explicación más consistente es que buscan una mejor calidad de vida (menos ruido, más espacio, tranquilidad) en zonas periféricas, algo que pueden costear gracias a sus mayores ingresos."
+    },
+    {
+      "id": "soc02-q5",
+      "stem": "En una región de Colombia, una organización estatal promueve proyectos de agricultura para la reintegración de campesinos desplazados. Con este objetivo, se propone la utilización de unos terrenos que forman parte de un ecosistema de humedal. Una organización ambientalista rechaza esta decisión porque afectará este ecosistema. ¿Son semejantes las posiciones de la organización estatal y la organización ambientalista?",
+      "options": [
+        { "key": "A", "text": "Son semejantes, porque las dos buscan el aprovechamiento económico del humedal para el bienestar de los campesinos." },
+        { "key": "B", "text": "Son semejantes, porque las dos buscan defender a toda costa las riquezas naturales de la región." },
+        { "key": "C", "text": "Son diferentes, porque una defiende al ecosistema aunque esto signifique no poder dar tierras a los campesinos y la otra quiere ayudarlos, aunque se dañe el ecosistema." },
+        { "key": "D", "text": "Son diferentes, porque una busca que los campesinos se asienten y trabajen en otra región y la otra busca que se preserve el ecosistema del humedal." }
+      ],
+      "answer": "C",
+      "tip": "Identifica la prioridad de CADA organización: ¿qué está dispuesta a sacrificar cada una? La organización estatal prioriza ayudar a los campesinos (aunque afecte el humedal); la ambientalista prioriza el humedal (aunque signifique no darles tierra a los campesinos).",
+      "explanation": "Las posiciones son diferentes porque priorizan cosas distintas: la organización ambientalista defiende el ecosistema del humedal incluso si eso implica no poder darles tierras a los campesinos, mientras que la organización estatal busca ayudar a los campesinos incluso si eso significa afectar el humedal. No se trata de que una quiera reubicar a los campesinos en otra región (D, no es lo que dice el caso), sino de una diferencia de prioridades entre desarrollo social y conservación ambiental."
+    },
+    {
+      "id": "soc02-q6",
+      "stem": "Algunas tendencias del liberalismo promueven cobrar más impuestos a la parte de la población que posee más recursos, y menos impuestos a aquellas personas que posean menos (impuestos progresivos). ¿Cuál de las siguientes situaciones está de acuerdo con lo anterior?",
+      "options": [
+        { "key": "A", "text": "En el país A, la tasa promedio de impuestos es el 33 % del salario de los habitantes." },
+        { "key": "B", "text": "En el país B, el gobierno autoriza aumentar el impuesto del IVA." },
+        { "key": "C", "text": "En el país C, el gobierno quita los subsidios para los servicios públicos." },
+        { "key": "D", "text": "En el país D, el gobierno aumenta los impuestos de patrimonio y renta." }
+      ],
+      "answer": "D",
+      "tip": "Busca la opción que grave específicamente a quienes tienen MÁS recursos (patrimonio, renta alta), no un impuesto parejo que afecte a todos por igual (como el IVA, que se paga igual sin importar cuánto se gane).",
+      "explanation": "Los impuestos de patrimonio y renta se aplican principalmente sobre la riqueza y los ingresos más altos, por lo que aumentarlos afecta más a quienes tienen más recursos, en línea con la idea de cobrar más a quien más tiene. En cambio, el IVA (B) es un impuesto al consumo que todos pagan por igual sin importar su nivel de ingresos (por eso se considera regresivo), y quitar subsidios a servicios públicos (C) suele afectar más a los sectores de menores ingresos."
+    },
+    {
+      "id": "soc02-q7",
+      "stem": "El socialismo busca la igualdad social, política y económica. ¿Qué propone el socialismo para alcanzar este propósito?",
+      "options": [
+        { "key": "A", "text": "Privatizar los medios de producción y lograr desmontar los sindicatos de las empresas transnacionales y multinacionales." },
+        { "key": "B", "text": "Impulsar el consumo y la capacidad de endeudamiento de los trabajadores como factores fundamentales para dinamizar la economía." },
+        { "key": "C", "text": "Ofrecer bienes y servicios según el esquema de los tratados de libre comercio y la apertura económica de las fronteras nacionales." },
+        { "key": "D", "text": "Lograr la tenencia colectiva de los medios de producción y la consolidación del poder político en las clases trabajadoras." }
+      ],
+      "answer": "D",
+      "tip": "El socialismo se opone a la propiedad privada concentrada de fábricas, tierras y empresas (\"medios de producción\"). Busca la opción que proponga que esos medios de producción sean de propiedad COLECTIVA, no privada.",
+      "explanation": "El socialismo propone que los medios de producción (fábricas, tierras, empresas) sean de propiedad colectiva en lugar de privada, y que el poder político esté en manos de la clase trabajadora, no de quienes poseen el capital. Las demás opciones (privatizar, libre comercio, apertura de fronteras) son características más asociadas al capitalismo o al liberalismo económico, no al socialismo."
+    },
+    {
+      "id": "soc02-q8",
+      "stem": "Un programa impulsado por países europeos lleva varios años apoyando a jóvenes bogotanos de estratos 1, 2 y 3 con buen manejo del inglés, para que creen sus propios negocios. Después de 5 años de operación, detectan que el 30 % de los negocios son restaurantes de comida internacional, 30 % salones de belleza, 20 % tiendas de ropa formal, 10 % librerías y 10 % escuelas de baile. Ante el éxito del proyecto, deciden abrir una convocatoria para replicar el modelo en Riohacha, Leticia, Arauca y Florencia, apoyando allí las mismas tipologías de negocio y en los mismos porcentajes que en Bogotá. Algunos expertos señalan que la implementación del mismo modelo en estas ciudades puede no funcionar. ¿Por qué podría fallar la implementación de este modelo en las otras ciudades?",
+      "options": [
+        { "key": "A", "text": "Porque los jóvenes no están interesados en hacer negocios sino en estudiar." },
+        { "key": "B", "text": "Porque no es viable mantener un programa por tan largo tiempo." },
+        { "key": "C", "text": "Porque las necesidades de la población, lo que se demanda, pueden ser muy distintas." },
+        { "key": "D", "text": "Porque los jóvenes no tienen buen dominio del inglés." }
+      ],
+      "answer": "C",
+      "tip": "Riohacha, Leticia, Arauca y Florencia tienen contextos geográficos, económicos y culturales muy distintos entre sí y respecto a Bogotá. Replicar EXACTAMENTE las mismas proporciones de negocios (30% restaurantes, 30% salones de belleza, etc.) asume que la demanda del mercado es igual en todas partes. ¿Es realista esa suposición?",
+      "explanation": "Cada ciudad tiene un contexto económico, cultural y geográfico distinto, por lo que la demanda de productos y servicios (lo que la población local necesita o quiere comprar) puede ser muy diferente de una ciudad a otra. Replicar exactamente las mismas proporciones de negocios que funcionaron en Bogotá no garantiza éxito si esos negocios no responden a las necesidades particulares de Riohacha, Leticia, Arauca o Florencia."
+    },
+    {
+      "id": "soc02-q9",
+      "stem": "El Consejo Académico de un colegio decidió nombrar como representantes al Consejo Estudiantil a los estudiantes con mejor desempeño académico y de convivencia, en lugar de realizar las elecciones ordinarias. ¿Qué situación genera esta decisión?",
+      "options": [
+        { "key": "A", "text": "Que se estimule a los estudiantes a estudiar y ser mejores compañeros." },
+        { "key": "B", "text": "Que se dificulte la disponibilidad de tiempo para el desarrollo normal de las actividades académicas." },
+        { "key": "C", "text": "Que se vulnere el derecho de los estudiantes a tener y utilizar mecanismos de participación." },
+        { "key": "D", "text": "Que se promueva en los estudiantes la comprensión de la importancia del Consejo Estudiantil." }
+      ],
+      "answer": "C",
+      "tip": "El Consejo Estudiantil es, por definición, un órgano elegido democráticamente por los propios estudiantes (un mecanismo de participación). Si el colegio decide NOMBRAR directamente a los representantes en lugar de dejar que los estudiantes VOTEN, ¿qué derecho de los estudiantes se ve afectado?",
+      "explanation": "El Consejo Estudiantil es un mecanismo de participación estudiantil que normalmente se conforma por elección democrática de los propios estudiantes. Al reemplazar las elecciones por un nombramiento directo (aunque sea con buenas intenciones, premiando el buen desempeño), se les niega a los estudiantes su derecho a elegir a sus representantes, es decir, se vulnera su derecho a participar."
+    },
+    {
+      "id": "soc02-q10",
+      "stem": "En un periódico de la ciudad han aparecido continuamente titulares como los siguientes: \"El alcalde no es capaz de solucionar el problema de criminalidad en la ciudad\", \"Al alcalde le queda grande erradicar el crimen de la ciudad\" y \"La ciudad y la Alcaldía están sometidas a los criminales\". Antes de creer que el alcalde está haciendo mal su trabajo en materia de seguridad, ¿qué deberían revisar los ciudadanos principalmente?",
+      "options": [
+        { "key": "A", "text": "El plan de gobierno para ver si había propuestas en el tema de seguridad." },
+        { "key": "B", "text": "Los índices de criminalidad en otras ciudades del país y de los países vecinos." },
+        { "key": "C", "text": "Los cambios en los índices de criminalidad desde que el alcalde se posesionó." },
+        { "key": "D", "text": "Las declaraciones oficiales del alcalde sobre si lo está haciendo bien o no." }
+      ],
+      "answer": "C",
+      "tip": "Los titulares son afirmaciones cargadas de opinión, no datos objetivos. Antes de aceptar la conclusión de que el alcalde \"lo está haciendo mal\", ¿qué evidencia concreta y verificable permitiría evaluar objetivamente su gestión en seguridad?",
+      "explanation": "Para evaluar objetivamente si la gestión del alcalde en materia de seguridad ha sido buena o mala, lo más pertinente es comparar los índices de criminalidad ANTES y DESPUÉS de que asumiera el cargo (es decir, ver la tendencia bajo su gestión), en lugar de guiarse por titulares de prensa (que pueden ser sensacionalistas) o por lo que el propio alcalde diga sobre su desempeño (que no es una fuente imparcial)."
+    },
+    {
+      "id": "soc02-q11",
+      "stem": "El problema del tráfico de drogas ilícitas ha generado que gobernantes, académicos y miembros de la sociedad civil de países productores debatan sobre el asunto con el fin de encontrar soluciones. Algunos proponen que, para defender el bien común, se debe legalizar las drogas. ¿Cuál de los siguientes es el argumento más afín con la propuesta de legalización, pensada para defender el bien común?",
+      "options": [
+        { "key": "A", "text": "Cada persona debe tener la libertad de decidir si consume o no drogas y, por tanto, su comercialización no debería estar bajo ningún control." },
+        { "key": "B", "text": "Los países productores no tienen ninguna responsabilidad en el tráfico de drogas; la responsabilidad recae sobre los países consumidores." },
+        { "key": "C", "text": "Quienes consumen drogas no deben ser tratados como delincuentes, sino como adictos que necesitan tratamientos médicos." },
+        { "key": "D", "text": "En los países productores la prohibición ha generado problemas sociales más graves que aquellos que se querían evitar con esta medida." }
+      ],
+      "answer": "D",
+      "tip": "La pregunta pide el argumento centrado en el BIEN COMÚN (el bienestar de la sociedad en su conjunto), no en la libertad individual (A) ni en culpar a otro país (B). Busca la opción que hable de un daño social colectivo causado por la prohibición misma.",
+      "explanation": "El argumento que mejor se alinea con defender el \"bien común\" es aquel que señala un daño social generalizado causado por la prohibición (como la violencia asociada al narcotráfico), y que legalizar reduciría ese daño colectivo. La opción A apela a la libertad individual (no al bien común), y B simplemente traslada la culpa a otro país, sin argumentar a favor de la legalización en sí."
+    },
+    {
+      "id": "soc02-q12",
+      "stem": "Ante los crecientes robos a residencias en algunos sectores de estratos altos de una ciudad, el alcalde está considerando autorizar el cerramiento de grandes sectores residenciales que agrupan varios barrios de la ciudad, para que sean vigilados por seguridad privada y para que solo se permita la entrada a los residentes o a personas autorizadas por estos. A la hora de evaluar la propuesta, ¿qué intereses en conflicto deben ser tenidos en cuenta?",
+      "options": [
+        { "key": "A", "text": "Los de las empresas de seguridad privada que buscan expandir su negocio, y los de las bandas de ladrones que buscan seguir realizando sus actividades sin obstáculos." },
+        { "key": "B", "text": "Los de los residentes que buscan su seguridad, y los de los demás habitantes de la ciudad que dejarían de tener acceso a las vías y otros espacios públicos de los sectores encerrados." },
+        { "key": "C", "text": "Los de los residentes que buscan su beneficio particular y los intereses del gobierno local que debe encargarse del bienestar de la comunidad." },
+        { "key": "D", "text": "Los de las empresas de seguridad privada que serían contratadas para cuidar los sectores encerrados, y los de la Policía encargada de la seguridad en la ciudad." }
+      ],
+      "answer": "B",
+      "tip": "Cerrar varios barrios enteros con control de acceso no solo afecta a los residentes de adentro: también afecta a cualquier persona de la ciudad que antes podía transitar libremente por esas calles y espacios públicos. ¿Cuál opción capta ese conflicto entre seguridad privada y acceso público?",
+      "explanation": "El conflicto central de esta propuesta es entre el interés legítimo de los residentes por su seguridad y el interés de los demás habitantes de la ciudad, quienes perderían el acceso libre a vías y espacios públicos que quedarían dentro de los sectores cerrados. Las demás opciones (A, D) introducen actores (bandas de ladrones, la Policía) que no son el eje central del dilema de política pública planteado."
+    },
+    {
+      "id": "soc02-q13",
+      "stem": "La Corte Constitucional falló a favor de un soldado que había interpuesto una tutela al considerar que la institución militar no le respetaba el derecho a la objeción de conciencia, porque su religión le prohíbe el uso de armas y las prácticas militares. El fundamento del fallo es la defensa de la libertad de conciencia del soldado. ¿Cuál de las siguientes acciones es coherente con este fallo?",
+      "options": [
+        { "key": "A", "text": "Ordenarle al Ejército la entrega de la libreta militar al soldado y su inmediata desvinculación de la institución." },
+        { "key": "B", "text": "Ordenarle al soldado cumplir su servicio militar obligatorio con todas las responsabilidades asignadas." },
+        { "key": "C", "text": "Ordenarle al Ejército que el soldado participe de los entrenamientos y haga solo tareas de oficina." },
+        { "key": "D", "text": "Ordenarle al soldado participar únicamente en paradas militares, portando con orgullo la dotación militar." }
+      ],
+      "answer": "A",
+      "tip": "El fallo defiende la libertad de conciencia del soldado frente a TODAS las prácticas militares (uso de armas Y entrenamiento militar en general, según su religión). Busca la opción que respete eso de forma completa, no una solución a medias que aún lo mantenga vinculado a actividades militares (como entrenamientos, desfiles o tareas de oficina dentro del Ejército).",
+      "explanation": "Como el fundamento del fallo es que la religión del soldado le prohíbe el uso de armas Y las prácticas militares en general (no solo combatir), la única acción coherente es desvincularlo completamente de la institución militar (entregarle la libreta y darlo de baja), no encontrar tareas alternativas que lo mantengan dentro del Ejército (como oficina o desfiles), pues eso seguiría vulnerando su objeción de conciencia."
+    },
+    {
+      "id": "soc02-q14",
+      "stem": "Durante las épocas de lluvias, en muchas zonas rurales de Colombia se inundan escuelas y se interrumpen los caminos para llegar a estas. De las siguientes soluciones propuestas por la comunidad, ¿cuál podría evidenciar una vulneración al derecho a la educación?",
+      "options": [
+        { "key": "A", "text": "Organizar esquemas de transporte para que los estudiantes vayan a clases en escuelas no afectadas por las inundaciones." },
+        { "key": "B", "text": "Ajustar el calendario escolar para que no haya clases en las épocas de inundación." },
+        { "key": "C", "text": "Dar una parte de las clases a través de la emisora de radio local, para reducir los días en los que tienen que asistir al colegio." },
+        { "key": "D", "text": "Asignar a los estudiantes a escuelas no inundadas y reiniciar las clases con los niños que puedan asistir." }
+      ],
+      "answer": "B",
+      "tip": "Compara las cuatro opciones: tres de ellas buscan ADAPTAR la forma de dar clases para que los estudiantes sigan recibiendo educación (transporte alterno, radio, reasignación de escuela). Una de ellas, en cambio, simplemente CANCELA las clases por un periodo. ¿Cuál es?",
+      "explanation": "Ajustar el calendario para simplemente NO tener clases durante la temporada de lluvias reduce directamente el tiempo de educación que reciben los estudiantes, sin buscar ninguna alternativa para que sigan aprendiendo. Las otras opciones (transporte alterno, clases por radio, reasignación a otra escuela) buscan maneras de mantener el acceso a la educación a pesar de las inundaciones, por lo que no vulneran ese derecho de la misma forma."
+    },
+    {
+      "id": "soc02-q15",
+      "stem": "Pekín y otras partes de China sufren de elevados niveles de contaminación. Debido a la contaminación en Pekín, algunos días las autoridades cancelan las actividades deportivas en el exterior en colegios y guarderías y recomiendan a niños y ancianos que no salgan a la calle. Aunque se han cerrado centenares de fábricas en la capital y en otros puntos del país, la situación no mejora. Los expertos consideran que la única solución es que la segunda economía mundial reduzca de forma paulatina su dependencia de las industrias pesadas y apueste por un modelo de energía mixta. Las industrias pesadas, entre ellas los sectores de la construcción y el manufacturero, aportaron el 46 % del Producto Interior Bruto (PIB) en 2012. \"China debería rebajar esta cifra hasta 9 puntos porcentuales entre 2013 y 2030 si quiere cumplir su objetivo de reducción de la contaminación\", señala un experto. En esta situación, ¿cuáles dimensiones están en conflicto?",
+      "options": [
+        { "key": "A", "text": "La educativa y la ambiental." },
+        { "key": "B", "text": "La cultural y la educativa." },
+        { "key": "C", "text": "La económica y la ambiental." },
+        { "key": "D", "text": "La cultural y la económica." }
+      ],
+      "answer": "C",
+      "tip": "Por un lado, las industrias pesadas aportan casi la mitad del PIB (dimensión económica); por otro, esas mismas industrias son la causa principal de la contaminación que afecta la salud pública (dimensión ambiental). Reducir una implica sacrificar parte de la otra.",
+      "explanation": "El conflicto central es entre mantener el crecimiento económico (las industrias pesadas representan el 46 % del PIB) y reducir la contaminación ambiental que esas mismas industrias generan (afectando la salud pública). Por eso las dimensiones en conflicto son la económica y la ambiental, no aspectos educativos o culturales, que no son el eje del problema descrito."
+    },
+    {
+      "id": "soc02-q16",
+      "stem": "Un estudiante se intoxicó con comida que compró a un vendedor ambulante a la salida del colegio. Por esto, el Consejo Directivo del colegio, con la ayuda de la Policía, logró la expulsión de los vendedores ambulantes del sector. De los siguientes, ¿cuál sería un efecto de la expulsión de los vendedores ambulantes del sector del colegio?",
+      "options": [
+        { "key": "A", "text": "El aumento de la inseguridad en las inmediaciones del colegio." },
+        { "key": "B", "text": "El aumento de las intoxicaciones alimentarias de los estudiantes en el colegio." },
+        { "key": "C", "text": "La disminución del apoyo de la comunidad al Consejo Directivo y a la Policía." },
+        { "key": "D", "text": "La disminución de los ingresos de las familias que dependían de esas ventas." }
+      ],
+      "answer": "D",
+      "tip": "Piensa en quiénes dependían económicamente de esas ventas ambulantes para su sustento diario. Si se les prohíbe vender en esa zona, ¿qué consecuencia económica directa e inmediata tendría eso para ellos y sus familias?",
+      "explanation": "Al expulsar a los vendedores ambulantes de la zona, la consecuencia más directa e inmediata es que esas personas (y sus familias) dejan de percibir los ingresos que obtenían de esas ventas. Las demás opciones no se derivan lógicamente de la medida: expulsar a los vendedores no debería aumentar las intoxicaciones (más bien buscaría reducirlas) ni hay razón para asumir que aumentaría la inseguridad o que la comunidad retiraría su apoyo, dado que la medida respondió a un problema real de salud pública."
+    }
+  ]
+}

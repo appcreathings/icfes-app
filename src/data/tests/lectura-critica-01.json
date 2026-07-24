@@ -1,0 +1,366 @@
+{
+  "id": "lectura-critica-01",
+  "area": "lectura-critica",
+  "title": "Lectura Crítica · Test 1",
+  "source": "Cuadernillo de preguntas Lectura Crítica, Saber 11.º, Icfes (febrero 2026)",
+  "questions": [
+    {
+      "id": "lc01-q1",
+      "contextId": "johnny",
+      "context": "JOHNNY\n\n«Conozco a un tipo»: Esta es la frase recurrente que define a Johnny. A secas. Johnny era así, uno le decía: me encantaría multiplicar mis ahorros por mil. Y él: \"Conozco a un tipo\". Me encantaría viajar a Cuba, comprar unos habanos y volver. ¿Para qué? Para venderlo. \"Conozco a un tipo\". Me encantaría hacerme un tatuaje. ¿Dónde? En la nuca: \"Conozco a un tipo\". Me encantaría quedarme acá para siempre. Y ahí Johnny ya no conocía a nadie. Decía: este es un país muy duro. Pero él vivía como un magnate, cambiaba de carro cada seis meses y seguía pagando el mismo leasing; cobraba un subsidio de desempleo que nadie le controlaba y era con eso que pagaba los moteles donde tirábamos, o las langostas que nos comíamos en Key West, o los VIP passes de los bares de salsa a los que le gustaba llevarme en Calle Ocho.\n\nJohnny vivía a expensas de su mujer –mitad gringa, mitad ecuatoriana– y compraba hasta los calzoncillos de marca: alimentaba rigurosamente su pequeño sueño americano como si temiera que, si un día se olvidaba de hacerlo, se desplomara a sus pies como un pajarito famélico.\n\nTomado y adaptado de: García Robayo, M. (2015). Hasta que pase un huracán. Bogotá, D. C.: Laguna Libros.",
+      "stem": "En el último párrafo del texto se utiliza la palabra \"famélico\" para describir a Johnny. ¿Cuál de los siguientes adjetivos le da un sentido contrario al significado que tiene esta palabra en el texto?",
+      "options": [
+        { "key": "A", "text": "Magro." },
+        { "key": "B", "text": "Enjuto." },
+        { "key": "C", "text": "Relleno." },
+        { "key": "D", "text": "Esquelético." }
+      ],
+      "answer": "C",
+      "competency": "Identifica y entiende los contenidos locales que conforman un texto.",
+      "tip": "\"Famélico\" describe a alguien muy delgado, casi hambriento. Busca la opción que signifique lo opuesto: bien alimentado o robusto, no otro sinónimo de flacura.",
+      "explanation": "\"Relleno\" es lo contrario de \"famélico\": mientras famélico alude a algo escuálido y hambriento, relleno sugiere algo lleno o gordo. Magro, enjuto y esquelético son, en cambio, sinónimos de delgadez extrema, es decir, van en el mismo sentido que \"famélico\", no en el opuesto."
+    },
+    {
+      "id": "lc01-q2",
+      "contextId": "johnny",
+      "stem": "El fragmento lo narra",
+      "options": [
+        { "key": "A", "text": "Un testigo que solo cuenta lo que ve." },
+        { "key": "B", "text": "Johnny, el protagonista." },
+        { "key": "C", "text": "Un personaje de la historia que cuenta lo que le contaron." },
+        { "key": "D", "text": "Alguien que conoce a Johnny." }
+      ],
+      "answer": "D",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "Fíjate en el uso de \"nos comíamos\" y \"le gustaba llevarme\": el narrador participa directamente en las escenas junto a Johnny, no solo las observa de lejos ni las conoce de oídas.",
+      "explanation": "El narrador usa la primera persona y relata experiencias vividas junto a Johnny (\"las langostas que nos comíamos\", \"le gustaba llevarme\"), lo que muestra que es alguien cercano que lo conoce directamente, no un simple testigo externo ni Johnny mismo (el texto habla de él en tercera persona)."
+    },
+    {
+      "id": "lc01-q3",
+      "contextId": "johnny",
+      "stem": "Desde la información que brinda el texto, ¿cuál de las siguientes palabras describe mejor a Johnny?",
+      "options": [
+        { "key": "A", "text": "Vividor." },
+        { "key": "B", "text": "Generoso." },
+        { "key": "C", "text": "Trabajador." },
+        { "key": "D", "text": "Mezquino." }
+      ],
+      "answer": "A",
+      "competency": "Identifica y entiende los contenidos locales que conforman un texto.",
+      "tip": "Johnny vive de un subsidio y del dinero de su esposa, gastando en lujos sin trabajar. ¿Qué palabra describe a alguien que disfruta la vida a costa de otros?",
+      "explanation": "\"Vividor\" describe a alguien que vive a costa de los demás disfrutando de lujos sin esfuerzo propio, justo lo que hace Johnny: vive del subsidio de desempleo y del dinero de su mujer mientras gasta en carros, fiestas y ropa de marca. No hay evidencia de que sea trabajador, y tampoco es mezquino, pues gasta con generosidad (aunque no es su propio dinero)."
+    },
+    {
+      "id": "lc01-q4",
+      "contextId": "avispa",
+      "context": "Instinto en lugar de lógica\n\nCuando llega la hora de poner sus huevos, la avispa Sphex construye una pequeña madriguera para este propósito y sale en la búsqueda de un grillo al cual pica de manera tal que lo paraliza, pero no lo mata. La avispa lleva al grillo a su madriguera, deja sus huevos, cierra la madriguera y luego se va para no volver. Pasado un tiempo, los huevos crecen y la cría de la avispa se alimenta del grillo paralizado que no se descompone debido a que ha permanecido congelado. Para la mente humana, tal rutina tan organizada y aparentemente llena de propósitos lleva consigo un sabor de lógica y de pensamiento. O por lo menos esto es así hasta que conocemos más detalles.\n\nPor ejemplo, la rutina de la avispa consiste en llevar al grillo hacia la madriguera, dejarlo en la entrada, ir adentro a revisar que todo esté bien, salir y luego dejar el grillo adentro. Si, mientras la avispa está dentro de la madriguera haciendo su inspección preliminar, el grillo es movido algunos centímetros de la entrada, entonces la avispa, al salir de la madriguera, volverá a dejar al grillo de nuevo en la entrada, pero no adentro, y repetirá el procedimiento preparatorio de entrar a la madriguera a revisar que todo esté bien. Si, de nuevo, el grillo es movido unos centímetros de la entrada, la avispa llevará otra vez al grillo hacia la entrada y volverá a entrar a la madriguera para revisarla. La avispa nunca piensa en llevar al grillo directamente a su madriguera. En una ocasión, este procedimiento fue repetido cuarenta veces, siempre con el mismo resultado.\n\nTomado y adaptado de: Woolridge, Dean E. (1963). The Machinery of the Brain, New York: McGraw-Hill, pp. 82-83.",
+      "stem": "¿Cuál de las siguientes citas refuerza la idea de que el comportamiento de la avispa Sphex no resulta de un proceso de pensamiento racional?",
+      "options": [
+        { "key": "A", "text": "\"La avispa lleva al grillo a su madriguera, deja sus huevos, cierra la madriguera y luego se va para no volver\"." },
+        { "key": "B", "text": "\"La avispa nunca piensa en llevar al grillo directamente a su madriguera. En una ocasión, este procedimiento fue repetido cuarenta veces, siempre con el mismo resultado\"." },
+        { "key": "C", "text": "\"Para la mente humana, tal rutina tan organizada y aparentemente llena de propósitos lleva consigo un sabor de lógica y de pensamiento\"." },
+        { "key": "D", "text": "\"Por ejemplo, la rutina de la avispa consiste en llevar al grillo hacia la madriguera, dejarlo en la entrada, ir adentro a revisar que todo esté bien, salir y luego dejar el grillo adentro\"." }
+      ],
+      "answer": "B",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "Busca la cita que muestra que la avispa repite el mismo procedimiento mecánicamente, sin adaptarse, incluso cuando eso no tiene sentido: esa repetición ciega es la prueba de que actúa por instinto y no por razonamiento.",
+      "explanation": "La cita B es la que muestra explícitamente que la avispa repite el procedimiento 40 veces seguidas con el mismo resultado, sin variar su conducta ante una situación distinta: eso evidencia un comportamiento mecánico e instintivo, no racional. Las otras citas describen la rutina o mencionan que \"parece\" lógica, pero no demuestran la falta de razonamiento."
+    },
+    {
+      "id": "lc01-q5",
+      "contextId": "avispa",
+      "stem": "¿Cuál de los siguientes enunciados sintetiza el tema principal del texto?",
+      "options": [
+        { "key": "A", "text": "El comportamiento aparentemente inteligente de la avispa Sphex." },
+        { "key": "B", "text": "El papel de los grillos en la alimentación de las avispas Sphex." },
+        { "key": "C", "text": "La avispa Sphex como un caso que prueba la inteligencia animal." },
+        { "key": "D", "text": "Los métodos de crianza y las precauciones de las avispas Sphex." }
+      ],
+      "answer": "A",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "El texto no busca demostrar que la avispa es inteligente, sino todo lo contrario: que su conducta, aunque parece razonada, es puro instinto. ¿Qué opción resume esa idea central?",
+      "explanation": "El texto gira en torno a que la conducta de la avispa \"lleva consigo un sabor de lógica\" pero en realidad es instinto puro, lo cual queda demostrado con el experimento del grillo movido de lugar. Por eso el tema central es su comportamiento \"aparentemente\" inteligente. La opción C es incorrecta porque el texto demuestra justo lo contrario a la inteligencia animal, y B y D son detalles secundarios, no el tema principal."
+    },
+    {
+      "id": "lc01-q6",
+      "contextId": "rcp",
+      "image": "lc01-infografia-rcp.png",
+      "imageAlt": "Infografía circular sobre los pasos de reanimación cardiopulmonar (RCP): pedir ayuda, posicionar a la víctima, chequear si respira, reanimación pulmonar, tomar el pulso, reanimación cardíaca, hacer masaje cardíaco, y qué hacer si la víctima reacciona.",
+      "stem": "De acuerdo con la infografía, ¿en qué momento se requiere proceder a efectuar una reanimación cardíaca?",
+      "options": [
+        { "key": "A", "text": "Después de confirmar que la víctima reacciona." },
+        { "key": "B", "text": "Después de comprobar que la víctima no tiene pulso." },
+        { "key": "C", "text": "En el momento en que la víctima muestra problemas de respiración." },
+        { "key": "D", "text": "En el momento en que la víctima está en posición de recuperación." }
+      ],
+      "answer": "B",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "Sigue la rueda de pasos de la infografía en orden: la reanimación cardíaca (masaje) aparece justo después del paso \"tomar el pulso\", cuando ese pulso resulta ausente.",
+      "explanation": "Siguiendo la secuencia circular de la infografía, después de \"tomar el pulso\" viene \"si no tiene pulso, hacer masaje cardíaco\": es decir, la reanimación cardíaca se activa cuando se comprueba la ausencia de pulso, no por la reacción de la víctima ni solo por problemas de respiración (eso activa la reanimación pulmonar, un paso distinto)."
+    },
+    {
+      "id": "lc01-q7",
+      "contextId": "rcp",
+      "stem": "En caso de que la víctima no respire, ¿qué procedimiento se sugiere seguir en la infografía?",
+      "options": [
+        { "key": "A", "text": "Saltar al paso 5 (tomar el pulso)." },
+        { "key": "B", "text": "Llamar a un número de emergencias." },
+        { "key": "C", "text": "Realizar una respiración boca a boca." },
+        { "key": "D", "text": "Llevar a cabo una reanimación cardiopulmonar." }
+      ],
+      "answer": "C",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "Busca en la infografía el recuadro que dice explícitamente qué hacer \"si no respira\": ahí se indica un tipo específico de respiración asistida.",
+      "explanation": "La infografía indica explícitamente: \"SI NO RESPIRA HACER RESPIRACIÓN BOCA A BOCA\". \"Saltar al paso 5\" es lo que se hace cuando SÍ respira, y la reanimación cardiopulmonar completa solo se activa más adelante, si tampoco hay pulso."
+    },
+    {
+      "id": "lc01-q8",
+      "contextId": "rcp",
+      "stem": "De acuerdo con el propósito del texto, ¿cuál de las siguientes opciones NO presenta una buena razón para incluir imágenes en la infografía?",
+      "options": [
+        { "key": "A", "text": "La descripción verbal se debe acompañar de un ejemplo gráfico." },
+        { "key": "B", "text": "Se debe ilustrar en qué lugares se puede llevar a cabo la reanimación." },
+        { "key": "C", "text": "Se le debe aclarar al lector qué debe hacer en cada etapa de la reanimación." },
+        { "key": "D", "text": "Se deben representar los pasos que debe realizar una persona para reanimar a otra." }
+      ],
+      "answer": "B",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "Es una pregunta con NO: busca la única opción que no tiene que ver con explicar el procedimiento paso a paso, sino con algo ajeno al propósito de la infografía (el lugar donde ocurre la emergencia).",
+      "explanation": "El propósito de la infografía es explicar el procedimiento de reanimación paso a paso, no indicar en qué lugares físicos puede realizarse. Las demás opciones sí son razones válidas para usar imágenes: acompañar la descripción, aclarar cada etapa y representar los pasos del procedimiento."
+    },
+    {
+      "id": "lc01-q9",
+      "contextId": "diego",
+      "context": "Es noche de martes Diego lava lechuga. Yo corto cebollas, pico tomates, controlo una salsa. Abrimos un vino. Después de comer, cruza sus cubiertos y me dice que qué bien cocino. Que soy rebuena ama de casa. Ahora –mucha confianza y años juntos– sólo finjo que me enojo y él, que me conoce, finge que se sorprende con mi ceño fruncido. Sabe que me gusta cocinar y tener la casa ordenada, pero sabe, también, que imagino el infierno bajo la forma de las tareas del hogar como ocupación obligatoria y excluyente. Tenemos cuentas separadas, casa compartida y responsabilidades iguales. En fin: casi. Porque si bien no hay nada que sea tarea exclusiva de Diego, sacar la ropa del tendedero y guardarla en los placares es una de esas cosas que \"si-no-las-hago-yo-no-las-hace-nadie\". A Diego, simplemente, no le importa ver la ropa colgada durante meses, y yo prefiero que las medias y los calzones no me arruinen la vista del balcón, de modo que una vez por semana me transformo en mi mamá, que volvía del fondo con una parva de sábanas oliendo a sol, y junto la ropa recién lavada. Cada tanto me canso y revoleo mi derecho a la igualdad, entonces Diego dice con ternura \"Sí, gordita, tenés razón\", dobla un par de remeras y a la semana otra vez: ahí voy yo, juntando broches. También soy la encargada de la sección \"comidas difíciles\" (Diego es del Club del Bifecito a la Plancha, si le toca cocinar). Si llego tarde a casa, sobre el pálido desierto de la mesa lucirá, con suerte, el laguito rojo de un tomate cortado al medio. Si es Diego el que llega tarde, de guacamole para arriba habrá de todo. Antes pensaba que estas cosas –el orden, la comida caliente, una casa agradable– tenían que ver con cierta sensibilidad femenina en la que, por cierto, me cuesta creer: tengo amigos varones que viven solos y sus casas son tan agradables como la mía y cocinan mejor que yo. Prefiero pensar que son síntomas –visibles– de mi educación de buen partido: prolija, limpia, ordenada. Cosas que aprendí de mi madre: perfumar la casa con cascarita de naranja, sacar las frazadas al sol.\n\nTomado de: Leila Guerrero, (2009). \"Me gusta ser mujer… y odio a las histéricas\", en Frutos extraños, Bogotá, Aguilar. pp. 330-331.",
+      "stem": "En el fragmento del texto: \"Si llego tarde a casa, sobre el pálido desierto de la mesa lucirá, con suerte, el laguito rojo de un tomate cortado al medio\", ¿para qué se utilizan las expresiones \"pálido desierto de la mesa\" y \"laguito rojo de un tomate\"?",
+      "options": [
+        { "key": "A", "text": "Para resaltar el poco esfuerzo de Diego en la cocina." },
+        { "key": "B", "text": "Para explicar por qué Diego no se esforzó en la cocina." },
+        { "key": "C", "text": "Para justificar el poco esfuerzo de Diego en la cocina." },
+        { "key": "D", "text": "Para ilustrar el buen trabajo de Diego en la cocina." }
+      ],
+      "answer": "A",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "Estas metáforas exageran lo poco que hay sobre la mesa (un \"desierto\" con apenas un tomate). Pregúntate: ¿la autora está explicando/justificando algo, o simplemente destacando con ironía lo escaso de la comida?",
+      "explanation": "Las metáforas \"desierto\" (vacío) y un simple tomate cortado como \"laguito\" exageran con ironía lo poco que Diego cocina cuando le toca a él. No buscan explicar ni justificar su comportamiento (eso implicaría dar razones), sino simplemente resaltar, de forma humorística, ese escaso esfuerzo."
+    },
+    {
+      "id": "lc01-q10",
+      "contextId": "diego",
+      "stem": "En el texto, ¿por qué la narradora finge enojarse cuando Diego le dice que es una buena ama de casa?",
+      "options": [
+        { "key": "A", "text": "Porque no quiere ser catalogada como ama de casa." },
+        { "key": "B", "text": "Porque no es cierto que sea una buena ama de casa." },
+        { "key": "C", "text": "Porque no le gusta que la comparen con su mamá." },
+        { "key": "D", "text": "Porque no siente afecto por las mujeres que son amas de casa." }
+      ],
+      "answer": "A",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "La narradora reflexiona sobre si el orden y la cocina tienen que ver con \"sensibilidad femenina\", una idea que le cuesta aceptar. Su enojo fingido es una forma de rechazar esa etiqueta de \"ama de casa\", no de negar que cocina bien.",
+      "explanation": "La narradora sí es buena cocinando y ordenada (lo reconoce ella misma), así que su \"enojo\" no es porque sea falso, sino porque rechaza la etiqueta tradicional de \"ama de casa\", como se ve en su reflexión sobre la \"sensibilidad femenina\" en la que dice no creer. No hay evidencia de que rechace a su madre ni a otras mujeres."
+    },
+    {
+      "id": "lc01-q11",
+      "contextId": "metodo-cientifico",
+      "context": "Tratado contra el método\n\nEl conocimiento no consiste en una serie de teorías autoconsistentes que tiende a converger en una perspectiva ideal; no consiste en un acercamiento gradual hacia la verdad. Por el contrario, el conocimiento es un océano, siempre en aumento, de alternativas incompatibles entre sí (y tal vez inconmensurables); toda teoría particular, todo cuento de hadas, todo mito, forman parte del conjunto que obliga al resto a una articulación mayor, y todos ellos contribuyen, por medio de este proceso competitivo, al desarrollo de nuestro conocimiento. No hay nada establecido para siempre, ningún punto de vista puede quedar omitido en una explicación comprehensiva (...). Expertos y profanos, profesionales y diletantes, forjadores de utopías y mentirosos, todos ellos están invitados a participar en el debate y a contribuir al enriquecimiento de la cultura. La tarea del científico no ha de ser por más tiempo \"la búsqueda de la verdad\", o \"la glorificación de dios\", o \"la sistematización de las observaciones\" o \"el perfeccionamiento de predicciones\". Todas estas cosas no son más que efectos marginales de una actividad a la que se dirige ahora su atención y que consiste en \"hacer de la causa más débil la causa más fuerte\", como dijo el sofista, \"por ello en apoyar el movimiento de conjunto\".\n\nTomado y adaptado de: Paul Feyerabend (1986). Tratado contra el método. Madrid: Técnos, pp.14-15.",
+      "stem": "¿Cuál de las siguientes opciones describe mejor la relación entre el contenido del texto y el título?",
+      "options": [
+        { "key": "A", "text": "El texto introduce la propuesta de un nuevo método para la investigación científica, diferente del tradicional." },
+        { "key": "B", "text": "El texto ataca diferentes ideas a propósito de qué es aquello en lo que consiste el llamado \"método científico\"." },
+        { "key": "C", "text": "El texto critica concepciones del conocimiento científico, el cual se ha concebido como resultado de un método." },
+        { "key": "D", "text": "El texto argumenta a favor de la pluralidad de métodos disponibles para que cada ciencia alcance sus verdades." }
+      ],
+      "answer": "C",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "El título es \"Tratado CONTRA el método\": el autor no propone un método nuevo ni defiende varios métodos, sino que cuestiona la idea misma de que el conocimiento se logre siguiendo un método fijo.",
+      "explanation": "El texto rechaza la idea de que el conocimiento avanza mediante un método que se acerca gradualmente a la verdad, y coincide con el título \"contra el método\": critica esa concepción tradicional del conocimiento científico. No propone un método nuevo (A) ni defiende varios métodos (D); de hecho, cuestiona la noción de método en sí."
+    },
+    {
+      "id": "lc01-q12",
+      "contextId": "metodo-cientifico",
+      "stem": "El autor del texto aplica a la filosofía de la ciencia el principio del liberalismo, según el cual \"todos los ciudadanos son iguales ante la ley y ante el Estado\". De acuerdo con esto, ¿cuál de las siguientes afirmaciones refleja de manera más directa la influencia de las ideas liberales?",
+      "options": [
+        { "key": "A", "text": "La tarea del científico no ha de ser por más tiempo la glorificación de dios." },
+        { "key": "B", "text": "Toda teoría particular, todo cuento de hadas, todo mito, forman parte del conocimiento." },
+        { "key": "C", "text": "Hacer de la causa más débil la causa más fuerte, por ello en apoyar el movimiento de conjunto." },
+        { "key": "D", "text": "El conocimiento no consiste en una serie de teorías autoconsistentes que tiende a converger en una perspectiva ideal." }
+      ],
+      "answer": "B",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "\"Igualdad ante la ley\" traducido a teorías del conocimiento significa que ninguna teoría vale más que otra por su origen o prestigio. Busca la opción que ponga a todo tipo de saber (teorías, cuentos, mitos) en el mismo plano.",
+      "explanation": "La cita B pone a \"toda teoría particular, todo cuento de hadas, todo mito\" en igualdad de condiciones como parte del conocimiento, lo cual refleja directamente el principio liberal de igualdad: ningún tipo de saber tiene un estatus superior a otro. Las demás opciones describen otras ideas del texto, pero no la igualdad entre formas de conocimiento."
+    },
+    {
+      "id": "lc01-q13",
+      "contextId": "1984",
+      "context": "Gran Hermano\n\n1984 es una novela futurista que tiene lugar en una sociedad totalitaria. Los ciudadanos de esta sociedad son controlados por una figura omnipresente conocida como el Gran Hermano. En el siguiente apartado, un miembro defensor del orden le explica al protagonista el principal propósito del régimen.\n\n\"No habrá lealtad; no existirá más fidelidad que la que se debe al Partido, ni más amor que el amor al Gran Hermano. No habrá risa, excepto la risa triunfal cuando se derrota a un enemigo. No habrá arte, ni literatura, ni ciencia. No habrá ya distinción entre la belleza y la fealdad. Todos los placeres serán destruidos. Pero siempre, no lo olvides, Winston, siempre habrá el afán de poder, la sed de dominio, que aumentará constantemente y se hará cada vez más sutil. Siempre existirá la emoción de la victoria, la sensación de pisotear a un enemigo indefenso. Si quieres hacerte una idea de cómo será el futuro, figúrate una bota aplastando un rostro humano... incesantemente\".\n\nTomado y adaptado de: Orwell, George. 1984. Barcelona: Ediciones Destino. 2008.",
+      "stem": "Teniendo en cuenta la información que brinda el texto, ¿cuál de las siguientes afirmaciones es compatible con las políticas del Partido?",
+      "options": [
+        { "key": "A", "text": "El pueblo debe mantenerse unido." },
+        { "key": "B", "text": "La individualidad debe ser eliminada." },
+        { "key": "C", "text": "El poder está en ser fiel a uno mismo." },
+        { "key": "D", "text": "Un pueblo ignorante es más poderoso." }
+      ],
+      "answer": "B",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "El texto dice que no habrá \"más fidelidad que la que se debe al Partido\" ni \"más amor que el amor al Gran Hermano\": eso implica borrar cualquier lealtad o identidad personal distinta a la del régimen.",
+      "explanation": "El fragmento afirma que toda lealtad y todo amor deben dirigirse únicamente al Partido y al Gran Hermano, eliminando cualquier vínculo o identidad individual: esto es precisamente eliminar la individualidad. Las otras opciones no se sostienen con el texto: no se habla de unidad del pueblo como valor positivo, la fidelidad a uno mismo es lo contrario de lo que exige el Partido, y no se menciona la ignorancia como fuente de poder."
+    },
+    {
+      "id": "lc01-q14",
+      "contextId": "1984",
+      "stem": "En el texto, la frase \"figúrate una bota aplastando un rostro humano…incesantemente\"",
+      "options": [
+        { "key": "A", "text": "explica los planes para el futuro del régimen." },
+        { "key": "B", "text": "ejemplifica las ideas transmitidas al pueblo." },
+        { "key": "C", "text": "expone el verdadero propósito del sistema de gobierno." },
+        { "key": "D", "text": "ilustra las condiciones de los ciudadanos bajo el régimen." }
+      ],
+      "answer": "D",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "La imagen de la bota aplastando un rostro \"incesantemente\" es una metáfora visual: ¿qué representa mejor, un plan futuro abstracto o el sufrimiento constante y concreto de quienes viven bajo el régimen?",
+      "explanation": "La bota aplastando un rostro sin parar es una imagen que ilustra de forma concreta y visual cómo viven los ciudadanos bajo el poder opresivo del régimen: sometidos permanentemente. No es tanto un \"plan futuro\" abstracto (A) sino la representación viva y sensorial de esa opresión constante."
+    },
+    {
+      "id": "lc01-q15",
+      "contextId": "fotografia",
+      "context": "Sobre la fotografía\n\nSi las fotografías permiten la posesión imaginaria de un pasado irreal, también ayudan a tomar posesión de un espacio donde la gente está insegura. Así, la fotografía se desarrolla en conjunción con una de las actividades modernas más características: el turismo. Por primera vez en la historia, grupos numerosos de gente abandonan sus entornos habituales por breves periodos. Parece decididamente anormal viajar por placer sin llevar una cámara. Las fotografías son la prueba irrecusable de que se hizo la excursión, se cumplió el programa, se gozó del viaje. Las fotografías documentan secuencias de consumo realizadas en ausencia de la familia, los amigos, los vecinos. Pero la dependencia de la cámara, en cuanto aparato que da realidad a las experiencias, no disminuye cuando la gente viaja más. El acto de fotografiar satisface las mismas necesidades para los cosmopolitas que acumulan trofeos fotográficos de su excursión en barco por el Nilo o sus catorce días en China, que para los turistas de clase media que hacen instantáneas de la Torre Eiffel o las cataratas del Niágara.\n\nEl acto fotográfico, un modo de certificar la experiencia, es también un modo de rechazarla: cuando se confina a la búsqueda de lo fotogénico, cuando se convierte la experiencia en una imagen, un recuerdo. El viaje se transforma en una estrategia para acumular fotos. La propia actividad fotográfica es tranquilizadora, y mitiga esa desorientación general que se suele agudizar con los viajes. La mayoría de los turistas se sienten obligados a poner la cámara entre ellos y toda cosa destacable que les sale al paso. Al no saber cómo reaccionar, hacen una foto. Así, la experiencia cobra forma: alto, una fotografía, adelante. El método seduce sobre todo a gente subyugada a una ética de trabajo implacable: alemanes, japoneses y estadounidenses. El empleo de una cámara atenúa su ansiedad provocada por la inactividad laboral cuando están en vacaciones y presuntamente divirtiéndose. Cuentan con una tarea que parece una simpática imitación del trabajo: pueden hacer fotos.\n\nTomado y adaptado de: Sontag, S. (2009). Sobre la fotografía. Barcelona: Debolsillo.",
+      "stem": "En el fragmento tomado del texto: \"Las fotografías son la prueba irrecusable de que se hizo la excursión, se cumplió el programa, se gozó del viaje\", ¿cuál de las siguientes palabras es un sinónimo de la palabra 'irrecusable'?",
+      "options": [
+        { "key": "A", "text": "Inminente." },
+        { "key": "B", "text": "Concluyente." },
+        { "key": "C", "text": "Irremplazable." },
+        { "key": "D", "text": "Cuestionable." }
+      ],
+      "answer": "B",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "\"Irrecusable\" significa que no se puede rechazar ni poner en duda, es decir, es una prueba definitiva. Busca la palabra que también signifique \"que no admite objeción\".",
+      "explanation": "\"Irrecusable\" significa que algo no admite objeción o rechazo, es decir, es definitivo o \"concluyente\". \"Cuestionable\" es prácticamente el sentido opuesto, e \"inminente\" e \"irremplazable\" no comparten ese significado de prueba definitiva."
+    },
+    {
+      "id": "lc01-q16",
+      "contextId": "fotografia",
+      "stem": "Considere el siguiente resumen del texto: \"La autora analiza la relación entre el turismo y la fotografía, teniendo en cuenta que los cosmopolitas ven en sus viajes al acto de fotografiar como una necesidad. Según ella, ese acto acaba por convertirse en una práctica trivial con la que solo se busca mitigar la desorientación general que causan los viajes. Así, la fotografía se convierte para los cosmopolitas japoneses, estadounidenses y alemanes en una especie de reemplazo del trabajo al que están acostumbrados\". El anterior resumen se puede describir como inadecuado porque",
+      "options": [
+        { "key": "A", "text": "expone ideas contrarias a las afirmaciones principales del texto." },
+        { "key": "B", "text": "se centra en un tipo particular de turistas y no en los turistas en general." },
+        { "key": "C", "text": "omite el tono irónico y burlón con que la autora se refiere al arte de la fotografía." },
+        { "key": "D", "text": "se detiene en presentar información en extremo detallada y secundaria del texto." }
+      ],
+      "answer": "B",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "El texto original dice que el acto de fotografiar satisface las mismas necesidades tanto a los cosmopolitas como a los \"turistas de clase media\". Revisa si el resumen menciona a este segundo grupo o solo se queda con uno de los dos.",
+      "explanation": "El resumen solo habla de los turistas \"cosmopolitas\" (japoneses, alemanes, estadounidenses), pero omite que el texto original también incluye a los \"turistas de clase media\" como parte de la misma idea. Por eso es inadecuado: se centra en un grupo particular y deja fuera al otro que el texto sí menciona."
+    },
+    {
+      "id": "lc01-q17",
+      "contextId": "aguado",
+      "context": "Entre la crónica y la ideología\n\nFray Pedro de Aguado fue un misionero español que vivió en el Nuevo Reino de Granada entre 1560 y 1590, aproximadamente. Se le atribuye la autoría de la Recopilación historial, un extenso compendio de crónicas donde se refieren los hechos de la temprana colonización española en los actuales territorios de Colombia y Venezuela. Las narraciones de la Recopilación giran alrededor de la entrada de los colonizadores españoles en territorios del \"Nuevo Mundo\", del sometimiento de sus pobladores ancestrales y la subsiguiente fundación de ciudades coloniales, ofreciendo por lo general descripciones de las sociedades indígenas y su entorno natural.\n\nEn el relato de las campañas del capitán Galarza y sus soldados en los actuales territorios del Tolima, Aguado se refiere de esta manera a los indios de la región: \"Son estos indios de Ibagué grandes carniceros de carne humana y de cualquier otra carne; tienen algodón, aunque poco, de que hacen algunas mantas para su vestir; las indias son muy feas, y traen en la cabeza unos bonetes de venado con que aprietan y axen los cabellos; no hay entre ellos caciques, como entre otros indios, mas son mandados de algunos indios principales que entre ellos hay, a los cuales obedecen cuando les parece y les da gusto. Es tierra muy áspera y fragosa, en la que estos indios habitan, y todas sierras peladas\".\n\nEn su estudio Los indios medievales de fray Pedro de Aguado, el historiador Jaime Humberto Borja sostuvo que la Recopilación historial no puede ser tomada como una fuente fiable para el conocimiento de los eventos históricos; ante todo, debe asumirse como un texto que respondía ideológica y culturalmente a una tradición europea que poco tenía que ver con el mundo que pretendía representar: el del indígena y su entorno natural. Frente a descripciones como la que acabamos de citar, afirma Borja que el de Aguado \"es un indio retórico, que surge de una realidad textual y no de una realidad aprehendida por la experiencia\". Además, la construcción narrativa del indio de la crónica de Aguado reúne imágenes conocidas por la tradición cristiana y los imaginarios bíblicos: \"El canibalismo, las exacerbadas costumbres, la fiereza de sus armas, su alianza con traidores, el engaño. En el indio recae la descripción de los vicios físicos y morales de toda la extensión natural. (…) Para reafirmar sus posiciones, Aguado presenta una naturaleza tan salvaje como sus habitantes\".\n\nTomado y adaptado de: Borja Gómez, J. H. (2002). Los indios medievales de fray Pedro de Aguado: construcción del idólatra y escritura de la historia en una crónica del siglo XVI. CEJA/Instituto Colombiano de Antropología e Historia/Universidad Iberoamericana.",
+      "stem": "De acuerdo con el texto, se puede afirmar que la descripción de los indios de Ibagué hecha por Aguado corresponde a",
+      "options": [
+        { "key": "A", "text": "un periodo anterior a la llegada de los españoles al continente americano, pues presenta a los indígenas en una situación de \"salvajismo\" absoluto." },
+        { "key": "B", "text": "el proceso de fundación de la ciudad colonial de Ibagué, pues la dinámica de colonización consistía en fundar las ciudades y luego someter a los indígenas de la zona." },
+        { "key": "C", "text": "la etapa de \"conquista\" de los territorios que se anexarían a la colonia neogranadina, pues la descripción es parte de un relato de una campaña militar." },
+        { "key": "D", "text": "un periodo histórico indeterminado, pues el texto no ofrece información cronológica que permita identificar el momento que corresponde a la descripción." }
+      ],
+      "answer": "C",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "La cita sobre los indios de Ibagué aparece explícitamente enmarcada como parte del \"relato de las campañas del capitán Galarza y sus soldados\": eso te dice a qué etapa histórica corresponde.",
+      "explanation": "El texto indica directamente que la descripción proviene \"del relato de las campañas del capitán Galarza y sus soldados\", es decir, de una acción militar de conquista sobre territorios que luego se anexarían a la colonia. No hay evidencia de que sea anterior a la llegada española (A), ni de que corresponda a la fundación de la ciudad (B), y sí hay información suficiente para ubicarla cronológicamente (contradice D)."
+    },
+    {
+      "id": "lc01-q18",
+      "contextId": "aguado",
+      "stem": "De acuerdo a su contenido, ¿qué otro título podría ajustarse al texto?",
+      "options": [
+        { "key": "A", "text": "Civilización y barbarie en la colonización española." },
+        { "key": "B", "text": "Fray Pedro de Aguado y la construcción retórica del indígena." },
+        { "key": "C", "text": "El canibalismo ritual en la crónica de fray Pedro de Aguado." },
+        { "key": "D", "text": "La influencia de los autores clásicos en los cronistas neogranadinos: el caso de Aguado." }
+      ],
+      "answer": "B",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "El texto no trata sobre canibalismo ni sobre autores clásicos: su tema central es cómo Aguado construyó una imagen retórica (no real) del indígena, según el análisis de Borja. Busca el título que capture esa idea.",
+      "explanation": "El tema central del texto es cómo Borja analiza que Aguado construyó una imagen retórica —no basada en la experiencia real— del indígena, usando imaginarios bíblicos y de la tradición europea. \"Fray Pedro de Aguado y la construcción retórica del indígena\" resume justo esa idea. Las demás opciones se enfocan en detalles puntuales (el canibalismo, los clásicos) que no son el eje del texto."
+    },
+    {
+      "id": "lc01-q19",
+      "contextId": "thoreau",
+      "context": "DEL DEBER DE LA DESOBEDIENCIA CIVIL (1849)\n\nCreo de todo corazón en el lema \"El mejor gobierno es el que tiene que gobernar menos\", y me gustaría verlo hacerse efectivo más rápida y sistemáticamente. Bien llevado, finalmente resulta en algo en lo que también creo: \"El mejor gobierno es el que no tiene que gobernar en absoluto\". Y cuando los pueblos estén preparados para ello, ése será el tipo de gobierno que tengan. En el mejor de los casos, el gobierno no es más que una conveniencia, pero en su mayoría los gobiernos son inconvenientes y todos han resultado serlo en algún momento. Las objeciones que se han hecho a la existencia de un ejército permanente, que son varias y de peso, y que merecen mantenerse, pueden también por fin esgrimirse en contra del gobierno. El ejército permanente es sólo el brazo del gobierno establecido. El gobierno en sí, que es únicamente el modo escogido por el pueblo para ejecutar su voluntad, está igualmente sujeto al abuso y la corrupción antes de que el pueblo pueda actuar a través suyo. Somos testigos de la actual guerra con México, obra de unos pocos individuos comparativamente, que utilizan como herramienta al gobierno actual; en principio, el pueblo no habría aprobado esta medida. Pero, para hablar en forma práctica y como ciudadano, a diferencia de aquellos que se llaman \"antigobiernistas\", yo pido, no como \"antigobiernista\" sino como ciudadano, y de inmediato, un mejor gobierno. Permítasele a cada individuo dar a conocer el tipo de gobierno que lo impulsaría a respetarlo y eso ya sería un paso ganado para obtener ese respeto. Después de todo, la razón práctica por la cual, una vez que el poder está en manos del pueblo, se le permite a una mayoría, y por un período largo de tiempo, regir, no es porque esa mayoría esté tal vez en lo correcto, ni porque le parezca justo a la minoría, sino porque físicamente son los más fuertes. Pero un gobierno en el que la mayoría rige en todos los casos no se puede basar en la justicia. No es deseable cultivar respeto por la ley más de por lo que es correcto. La única obligación a la que debo someterme es a la de hacer siempre lo que creo correcto. La ley nunca hizo al hombre un ápice más justo, y a causa del respeto por ella, aún el hombre bien dispuesto se convierte a diario en un agente de la injusticia.\n\nHenry David Thoreau. Tomado y adaptado de: http://thoreau.eserver.org/spanishcivil.html. Consultado el 25 de enero de 2015.",
+      "stem": "¿Cuál de los siguientes es un ejemplo que menciona el autor para apoyar su posición frente a los Gobiernos?",
+      "options": [
+        { "key": "A", "text": "La guerra con México." },
+        { "key": "B", "text": "Los abusos del ejército." },
+        { "key": "C", "text": "La tiranía de las mayorías." },
+        { "key": "D", "text": "La debilidad de las minorías." }
+      ],
+      "answer": "A",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "Thoreau menciona un hecho histórico concreto para ilustrar que el gobierno puede ser usado como \"herramienta\" por unos pocos sin el consentimiento real del pueblo. Busca ese ejemplo puntual en el texto.",
+      "explanation": "El texto menciona explícitamente \"la actual guerra con México\" como ejemplo concreto de que el gobierno es usado como herramienta por unos pocos individuos, sin que el pueblo la hubiera aprobado. \"Abusos del ejército\", \"tiranía de las mayorías\" y \"debilidad de las minorías\" son ideas generales que el autor menciona, pero no son el ejemplo histórico específico que usa para apoyar su argumento."
+    },
+    {
+      "id": "lc01-q20",
+      "contextId": "aforismos",
+      "context": "» Las filosofías comienzan en filosofía y acaban en retórica. (59)\n» La filosofía es actitud solitaria.\n» La adhesión de cualquier muchedumbre a una doctrina la convierte en mitología. (110)\n» Los sistemas filosóficos difieren los unos de los otros menos en la manera de resolver que en la manera de escamotear los problemas. (117)\n» Los que se ocupan de filosofía no la tomarían tan en serio, si generalmente no vivieran de ella como profesión. (130)\n» En filosofía lo que no sea fragmento es estafa. (162)\n\nTomado de: Gómez Dávila, N. (1992). Sucesivos escolios a un texto implícito. Bogotá: Instituto Caro y Cuervo.",
+      "stem": "De acuerdo con el enunciado \"Los sistemas filosóficos difieren los unos de los otros menos en la manera de resolver que en la manera de escamotear los problemas\", ¿cuál es la principal diferencia entre un sistema filosófico y otro?",
+      "options": [
+        { "key": "A", "text": "La manera de plantear los problemas." },
+        { "key": "B", "text": "La manera de resolver los problemas." },
+        { "key": "C", "text": "La manera de esquivar los problemas." },
+        { "key": "D", "text": "La manera de burlarse de los problemas." }
+      ],
+      "answer": "C",
+      "competency": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+      "tip": "\"Escamotear\" significa hacer desaparecer algo con habilidad, es decir, evadirlo o esquivarlo, no resolverlo de verdad.",
+      "explanation": "\"Escamotear\" es sinónimo de esquivar o eludir algo con maña, no de resolverlo. El aforismo dice justamente que los sistemas filosóficos se diferencian MENOS en cómo resuelven los problemas (opción B) y MÁS en cómo los evaden, es decir, la clave está en \"la manera de esquivar los problemas\"."
+    },
+    {
+      "id": "lc01-q21",
+      "contextId": "chimpances",
+      "context": "Aprendiendo de los chimpancés\n\nCuando inicié mi estudio sobre chimpancés salvajes en 1960, en el Centro de Investigaciones Gombe Stream, no era permitido, al menos no en los círculos de etología, hablar sobre la mente de los animales. Solo los humanos tienen mentes. Ni tampoco era del todo correcto hablar acerca de la personalidad de los animales. Por supuesto que todos sabían que ellos tienen sus caracteres únicos —todos los que alguna vez hubieran tenido un perro u otra mascota eran conscientes de ello—. Pero los etólogos, luchando por hacer de la suya una ciencia 'dura', se mantuvieron alejados de la tarea de tratar de explicar esas cosas objetivamente. Un respetado etólogo, al mismo tiempo que reconocía que había una \"variabilidad entre animales individuales\", escribió que era mejor que este hecho se \"escondiera debajo de la alfombra\".\n\nQué ingenua era. Como no había tenido una educación científica de pregrado, no me di cuenta de que en teoría los animales no debían tener personalidades, pensar o sentir emociones o dolor. No tenía idea de que hubiera sido más apropiado —una vez que llegara a conocerla o conocerlo— asignarle a cada uno de los chimpancés un número en lugar de un nombre. No me di cuenta de que no era científico discutir sobre el comportamiento en términos de motivación o propósito. No era respetable, en círculos científicos, hablar sobre la personalidad de los animales. Eso era algo que estaba reservado para los humanos. Tampoco tenían mente, así que no eran capaces de pensamiento racional. Y hablar acerca de sus emociones era sentirse culpable del peor tipo de antropomorfismo (atribuirles características humanas a los animales).\n\nEn los comentarios editoriales al primer artículo que escribí con fines de publicación, se exigía que todo \"él\" o \"ella\" fuera reemplazado por \"ello\" y que todo \"quien\" fuera reemplazado por \"que\". Enfurecida, taché uno a uno los \"ello\" y \"que\" y reescribí los pronombres originales. Dado que no me interesaba forjarme un nicho personal en el mundo de la ciencia, sino que simplemente quería vivir entre chimpancés y aprender sobre ellos, la posible reacción del editor de la muy ilustrada revista me era indiferente. El artículo, cuando finalmente fue publicado, les confirió a los chimpancés la dignidad de sus géneros correspondientes y correctamente los promovió del estatus de meras \"cosas\" a su existencia esencial.\n\nTomado y adaptado de: Goodall, Jane. \"Aprendiendo de los chimpancés: un mensaje que los humanos pueden entender\". En: Science, diciembre, 1998: Vol. 282 no. 5397 pp. 2184-2185.",
+      "stem": "Considere el siguiente enunciado tomado del texto: \"No me di cuenta de que no era científico discutir sobre el comportamiento en términos de motivación o propósito\". ¿Qué prejuicio cuestiona la autora por medio del enunciado anterior?",
+      "options": [
+        { "key": "A", "text": "Los animales tienen mente y, por tanto, deben tratarse como seres con personalidades o emociones." },
+        { "key": "B", "text": "La etología es una ciencia \"dura\" que se esfuerza por mantener a raya las explicaciones subjetivas." },
+        { "key": "C", "text": "Las explicaciones científicas sobre el comportamiento no deben tener en cuenta la intención al explicar la conducta." },
+        { "key": "D", "text": "La variabilidad entre animales individuales es un hecho contingente que la etología no debe considerar." }
+      ],
+      "answer": "C",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "La frase dice literalmente que no era \"científico\" hablar de \"motivación o propósito\" al explicar el comportamiento animal. Ese es justamente el prejuicio que la autora, con ironía, está cuestionando.",
+      "explanation": "La autora usa la ironía (\"qué ingenua era\") para señalar, y a la vez cuestionar, el prejuicio científico de su época según el cual explicar la conducta animal en términos de motivación o propósito no era válido científicamente. Las otras opciones describen ideas relacionadas del texto, pero no son el prejuicio específico que expresa esa frase citada."
+    },
+    {
+      "id": "lc01-q22",
+      "contextId": "historia-arte",
+      "context": "La historia del arte\n\nA mucha gente le gusta ver en los cuadros lo que también le gustaría ver en la realidad. Se trata de una preferencia perfectamente comprensible. A todos nos atrae lo bello en la naturaleza y agradecemos a los artistas que lo recojan en sus obras. Esos mismos artistas no nos censurarían por nuestros gustos. Cuando el gran artista flamenco Rubens dibujó a su hijo, estaba orgulloso de sus agradables acciones y deseaba que también nosotros admiráramos al pequeño. Pero esta inclinación a los temas bonitos y atractivos puede convertirse en nociva si nos conduce a rechazar obras que representan asuntos menos agradables. El gran pintor alemán Alberto Durero seguramente dibujó a su madre con tanta devoción y cariño como Rubens a su hijo. Su verista estudio de la vejez y la decrepitud puede producirnos tan viva impresión que nos haga apartar los ojos de él y, sin embargo, si reaccionamos contra esta primera aversión, quedaremos recompensados con creces, pues el dibujo de Durero, en su tremenda sinceridad, es una gran obra. En efecto, de pronto descubrimos que la hermosura de un cuadro no reside realmente en la belleza de su tema. No sé si los golfillos que el pintor español Murillo se complacía en pintar eran estrictamente bellos o no, pero tal como fueron pintados por él, poseen desde luego gran encanto.\n\nTomado de: Gombrich, E. H. (2003). La historia del arte. Madrid: Random House Mondadori.",
+      "stem": "En el texto, ¿para qué el autor hace referencia a Rubens?",
+      "options": [
+        { "key": "A", "text": "Para mostrar que a todos nos atrae lo bello y por fortuna el arte lo recoge en la pintura." },
+        { "key": "B", "text": "Para resaltar que el público siempre exige que el artista refleje la realidad en los cuadros." },
+        { "key": "C", "text": "Para manifestar que algunos artistas plasman en sus obras lo que nos gusta ver en la realidad." },
+        { "key": "D", "text": "Para concluir que la inclinación en el arte por los temas bonitos y atractivos es bastante nociva." }
+      ],
+      "answer": "C",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "El ejemplo de Rubens (dibujando a su hijo con orgullo) ilustra la idea inicial del texto: a la gente le gusta ver en los cuadros lo mismo que le gustaría ver en la realidad. Busca la opción que refleje justo ese punto, sin generalizar de más ni sacar una conclusión que el texto no afirma tan tajantemente.",
+      "explanation": "Rubens es usado como ejemplo concreto de un artista que efectivamente plasma en su obra lo que también nos agradaría ver en la realidad (a su hijo en \"agradables acciones\"), ilustrando la idea inicial del texto. La opción A generaliza de más (\"a todos\"), B no se sostiene (el texto no dice que el público \"siempre exige\" eso) y D es una conclusión que el texto matiza (\"puede convertirse en nociva\", no que lo sea siempre)."
+    },
+    {
+      "id": "lc01-q23",
+      "contextId": "historia-arte",
+      "stem": "¿Cuál de los siguientes enunciados expresa un juicio de valor presente en el texto?",
+      "options": [
+        { "key": "A", "text": "Mientras Rubens dibujó la juventud, Durero dibujó la vejez." },
+        { "key": "B", "text": "Los golfillos del pintor español Murillo tienen gran encanto." },
+        { "key": "C", "text": "Rubens estaba orgulloso de su hijo y deseaba que lo admiráramos." },
+        { "key": "D", "text": "Para el público, la hermosura de un cuadro reside en la belleza de su tema." }
+      ],
+      "answer": "B",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "Un juicio de valor es una opinión o apreciación (no un hecho verificable). Busca la opción que exprese una valoración estética del autor, en vez de simplemente describir lo que pasa en un cuadro.",
+      "explanation": "Decir que los golfillos de Murillo \"tienen gran encanto\" es una apreciación subjetiva y estética del autor, es decir, un juicio de valor. Las demás opciones son afirmaciones descriptivas de hechos presentados en el texto (qué dibujó cada pintor, qué sentía Rubens, qué piensa el público en general), no valoraciones del propio autor."
+    }
+  ]
+}

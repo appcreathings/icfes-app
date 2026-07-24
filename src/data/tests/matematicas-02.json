@@ -1,0 +1,413 @@
+{
+  "id": "matematicas-02",
+  "area": "matematicas",
+  "title": "Matemáticas · Test 2",
+  "source": "Cuadernillo de preguntas Matemáticas, Saber 11.º, Icfes (marzo 2026) y Ejemplos de preguntas explicadas",
+  "questions": [
+    {
+      "id": "mat02-q1",
+      "stem": "Las directivas de un colegio tienen que organizar un viaje a un museo con 140 estudiantes, quienes deben dividirse en 3 grupos. Cada grupo irá en una franja horaria diferente, pero el costo total de las entradas se asumirá equitativamente por todos los estudiantes. En la tabla se muestran los horarios disponibles, la cantidad máxima de estudiantes y el precio de entrada por estudiante de cada franja:\n\n| Franja | Horario | Máx. estudiantes | Precio por estudiante |\n|---|---|---|---|\n| 1 | 8:00-10:00 | 50 | $35.000 |\n| 2 | 10:00-12:00 | 40 | $40.000 |\n| 3 | 12:00-14:00 | 30 | $50.000 |\n| 4 | 14:00-16:00 | 60 | $45.000 |\n\nCon el fin de que todos los estudiantes asistan y paguen el menor precio, las directivas eligieron las franjas 1, 3 y 4. ¿Esta elección garantiza que asistan todos los estudiantes al menor precio posible?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sí, porque esas franjas suman exactamente 140 estudiantes."
+        },
+        {
+          "key": "B",
+          "text": "No, porque es posible obtener un precio menor eligiendo la franja 2 en lugar de la franja 3."
+        },
+        {
+          "key": "C",
+          "text": "Sí, porque se incluyó la franja 1 que es la de menor precio por estudiante."
+        },
+        {
+          "key": "D",
+          "text": "No, porque en la franja 3 la cantidad máxima de estudiantes es 30."
+        }
+      ],
+      "answer": "B",
+      "tip": "No hace falta llenar cada franja elegida hasta su máximo: lo que importa es minimizar el costo TOTAL. Intenta llenar primero las franjas más baratas (menor precio por estudiante) y usa la franja más cara solo para los estudiantes que sobren. Compara el costo total usando franjas {1,3,4} contra usar {1,2,4}.",
+      "explanation": "Con las franjas 1, 3 y 4 llenas a su máximo (50+30+60=140), el costo es 50×35.000 + 30×50.000 + 60×45.000 = $5.950.000. Pero si en cambio se usan las franjas 1, 2 y 4 (más baratas: $35.000, $40.000 y $45.000), llenando primero las más económicas (50 en la franja 1, 40 en la franja 2, y los 50 restantes en la franja 4), el costo es 50×35.000 + 40×40.000 + 50×45.000 = $5.600.000, que es menor. Por eso la elección de las franjas 1, 3 y 4 no garantiza el menor precio posible."
+    },
+    {
+      "id": "mat02-q2",
+      "stem": "La figura muestra el portalápices de Eliécer: es posible colocar un caucho de 18 cm de perímetro alrededor de la base sin estirarlo, pero a medida que sube el caucho por el portalápices, este se estira hasta que, en la boca del portalápices, su perímetro es 24 cm. El portalápices tiene base y boca cuadrada. Eliécer afirma: \"Como los perímetros de la base y la boca del portalápices están en relación 18:24 (es decir, 3:4), el área de la base debe ser también 3/4 del área de la boca del portalápices\". ¿Es verdadera esta afirmación?",
+      "options": [
+        {
+          "key": "A",
+          "text": "No, porque la medición se realiza con el mismo caucho y, por tanto, las áreas de la base y la boca deben ser iguales."
+        },
+        {
+          "key": "B",
+          "text": "Sí, porque el caucho se estira dependiendo del área que encierre, por lo que las relaciones de las áreas y los perímetros son iguales."
+        },
+        {
+          "key": "C",
+          "text": "No, porque la relación obtenida se cumple para las longitudes de los lados, pero al calcular las áreas, la razón obtenida se eleva al cuadrado."
+        },
+        {
+          "key": "D",
+          "text": "Sí, porque como las figuras son semejantes, todas sus medidas deben tener la misma razón que los perímetros."
+        }
+      ],
+      "answer": "C",
+      "tip": "Cuando dos figuras semejantes tienen sus longitudes (lados, perímetros) en una razón k, sus ÁREAS están en razón k², no en la misma razón k. Eleva la razón de los perímetros (3/4) al cuadrado y compara.",
+      "explanation": "La razón de los perímetros (y de los lados, al ser figuras semejantes) es 3/4. Pero para figuras semejantes, la razón de las áreas es el CUADRADO de la razón de las longitudes: (3/4)² = 9/16, no 3/4. Por eso la afirmación de Eliécer es falsa: confunde la razón lineal con la razón de áreas."
+    },
+    {
+      "id": "mat02-q3",
+      "contextId": "comercio-frutas",
+      "context": "Para transportar mango y banano desde un pueblo cercano a dos ciudades, W y Z, un comerciante utiliza tres camiones con capacidad de 5 toneladas cada uno; por cada camión contrata dos trabajadores en cada viaje. El comerciante compra a $400.000 la tonelada de banano y a $500.000 la tonelada de mango. En la tabla se muestra el precio de venta por tonelada de cada producto y los gastos de transporte y de trabajadores para cada ciudad:\n\n| Ciudad | Precio venta tonelada banano | Precio venta tonelada mango | Costo transporte por camión | Pago por trabajador por viaje |\n|---|---|---|---|---|\n| W | $1.000.000 | $1.300.000 | $150.000 | $180.000 |\n| Z | $1.200.000 | $1.350.000 | $180.000 | $200.000 |",
+      "stem": "Una persona afirma que para el comerciante es más rentable vender 6 toneladas de mango en la ciudad Z que en la ciudad W. ¿Por qué la afirmación de esta persona es correcta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Porque el dinero recibido en la venta del producto en la ciudad Z es mayor que el recibido en la ciudad W."
+        },
+        {
+          "key": "B",
+          "text": "Porque la diferencia entre el precio de venta por tonelada es mayor que la diferencia entre el costo de transporte por camión."
+        },
+        {
+          "key": "C",
+          "text": "Porque la diferencia entre las ventas totales en cada ciudad es mayor que la diferencia entre los gastos totales."
+        },
+        {
+          "key": "D",
+          "text": "Porque el dinero total gastado en empleados y transporte es mayor en la ciudad W que en la ciudad Z."
+        }
+      ],
+      "answer": "C",
+      "tip": "Calcula, para 6 toneladas de mango (que requieren 2 camiones, 4 trabajadores), la diferencia en ingresos por venta entre Z y W, y por separado la diferencia en gastos totales (transporte + trabajadores) entre Z y W. ¿Cuál diferencia es mayor?",
+      "explanation": "Ingresos: en W, 6×$1.300.000=$7.800.000; en Z, 6×$1.350.000=$8.100.000 (diferencia de $300.000 a favor de Z). Gastos (2 camiones, 4 trabajadores): en W, 2×$150.000+4×$180.000=$1.020.000; en Z, 2×$180.000+4×$200.000=$1.160.000 (diferencia de solo $140.000 a favor de W). Como la diferencia en ingresos ($300.000) es mayor que la diferencia en gastos ($140.000), vender en Z sigue siendo más rentable a pesar de sus mayores costos."
+    },
+    {
+      "id": "mat02-q4",
+      "contextId": "comercio-frutas",
+      "stem": "Tres camiones se cargan con 5 toneladas de banano cada uno para venderse en la ciudad W. El comerciante necesita conocer la ganancia al hacer este negocio, ejecutando el siguiente procedimiento: Paso 1: Halla el número de toneladas de banano que hay en los 3 camiones. Paso 2: Halla la diferencia entre el precio de venta de una tonelada de banano en la ciudad W y el precio de compra. Paso 3: Multiplica los valores hallados en los pasos 1 y 2. Paso 4: Encuentra los costos totales de transporte y le suma el pago total de los trabajadores en los tres viajes. Paso 5: Halla la diferencia entre el valor obtenido en el paso 3 y el paso 4. ¿Cuál es la ganancia que obtiene el comerciante?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$5.670.000"
+        },
+        {
+          "key": "B",
+          "text": "$5.970.000"
+        },
+        {
+          "key": "C",
+          "text": "$7.470.000"
+        },
+        {
+          "key": "D",
+          "text": "$8.010.000"
+        }
+      ],
+      "answer": "C",
+      "tip": "Sigue los pasos en orden: (1) 3 camiones × 5 toneladas; (2) precio de venta de banano en W menos precio de compra ($400.000); (3) multiplica esos dos resultados; (4) suma el costo de transporte de 3 camiones más el pago a 2 trabajadores por camión (6 trabajadores en total) en W; (5) resta el paso 4 al paso 3.",
+      "explanation": "Paso 1: 3×5=15 toneladas. Paso 2: $1.000.000−$400.000=$600.000 por tonelada. Paso 3: 15×$600.000=$9.000.000. Paso 4: transporte 3×$150.000=$450.000, más trabajadores (2 por camión ×3 camiones=6) 6×$180.000=$1.080.000; total=$1.530.000. Paso 5: $9.000.000−$1.530.000=$7.470.000."
+    },
+    {
+      "id": "mat02-q5",
+      "contextId": "comercio-frutas",
+      "stem": "Para diciembre, el comerciante decidió que por cada 5 toneladas del producto transportado en camión y vendido en alguna de las ciudades, cada uno de los dos empleados necesarios por camión recibirá un bono de 0,3 % del dinero recibido en la venta de esas 5 toneladas. En ese mes, dos empleados transportaron y vendieron 47 toneladas de mango a la ciudad W. Para hallar el bono recibido por cada uno de ellos, se ejecutó el siguiente procedimiento: Paso 1: Se dividió el número de toneladas vendidas entre 5 y se halló su residuo. Paso 2: Se restó del número de toneladas vendidas el valor obtenido en el paso 1. Paso 3: Se multiplicó el valor obtenido en el paso 2 por el valor de venta de la tonelada del producto. Paso 4: Al valor obtenido en el paso 3 se le sacó el 0,3 %. ¿De qué valor fue, aproximadamente, el bono recibido por cada empleado?",
+      "options": [
+        {
+          "key": "A",
+          "text": "526.000 pesos."
+        },
+        {
+          "key": "B",
+          "text": "175.000 pesos."
+        },
+        {
+          "key": "C",
+          "text": "148.000 pesos."
+        },
+        {
+          "key": "D",
+          "text": "87.000 pesos."
+        }
+      ],
+      "answer": "B",
+      "tip": "El bono solo aplica a \"grupos completos de 5 toneladas\": si sobran toneladas que no completan un grupo de 5, esas no cuentan para el bono. Encuentra cuántas toneladas SÍ completan grupos de 5 (descartando el residuo) antes de calcular el 0,3 %.",
+      "explanation": "Paso 1: 47÷5 da residuo 2 (47=9×5+2). Paso 2: 47−2=45 toneladas \"completas\" para el bono. Paso 3: 45×$1.300.000 (precio del mango en W) = $58.500.000. Paso 4: el 0,3 % de $58.500.000 = $175.500 ≈ $175.000."
+    },
+    {
+      "id": "mat02-q6",
+      "contextId": "comercio-frutas",
+      "stem": "Durante enero, el comerciante vendió 100 toneladas de mango y 50 de banano, y contrató 10 trabajadores. Sabiendo que cada camión tiene capacidad máxima de 5 toneladas, ¿qué se puede determinar con esta información?",
+      "options": [
+        {
+          "key": "A",
+          "text": "La ganancia de los productores."
+        },
+        {
+          "key": "B",
+          "text": "El pago que recibirá cada trabajador en enero."
+        },
+        {
+          "key": "C",
+          "text": "Los costos totales del comerciante."
+        },
+        {
+          "key": "D",
+          "text": "El número mínimo de viajes que se realizaron desde el pueblo."
+        }
+      ],
+      "answer": "D",
+      "tip": "Se conoce el total de toneladas transportadas (100+50=150) y la capacidad máxima de cada camión por viaje (5 toneladas). Con solo esos dos datos, ¿qué cantidad se puede calcular directamente (dividiendo)?",
+      "explanation": "Con el total de toneladas transportadas (150) y la capacidad máxima por viaje (5 toneladas), se puede calcular el número MÍNIMO de viajes necesarios: 150÷5=30 viajes. No se puede determinar el pago exacto de cada trabajador (depende de cómo se repartan los viajes entre ellos) ni los costos totales (no se sabe a qué ciudad se vendió cada carga, y los costos varían según la ciudad)."
+    },
+    {
+      "id": "mat02-q7",
+      "stem": "Las sombras proyectadas por dos postes paralelos, de 10 metros y 5 metros de altura, caen sobre la misma acera horizontal en un instante dado, formadas por los mismos rayos de sol (paralelos entre sí). El ángulo entre la acera horizontal y la sombra del poste 1 (10 metros) es α = 30°. De acuerdo con esto, se puede afirmar que el ángulo entre la acera horizontal y la sombra del poste 2 (5 metros) es",
+      "options": [
+        {
+          "key": "A",
+          "text": "β = 5°."
+        },
+        {
+          "key": "B",
+          "text": "β = 15°."
+        },
+        {
+          "key": "C",
+          "text": "β = 30°."
+        },
+        {
+          "key": "D",
+          "text": "β = 60°."
+        }
+      ],
+      "answer": "C",
+      "tip": "El ángulo con el que caen los rayos del sol sobre el suelo es el MISMO en toda la zona en un instante dado (los rayos del sol son prácticamente paralelos entre sí), sin importar la altura del objeto que proyecta la sombra.",
+      "explanation": "Como los rayos del sol son paralelos, el ángulo que forman con el suelo es el mismo en cualquier punto en un instante dado, independientemente de la altura del poste que proyecta la sombra. Por eso, el ángulo de la sombra del poste 2 es igual al del poste 1: β = 30°."
+    },
+    {
+      "id": "mat02-q8",
+      "stem": "La longitud de las aristas de una caja con forma de prisma rectangular (una caja rectangular común) son l, a y h (largo, ancho y alto). ¿Cuál de las siguientes expresiones determina la longitud total de todas las aristas de la caja?",
+      "options": [
+        {
+          "key": "A",
+          "text": "lah"
+        },
+        {
+          "key": "B",
+          "text": "4lah"
+        },
+        {
+          "key": "C",
+          "text": "l + a + h"
+        },
+        {
+          "key": "D",
+          "text": "4l + 4a + 4h"
+        }
+      ],
+      "answer": "D",
+      "tip": "Una caja rectangular (prisma) tiene 12 aristas en total, agrupadas en 3 conjuntos de 4 aristas paralelas e iguales (4 de longitud l, 4 de longitud a y 4 de longitud h). Suma todas.",
+      "explanation": "Una caja rectangular tiene 12 aristas: 4 de longitud l, 4 de longitud a y 4 de longitud h (los tres pares de caras opuestas). La longitud total es la suma de las 12: 4l + 4a + 4h. \"lah\" (A) sería un volumen, no una longitud."
+    },
+    {
+      "id": "mat02-q9",
+      "stem": "La línea punteada en la figura muestra un corte realizado a un triángulo de 120 cm de base, con un ángulo de 45° en su vértice inferior izquierdo. El corte es paralelo a la base y corta por la mitad a la altura, h, que es perpendicular a la base. Para realizar el corte, se determinó la altura del triángulo usando la fórmula sen(45°) = h/120; luego se dividió h entre dos. Teniendo en cuenta que sen(45°) = √2/2 ≈ 0,71, ¿cuál fue, aproximadamente, la distancia a la que se cortó la altura del triángulo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "85 cm."
+        },
+        {
+          "key": "B",
+          "text": "60 cm."
+        },
+        {
+          "key": "C",
+          "text": "42 cm."
+        },
+        {
+          "key": "D",
+          "text": "30 cm."
+        }
+      ],
+      "answer": "C",
+      "tip": "Primero halla h despejando de sen(45°)=h/120 (es decir, h=120×0,71). Luego, como el corte está a la MITAD de la altura, divide ese resultado entre 2.",
+      "explanation": "h = 120 × 0,71 = 85,2 cm. Como el corte se hace a la mitad de la altura: 85,2 ÷ 2 = 42,6 ≈ 42 cm."
+    },
+    {
+      "id": "mat02-q10",
+      "stem": "Un cartabón es una plantilla que se utiliza en dibujo técnico y que tiene forma de triángulo rectángulo escaleno, de modo que su hipotenusa mide el doble del cateto de menor longitud. Recuerde que: sen30°=1/2, sen60°=√3/2, cos30°=√3/2, cos60°=1/2, tan30°=1/√3, tan60°=√3. Si el cateto más largo de un cartabón mide 32 centímetros, ¿cuál de las siguientes medidas corresponde a su cateto menor?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16 cm."
+        },
+        {
+          "key": "B",
+          "text": "32/√3 cm."
+        },
+        {
+          "key": "C",
+          "text": "27 cm."
+        },
+        {
+          "key": "D",
+          "text": "64/√3 cm."
+        }
+      ],
+      "answer": "B",
+      "tip": "Llama x al cateto menor. La hipotenusa es 2x (dato del enunciado). Por el teorema de Pitágoras: (2x)² = x² + 32². Despeja x.",
+      "explanation": "Con x = cateto menor, hipotenusa = 2x. Por Pitágoras: (2x)² = x² + 32² → 4x² = x² + 1024 → 3x² = 1024 → x² = 1024/3 → x = √(1024/3) = 32/√3 cm."
+    },
+    {
+      "id": "mat02-q11",
+      "stem": "En la tabla se presentan las cartas que conforman una baraja estándar de póquer (52 cartas: 4 palos —corazones y diamantes en rojo; picas y tréboles en negro— con 13 valores cada uno). Si la probabilidad de escoger una carta que cumpla dos características determinadas es cero, ¿cuáles características podrían ser?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ser una carta negra y ser un número par."
+        },
+        {
+          "key": "B",
+          "text": "Ser una carta roja y ser de picas."
+        },
+        {
+          "key": "C",
+          "text": "Ser una carta de corazones y ser un número impar."
+        },
+        {
+          "key": "D",
+          "text": "Ser una carta roja K y ser de diamantes."
+        }
+      ],
+      "answer": "B",
+      "tip": "Una probabilidad de cero significa que es IMPOSIBLE que ambas condiciones se cumplan a la vez. Piensa en los colores de cada palo: picas y tréboles son siempre negros; corazones y diamantes son siempre rojos. ¿Puede una carta de \"picas\" ser roja alguna vez?",
+      "explanation": "Las picas son siempre de color negro en una baraja estándar; nunca existe una carta \"roja de picas\". Por eso la probabilidad de que una carta cumpla ambas condiciones a la vez es cero. Las demás combinaciones sí son posibles: sí hay cartas negras pares (A), corazones con números impares (C), y la K roja de diamantes existe (D, probabilidad de 1/52, no cero)."
+    },
+    {
+      "id": "mat02-q12",
+      "stem": "Un trapecio isósceles es un trapecio cuyos lados no paralelos son congruentes (de igual longitud). En un plano cartesiano se dibuja un trapecio isósceles de modo que el eje y divide al trapecio en dos figuras iguales (es decir, el trapecio es simétrico respecto al eje y). Si las coordenadas de dos de los vértices del trapecio son (−4, 2) y (−2, 8), ¿cuáles son las coordenadas de los otros dos vértices?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(8, 2) y (2, 4)."
+        },
+        {
+          "key": "B",
+          "text": "(2, 8) y (4, 2)."
+        },
+        {
+          "key": "C",
+          "text": "(−2, −4) y (−8, −2)."
+        },
+        {
+          "key": "D",
+          "text": "(−4, −2) y (−2, −8)."
+        }
+      ],
+      "answer": "B",
+      "tip": "Si la figura es simétrica respecto al eje y, cada vértice tiene un \"gemelo\" reflejado al otro lado del eje y, con la misma coordenada y pero coordenada x de signo opuesto. Refleja (−4,2) y (−2,8) cambiando el signo de su primera coordenada.",
+      "explanation": "Al reflejar un punto respecto al eje y, su coordenada y no cambia, pero su coordenada x cambia de signo. Reflejando (−4, 2) se obtiene (4, 2), y reflejando (−2, 8) se obtiene (2, 8). Por lo tanto, los otros dos vértices son (2, 8) y (4, 2)."
+    },
+    {
+      "id": "mat02-q13",
+      "stem": "En la figura se representa una cancha de fútbol de 60 metros de ancho por 100 metros de largo. Un arquitecto realiza una maqueta del diseño de la cancha, con medida de los lados cien veces menor que las medidas originales. ¿Cuál de los siguientes diseños representa correctamente las medidas de la maqueta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6 × 10⁻² metros de ancho por 1 × 10⁻² metros de largo."
+        },
+        {
+          "key": "B",
+          "text": "6 × 10⁻² centímetros de ancho por 1 × 10⁻² centímetros de largo."
+        },
+        {
+          "key": "C",
+          "text": "6 × 10¹ metros de ancho por 1 × 10² metros de largo."
+        },
+        {
+          "key": "D",
+          "text": "6 × 10¹ centímetros de ancho por 1 × 10² centímetros de largo."
+        }
+      ],
+      "answer": "D",
+      "tip": "Divide las medidas originales (60 m y 100 m) entre 100, y luego expresa el resultado en centímetros en vez de metros (recuerda que 1 m = 100 cm) para poder comparar con las unidades de las opciones.",
+      "explanation": "60 m ÷ 100 = 0,6 m, y 100 m ÷ 100 = 1 m. Convirtiendo a centímetros: 0,6 m = 60 cm = 6×10¹ cm, y 1 m = 100 cm = 1×10² cm. Eso coincide exactamente con la opción D."
+    },
+    {
+      "id": "mat02-q14",
+      "stem": "Un grupo de montañistas sabe que, cada vez que la altitud aumenta en 100 m, la temperatura disminuye en 1 °C. Si el grupo se encuentra a una altitud de 1.000 m, donde la temperatura es de 20 °C, ¿cuál de las siguientes expresiones les permite determinar la temperatura (en °C) en función de la altitud (en metros)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Temperatura = Altitud/100 + 10"
+        },
+        {
+          "key": "B",
+          "text": "Temperatura = −Altitud × 100 + 30"
+        },
+        {
+          "key": "C",
+          "text": "Temperatura = −Altitud/100 + 30"
+        },
+        {
+          "key": "D",
+          "text": "Temperatura = Altitud × 100 + 10"
+        }
+      ],
+      "answer": "C",
+      "tip": "Verifica cada fórmula reemplazando la altitud conocida (1.000 m) y comprobando que dé como resultado la temperatura conocida (20 °C). La relación es lineal: por cada 100 m que sube la altitud, la temperatura baja 1 °C.",
+      "explanation": "La temperatura disminuye 1°C por cada 100 m de altitud adicional, partiendo de 20°C a 1.000 m. La fórmula lineal que representa esto es Temperatura = −Altitud/100 + 30 (verificación: a 1.000 m, −1.000/100+30 = −10+30 = 20°C ✓; a 4.000 m, −4.000/100+30 = −40+30 = −10°C, una disminución razonable)."
+    },
+    {
+      "id": "mat02-q15",
+      "stem": "En una zona de una ciudad se construyen edificios de apartamentos en los que cada metro cuadrado tiene un costo de $800.000, y se asegura a los compradores que en esta zona, anualmente, el metro cuadrado se valoriza un 5 % respecto al costo del año anterior. ¿Con cuál de las siguientes expresiones se representa el costo de un metro cuadrado en esa zona, transcurridos n años?",
+      "options": [
+        {
+          "key": "A",
+          "text": "800.000 + 5n"
+        },
+        {
+          "key": "B",
+          "text": "800.000 × (5n)"
+        },
+        {
+          "key": "C",
+          "text": "800.000 × n"
+        },
+        {
+          "key": "D",
+          "text": "800.000 × (1 + 5/100)ⁿ"
+        }
+      ],
+      "answer": "D",
+      "tip": "Un incremento porcentual FIJO cada año (5 % del valor del año anterior, no del valor inicial) es un crecimiento exponencial (interés compuesto), no una suma fija (interés simple). ¿Qué tipo de fórmula representa eso?",
+      "explanation": "Como la valorización del 5 % se calcula cada año sobre el valor del año ANTERIOR (no siempre sobre los $800.000 iniciales), el crecimiento es exponencial (interés compuesto): cada año el valor se multiplica por (1+5/100)=1,05. Después de n años, el costo es 800.000×(1+5/100)ⁿ. Sumar 5n (A) o multiplicar por n (C) representarían un crecimiento lineal, no compuesto."
+    },
+    {
+      "id": "mat02-q16",
+      "stem": "Un octágono regular es un polígono de ocho lados y ocho ángulos internos congruentes. Considere un octágono regular inscrito en una circunferencia de radio 2. Si O es el centro de la circunferencia y P, Q son dos vértices consecutivos del octágono, el triángulo OPQ es isósceles, con OP = OQ = 2 (los radios) y ángulo en O de 45° (pues 360°/8=45°). Con la expresión x = (2·sen 45°)/sen 67,5° se puede calcular, en este triángulo, la medida del",
+      "options": [
+        {
+          "key": "A",
+          "text": "ángulo OPQ."
+        },
+        {
+          "key": "B",
+          "text": "segmento PQ."
+        },
+        {
+          "key": "C",
+          "text": "ángulo QOP."
+        },
+        {
+          "key": "D",
+          "text": "segmento OQ."
+        }
+      ],
+      "answer": "B",
+      "tip": "Como OP=OQ=2, el triángulo OPQ es isósceles, así que los ángulos OPQ y OQP son iguales entre sí: cada uno mide (180°−45°)/2 = 67,5°. Con la Ley del Seno, relaciona el lado PQ (opuesto al ángulo de 45° en O) con el lado OP=2 (opuesto al ángulo de 67,5°).",
+      "explanation": "Como el triángulo es isósceles (OP=OQ=2) con ángulo de 45° en O, los otros dos ángulos (en P y en Q) miden 67,5° cada uno. Por la Ley del Seno: PQ/sen(45°) = OP/sen(67,5°), es decir, PQ = 2·sen(45°)/sen(67,5°). Por lo tanto, la expresión x calcula la medida del segmento PQ (el lado del octágono), no un ángulo ni el radio OQ."
+    }
+  ]
+}

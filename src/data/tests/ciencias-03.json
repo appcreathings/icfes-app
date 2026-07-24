@@ -1,0 +1,99 @@
+{
+  "id": "ciencias-03",
+  "area": "ciencias",
+  "title": "Ciencias Naturales · Test 3",
+  "source": "Cuadernillo de preguntas Ciencias Naturales, Icfes (2026)",
+  "questions": [
+    {
+      "id": "cn03-q1",
+      "image": "cn03-flujograma-contaminantes.png",
+      "imageAlt": "Cuatro procedimientos (A, B, C, D) con pasos secuenciales para medir contaminantes X y W en una muestra de agua.",
+      "stem": "Unos investigadores quieren saber si el agua de la llave está contaminada con dos tipos de contaminantes (X y W). Los investigadores únicamente disponen de un método que permite medir la cantidad de contaminante X, pero saben que existe una reacción química mediante la cual pueden convertir todo el contaminante W en el contaminante X. Teniendo en cuenta esta información, si se quiere saber cuál es el contenido de los contaminantes X y W, por separado, en una muestra de agua de la llave, ¿cuál sería el procedimiento adecuado?",
+      "options": [
+        { "key": "A", "text": "Procedimiento A" },
+        { "key": "B", "text": "Procedimiento B" },
+        { "key": "C", "text": "Procedimiento C" },
+        { "key": "D", "text": "Procedimiento D" }
+      ],
+      "answer": "B",
+      "competency": "Utilizar algunas habilidades de pensamiento y de procedimiento para evaluar predicciones.",
+      "tip": "Para separar los dos contenidos, primero hay que medir y RETIRAR de la muestra el contaminante que ya se puede medir directamente (X). Solo después de eso conviene aplicar la reacción química: así, lo que se mida después corresponderá únicamente al contaminante que antes era W.",
+      "explanation": "El procedimiento correcto es: 1) medir el contenido de X con el método disponible y SEPARARLO de la muestra (para que no interfiera después); 2) aplicar la reacción que convierte todo el W restante en X; 3) volver a medir X, ya que esta segunda medición corresponde ahora únicamente a lo que originalmente era W (pues el X original ya se había retirado en el paso 1). Los demás procedimientos no logran distinguir ambos contaminantes por separado, porque convierten o miden antes de separar el X original."
+    },
+    {
+      "id": "cn03-q2",
+      "image": "cn03-planta-bacteria-graficas.png",
+      "imageAlt": "Cuatro gráficas (A, B, C, D) de peso de la planta contra tiempo, comparando el crecimiento con bacteria (línea sólida) y sin bacteria (línea punteada).",
+      "stem": "En un experimento, se midió el peso de dos grupos de una misma especie de planta que creció en condiciones normales de luz, temperatura y nutrientes. Uno de los grupos creció en presencia de una bacteria y el otro grupo creció en ausencia de esta. Al respecto, un estudiante tiene la hipótesis de que la presencia de la bacteria beneficiaría el crecimiento de la planta. ¿Cuál gráfica representa la hipótesis del estudiante?",
+      "options": [
+        { "key": "A", "text": "Gráfica A" },
+        { "key": "B", "text": "Gráfica B" },
+        { "key": "C", "text": "Gráfica C" },
+        { "key": "D", "text": "Gráfica D" }
+      ],
+      "answer": "B",
+      "tip": "La hipótesis dice que la bacteria BENEFICIA el crecimiento, es decir, las plantas \"con bacteria\" deberían pesar MÁS que las \"sin bacteria\" con el tiempo, partiendo ambas de un peso inicial similar (ya que las condiciones iniciales son las mismas, antes de que la bacteria haga efecto).",
+      "explanation": "La gráfica que representa correctamente la hipótesis debe mostrar ambos grupos partiendo de un peso similar al inicio, y luego el grupo \"con bacteria\" (línea sólida) creciendo por encima del grupo \"sin bacteria\" (línea punteada), mostrando un beneficio real pero no extremo. Eso es justamente lo que muestra la gráfica B. Las otras gráficas muestran escenarios distintos: en A el grupo sin bacteria decrece (no solo crece menos, sino que pierde peso); en C el grupo sin bacteria no crece en absoluto; y en D la relación está invertida (sin bacteria crece más)."
+    },
+    {
+      "id": "cn03-q3",
+      "image": "cn03-proteinas-separacion.png",
+      "imageAlt": "Gráfica de respuesta del detector contra tiempo, mostrando cuatro picos correspondientes a proteínas W (400 kDa, ~6 min), X (130 kDa, ~26 min), Y (100 kDa, ~34 min) y Z (50 kDa, ~44 min).",
+      "stem": "Una estudiante desea conocer las proteínas presentes en la sangre. Para ello, emplea una técnica que las separa de acuerdo con su peso molecular y produce una respuesta en diferentes instantes de tiempo cada vez que una proteína es detectada. Ella obtiene los resultados mostrados en la gráfica, en donde cada pico representa una proteína diferente. ¿En qué tiempo podrá separar una proteína de 120 kDa?",
+      "options": [
+        { "key": "A", "text": "Entre 25 y 35 minutos." },
+        { "key": "B", "text": "Entre 5 y 25 minutos." },
+        { "key": "C", "text": "Entre 35 y 45 minutos." },
+        { "key": "D", "text": "Después de 45 minutos." }
+      ],
+      "answer": "A",
+      "tip": "Fíjate en el patrón: a MAYOR peso molecular, MENOR tiempo de separación (W, la más pesada, sale primero; Z, la más liviana, sale de última). Una proteína de 120 kDa está en peso EXACTAMENTE entre la proteína X (130 kDa) y la proteína Y (100 kDa). Por lo tanto, su tiempo de salida debería estar entre los tiempos de X y de Y.",
+      "explanation": "Como el peso molecular y el tiempo de separación están inversamente relacionados (a mayor peso, sale más rápido), y 120 kDa está entre el peso de la proteína X (130 kDa, sale ~26 min) y la proteína Y (100 kDa, sale ~34 min), una proteína de 120 kDa debería separarse en un tiempo intermedio entre esos dos, es decir, entre 25 y 35 minutos aproximadamente."
+    },
+    {
+      "id": "cn03-q4",
+      "image": "cn03-oxidacion-alcoholes.png",
+      "imageAlt": "Diagrama de oxidación de alcoholes primarios (a aldehído o ácido carboxílico) y secundarios (a cetona), junto con una tabla de cuatro pruebas químicas de reconocimiento: Tollens (aldehídos), Lucas (alcoholes), yodoformo (cetonas) y Yoduro-Yodato (ácidos).",
+      "stem": "Los alcoholes pueden ser oxidados a cetonas, aldehídos o ácidos carboxílicos de acuerdo con el tipo de alcohol que reacciona. Para reconocer el tipo de compuesto que se forma en una oxidación se usan estas pruebas: la prueba de Tollens reconoce aldehídos (espejo de plata); la de Lucas reconoce alcoholes (precipitado insoluble); la de yodoformo reconoce cetonas (precipitado amarillo); y la de Yoduro-Yodato reconoce ácidos (una solución con almidón se torna morado oscuro). Si en un laboratorio se oxida un alcohol de 6 carbonos y se aplican las pruebas de reconocimiento obteniendo un espejo de plata Y coloración morada con almidón, ¿cuál es la mezcla que se espera se haya formado después de la oxidación?",
+      "options": [
+        { "key": "A", "text": "Un aldehído de 6 carbonos y una cetona de 6 carbonos." },
+        { "key": "B", "text": "Un aldehído de 6 carbonos y un ácido carboxílico de 6 carbonos." },
+        { "key": "C", "text": "Un alcohol de 6 carbonos (sin oxidar) y un ácido carboxílico de 6 carbonos." },
+        { "key": "D", "text": "Una cetona de 6 carbonos y un alcohol de 6 carbonos (sin oxidar)." }
+      ],
+      "answer": "B",
+      "tip": "El espejo de plata indica presencia de un ALDEHÍDO (prueba de Tollens). La coloración morada con almidón indica presencia de un ÁCIDO (prueba de Yoduro-Yodato). Como un alcohol primario (R-CH2-OH) puede oxidarse a aldehído O seguir oxidándose hasta ácido carboxílico, obtener AMBAS señales significa que parte del alcohol se quedó en la etapa de aldehído y otra parte se oxidó por completo hasta ácido.",
+      "explanation": "El espejo de plata confirma la presencia de un aldehído (prueba de Tollens positiva), y la coloración morada con almidón confirma la presencia de un ácido carboxílico (prueba de Yoduro-Yodato positiva). Esto es consistente con la oxidación de un alcohol primario de 6 carbonos, donde una parte de las moléculas se oxidó parcialmente a aldehído y otra parte se oxidó completamente hasta ácido carboxílico, ambos productos conservando los 6 carbonos originales."
+    },
+    {
+      "id": "cn03-q5",
+      "image": "cn03-triangulo-cargas.png",
+      "imageAlt": "Un triángulo con tres cargas eléctricas: carga 1 positiva arriba, carga 2 positiva abajo a la izquierda, carga 3 negativa abajo a la derecha. Cuatro diagramas de vectores (A, B, C, D) muestran posibles direcciones de las fuerzas de 2 y 3 sobre 1.",
+      "stem": "De la ley de Coulomb se sabe que la fuerza eléctrica debido a la interacción entre cargas de signos iguales es repulsiva y entre cargas de signos opuestos es atractiva. Un sistema está conformado por tres cargas eléctricas: la carga 1 (positiva) en la parte superior, la carga 2 (positiva) abajo a la izquierda, y la carga 3 (negativa) abajo a la derecha. ¿Cuál de las siguientes figuras muestra correctamente la fuerza eléctrica que ejercen la carga 2 y la carga 3 sobre la carga 1?",
+      "options": [
+        { "key": "A", "text": "Figura A" },
+        { "key": "B", "text": "Figura B" },
+        { "key": "C", "text": "Figura C" },
+        { "key": "D", "text": "Figura D" }
+      ],
+      "answer": "A",
+      "tip": "Las cargas 1 y 2 tienen el MISMO signo (ambas positivas), así que su interacción debe ser REPULSIVA: la fuerza de 2 sobre 1 debe alejar a 1 de 2. Las cargas 1 y 3 tienen signos OPUESTOS (1 positiva, 3 negativa), así que su interacción debe ser ATRACTIVA: la fuerza de 3 sobre 1 debe atraer a 1 hacia 3.",
+      "explanation": "Como las cargas 1 y 2 son ambas positivas, se repelen: la fuerza de 2 sobre 1 debe apuntar alejándose de 2 (hacia arriba y a la derecha, continuando la línea que va de 2 a 1). Como la carga 1 es positiva y la carga 3 es negativa, se atraen: la fuerza de 3 sobre 1 debe apuntar hacia 3 (hacia abajo y a la derecha). Esa combinación (fuerza de 2 alejándose, fuerza de 3 acercándose hacia 3) es exactamente lo que muestra la figura A."
+    },
+    {
+      "id": "cn03-q6",
+      "image": "cn03-velocidad-sonido-graficas.png",
+      "imageAlt": "Cuatro gráficas (A, B, C, D) con distintas combinaciones de ejes para representar la relación entre temperatura y velocidad del sonido.",
+      "stem": "Una estudiante realizó un experimento para medir la velocidad de propagación del sonido en el aire a diferentes temperaturas. Los resultados que obtuvo se muestran en la siguiente tabla:\n\n| Temperatura (°C) | Velocidad del sonido (m/s) |\n|---|---|\n| 0 | 331,7 |\n| 1 | 332,3 |\n| 2 | 332,9 |\n| 3 | 333,5 |\n\n¿Cuál de las siguientes gráficas muestra los resultados del experimento?",
+      "options": [
+        { "key": "A", "text": "Gráfica A" },
+        { "key": "B", "text": "Gráfica B" },
+        { "key": "C", "text": "Gráfica C" },
+        { "key": "D", "text": "Gráfica D" }
+      ],
+      "answer": "B",
+      "tip": "La temperatura es la variable que la estudiante controló (independiente) y la velocidad es lo que midió como resultado (dependiente); por convención, la independiente va en el eje X y la dependiente en el eje Y. Además, revisa que los valores en cada eje estén en el orden correcto (creciente) y correspondan a los datos reales de la tabla, no a números inventados como \"0,1,2,3\" en el eje que debería mostrar velocidad.",
+      "explanation": "La gráfica correcta debe tener la Temperatura (variable independiente) en el eje X con los valores reales 0, 1, 2, 3, y la Velocidad del sonido (variable dependiente) en el eje Y con los valores reales 331,7 a 333,5, ambos en orden creciente. Solo la gráfica B cumple esto exactamente. Las demás invierten los ejes, muestran los valores en orden incorrecto (descendente) o etiquetan mal los ejes con números que no corresponden a los datos reales."
+    }
+  ]
+}

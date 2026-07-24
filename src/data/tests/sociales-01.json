@@ -1,0 +1,604 @@
+{
+  "id": "sociales-01",
+  "area": "sociales",
+  "title": "Sociales y Ciudadanas · Test 1",
+  "source": "Ejemplos de preguntas explicadas y Cuadernillo de práctica, Prueba Sociales y Ciudadanas, Icfes",
+  "questions": [
+    {
+      "id": "soc01-q1",
+      "context": "Como argumento a favor del vegetarianismo, una persona afirma que consumir carne es nocivo para los humanos porque el animal, del cual se obtiene esta, sufre en el proceso, y esto produce energías negativas que se transmiten al consumidor y perjudican su salud. Otra persona, igualmente a favor del vegetarianismo, sostiene que el consumo de productos de origen animal es un acto amoral, en la medida en que resulta del abuso e insensibilidad del ser humano ante los demás seres vivos.",
+      "stem": "¿Cuál de las siguientes afirmaciones sobre la relación entre las opiniones presentadas NO es correcta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Son similares, porque ambas van en contra del consumo de carne."
+        },
+        {
+          "key": "B",
+          "text": "Son complementarias, porque ambas promueven el vegetarianismo cuando argumentan la obligación de proteger a los animales."
+        },
+        {
+          "key": "C",
+          "text": "Son diferentes, porque la primera aboga por la salud del ser humano y la segunda, por el bienestar de los animales."
+        },
+        {
+          "key": "D",
+          "text": "Son disímiles, porque la primera se centra en cómo el animal afecta al ser humano y la segunda, en cómo el ser humano afecta al animal."
+        }
+      ],
+      "answer": "B",
+      "competency": "Contextualiza y evalúa usos de fuentes y argumentos.",
+      "tip": "Es una pregunta con NO: busca la única afirmación que NO se sostiene con lo que dicen las dos personas. Ambas están a favor del vegetarianismo, pero eso no significa automáticamente que compartan la misma razón ni que la estén \"promoviendo\" activamente.",
+      "explanation": "Esta afirmación NO puede derivarse correctamente de la información presentada, ya que, aunque ambas opiniones se pronuncian a favor del vegetarianismo, de esto NO se deduce que se esté promoviendo el vegetarianismo. Adicionalmente, solo una de las posturas se relaciona con la protección a los animales, así que no son \"complementarias\" en ese sentido específico.",
+      "optionRationales": {
+        "A": "Sí es válida: es cierto que las dos personas que debaten se pronuncian a favor del vegetarianismo, lo que equivale a decir que ambas se oponen al consumo de carne.",
+        "C": "Sí es válida: la primera persona sustenta su argumento en los efectos nocivos para la salud de los consumidores de carne, mientras que la segunda incorpora criterios éticos en favor de los animales; su preocupación no es la salud humana, sino el bienestar animal.",
+        "D": "Sí es válida: aunque ambas se manifiestan a favor del vegetarianismo, difieren en las razones. La primera resalta los efectos del consumo de carne sobre el ser humano; la segunda enfatiza que el consumo de carne es amoral e insensible con los animales."
+      }
+    },
+    {
+      "id": "soc01-q2",
+      "context": "Considere atentamente el siguiente fragmento: \"Es posible y conveniente para la nación y para el conservatismo buscar un entendimiento claro y firme con el Partido Liberal sobre la única base que éste somete a su consideración y a la discusión de todos los colombianos: la de que se regrese a la normalidad institucional mediante un acuerdo de los dos partidos tradicionales, que agrupan a la casi totalidad de colombianos en sus filas, por el cual se haga imposible que el gobierno civil y nacional que haya de suceder al de las Fuerzas Armadas se convierta en una hegemonía de partido, y recaiga la nación en los peligros y las tragedias anteriores\".\n\nTomado de: http://www.lablaa.org/blaavirtual/exhibiciones/lleras/pdf/carpeta-35/documento-522.pdf",
+      "stem": "De acuerdo al texto anterior, ¿cuál de las siguientes razones explicaría que este fragmento pertenece al periodo del Frente Nacional?",
+      "options": [
+        {
+          "key": "A",
+          "text": "El autor propone un acuerdo entre los partidos tradicionales como alternativa política ante la amenaza del fascismo, la dictadura militar y los totalitarismos."
+        },
+        {
+          "key": "B",
+          "text": "Da cuenta de la voluntad de paz y conciliación de los colombianos en el periodo de la dictadura de las Fuerzas Armadas encabezadas por el general Rojas Pinilla."
+        },
+        {
+          "key": "C",
+          "text": "Da cuenta del acuerdo realizado por los partidos tradicionales como salida a la crisis social producida por la violencia y los sectarismos bipartidistas de la década de los años 1950."
+        },
+        {
+          "key": "D",
+          "text": "El autor advierte de los peligros inherentes a un modelo democrático electoral polarizado por dos partidos políticos tradicionales, antagónicos y excluyentes."
+        }
+      ],
+      "answer": "C",
+      "competency": "Inscribe una fuente primaria dada en un contexto económico, político o cultural.",
+      "tip": "El texto habla de \"regresar a la normalidad institucional\" mediante un acuerdo entre los dos partidos tradicionales, para que no se repitan \"los peligros y las tragedias anteriores\". Piensa en qué crisis social colombiana buscó resolverse justo con un pacto bipartidista.",
+      "explanation": "Esta opción responde adecuadamente a la pregunta, ya que se deriva correctamente del contexto presentado y expone de manera general el propósito y marco temporal que animó la constitución del Frente Nacional (1958-1974): un acuerdo entre los partidos tradicionales como salida a la violencia y los sectarismos bipartidistas de los años 1950.",
+      "optionRationales": {
+        "A": "No es válida: no hay nada en el contexto presentado que permita inferir que el autor está proponiendo un acuerdo entre partidos por las razones aquí enunciadas (fascismo, dictadura militar, totalitarismos).",
+        "B": "No es válida: este enunciado presenta un desfase temporal entre la dictadura de Rojas Pinilla (1953-1957) y el periodo y propósitos que animaron el Frente Nacional, posterior a la dictadura.",
+        "D": "No es válida: al igual que las demás opciones incorrectas, esta afirmación tampoco puede realizarse a partir de la información contenida en el fragmento presentado."
+      }
+    },
+    {
+      "id": "soc01-q3",
+      "context": "El gobierno decidió construir una represa que es indispensable para generar electricidad para todo el país. La represa solo puede construirse en un sitio en el que hay un asentamiento indígena. En principio, al hacer las consultas respectivas con esta comunidad, ellos se negaban a la construcción de la represa. Sin embargo, después de un largo proceso de conciliación con la comunidad, se acordó la construcción de la represa y que los indígenas se asentaran en otro territorio.",
+      "stem": "Según la Constitución política de Colombia, ¿cómo procedió el Gobierno en esta situación?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Actuó en contra de los derechos de las comunidades indígenas."
+        },
+        {
+          "key": "B",
+          "text": "Favoreció a la comunidad indígena en contra del interés general."
+        },
+        {
+          "key": "C",
+          "text": "Mostró respeto por la comunidad indígena en función del bien común."
+        },
+        {
+          "key": "D",
+          "text": "Debió hacer una consulta popular para resolver este problema."
+        }
+      ],
+      "answer": "C",
+      "competency": "Conoce el modelo de Estado Social de Derecho y su aplicación en Colombia.",
+      "tip": "El gobierno no impuso la decisión: consultó a la comunidad y llegó a un acuerdo tras un proceso de conciliación. ¿Qué opción refleja tanto el respeto por la comunidad como la necesidad de electricidad para el país (el bien común)?",
+      "explanation": "El gobierno privilegió en su accionar el bien común (la electricidad para todo el país), pero al mismo tiempo se mostró respetuoso con la posición de la comunidad indígena: la reubicación fue producto de un largo proceso de conciliación, no una imposición unilateral.",
+      "optionRationales": {
+        "A": "No es válida: la información contradice esta afirmación. El gobierno evidenció con su actuar que respeta los derechos de las comunidades, por lo que inició procesos de consulta para conocer sus opiniones.",
+        "B": "No es válida: el interés del gobierno fue generar electricidad para todo el país; tras la conciliación se construyó la represa y se reubicó a la comunidad. El gobierno NO actuó en contra del interés general, sino a favor de él.",
+        "D": "No es válida: si bien las consultas populares son un mecanismo de participación constitucional, esta opción no responde a lo que se pregunta (cómo procedió el gobierno en el caso planteado), sino a lo que debió o no hacer."
+      }
+    },
+    {
+      "id": "soc01-q4",
+      "stem": "Un presidente de Colombia está finalizando su periodo presidencial, y debido a la alta popularidad de la que goza decide proponer la inclusión de la reelección presidencial indefinida dentro de la Constitución. Para tal fin, quiere convocar un referendo. ¿El presidente puede hacer esto?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sí, porque los referendos permiten reformar la Constitución."
+        },
+        {
+          "key": "B",
+          "text": "No, porque la Constitución no puede reformarla el Ejecutivo; solo a través de una Asamblea Constituyente."
+        },
+        {
+          "key": "C",
+          "text": "Sí, porque el presidente puede modificar la Constitución por su cuenta, sin acudir al poder legislativo."
+        },
+        {
+          "key": "D",
+          "text": "No, porque los referendos no permiten reformar la Constitución."
+        }
+      ],
+      "answer": "A",
+      "tip": "La Constitución colombiana contempla varios mecanismos para reformarla: el Congreso, una Asamblea Constituyente y también el referendo. Descarta las opciones que dicen algo falso sobre esos mecanismos.",
+      "explanation": "El referendo sí es un mecanismo constitucional válido para reformar la Constitución (junto con el Congreso y la Asamblea Constituyente), por lo que la respuesta es \"sí puede hacerlo\". Eso sí, el presidente no puede reformarla \"por su cuenta\" sin pasar por el poder legislativo (lo que descarta C); tampoco es cierto que solo una Asamblea Constituyente pueda reformarla (descarta B) ni que los referendos no sirvan para eso (descarta D)."
+    },
+    {
+      "id": "soc01-q5",
+      "stem": "Un ciudadano se encontraba inconforme con el actual sistema de salud en Colombia y quería promover una reforma a la Ley 100 de 1993 (Ley de Seguridad Social) para introducir mejoras en esta materia. Para ello, presentó una propuesta ante el Congreso de la República a través de una \"iniciativa popular\", a fin de modificar varios artículos de la mencionada ley. ¿Es legalmente viable el procedimiento realizado por el ciudadano?",
+      "options": [
+        {
+          "key": "A",
+          "text": "No, porque la Constitución Política de Colombia establece que un ciudadano no tiene la facultad por sí solo para introducir propuestas de reforma a las leyes colombianas."
+        },
+        {
+          "key": "B",
+          "text": "Sí, porque la Constitución Política de Colombia establece que se requiere un ciudadano para proponer una iniciativa popular que reforme una ley."
+        },
+        {
+          "key": "C",
+          "text": "No, porque la Constitución Política de Colombia establece que se requiere el 5 % del censo electoral para presentar una iniciativa popular que reforme una ley."
+        },
+        {
+          "key": "D",
+          "text": "Sí, porque la Constitución Política de Colombia establece que se requiere el 5 % del apoyo de los congresistas para que la iniciativa popular se apruebe."
+        }
+      ],
+      "answer": "C",
+      "tip": "Una \"iniciativa popular\" no la puede presentar una sola persona: la ley exige un respaldo ciudadano mínimo, expresado como un porcentaje del censo electoral (las personas habilitadas para votar).",
+      "explanation": "La Constitución (desarrollada en la Ley 134 de 1994) establece que una iniciativa popular legislativa requiere el respaldo de firmas de al menos el 5 % del censo electoral, no la sola voluntad de un ciudadano. Por eso el procedimiento del ciudadano, actuando solo, no es legalmente viable."
+    },
+    {
+      "id": "soc01-q6",
+      "stem": "El alcalde de un municipio, su abogado asesor y el que es considerado el mayor contratista de la región compraron, por $244 millones, 129.881 m² de tierra en dos veredas de ese municipio. Gracias a unos $4.700 millones de recursos nacionales y municipales que el mandatario destinó a rieles, pavimentos e iluminación de vías, el precio de ese pedazo de tierra comprado puede superar hoy los $12.000 millones. La situación ha sido conocida por diferentes personas quienes denunciaron que después de comprar esas propiedades, el alcalde incluyó dentro del Plan Básico de Ordenamiento Territorial (PBOT) del municipio, inversiones en vías e iluminación que no estaban en el Plan de Desarrollo presentado al inicio del mandato, pero que sí favorecían la valorización de esos predios rurales. Consultado sobre esa denuncia, el alcalde reconoció que los beneficios no son solo para él y sus allegados, sino para toda la comunidad.\n\nTomado y adaptado de: www.elcolombiano.com.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Los denunciantes no obtuvieron beneficio de las obras desarrolladas en el PBOT."
+        },
+        {
+          "key": "B",
+          "text": "Los denunciantes creen que el alcalde no ha hecho obras que beneficien al municipio."
+        },
+        {
+          "key": "C",
+          "text": "Los denunciantes tienen evidencias para afirmar que el alcalde abusó de su poder."
+        },
+        {
+          "key": "D",
+          "text": "Los denunciantes no quieren que el alcalde invierta en las zonas rurales del municipio."
+        }
+      ],
+      "answer": "C",
+      "tip": "Fíjate en la secuencia de hechos: el alcalde compró tierras baratas y LUEGO usó su poder para dirigir inversión pública hacia esa misma zona, multiplicando el valor de sus propias tierras. ¿Qué es eso, sino usar el cargo público para beneficio personal?",
+      "explanation": "Los hechos muestran un patrón claro de conflicto de interés: el alcalde compró tierras baratas y después, desde su posición de poder, orientó inversiones públicas (no contempladas en el plan original) hacia esas mismas tierras, multiplicando su valor casi 50 veces. Eso es evidencia concreta de abuso de poder para beneficio propio, más allá de que también beneficie a la comunidad en general."
+    },
+    {
+      "id": "soc01-q7",
+      "stem": "El estado de excepción es una medida temporal consignada en la Constitución Política de Colombia, a la cual el presidente puede acudir cuando algún hecho amenaza la estabilidad del Estado. En caso de grave perturbación del orden público, el presidente tendrá la facultad de, por ejemplo, restringir la celebración de reuniones y manifestaciones públicas; ordenar la aprehensión preventiva de personas; modificar el presupuesto; aumentar y reducir penas; modificar el procedimiento penal y decretar leyes para atender el problema, las cuales serán evaluadas por la Corte Constitucional. A partir de la anterior definición, ¿es posible que durante el estado de excepción se altere la distribución del poder público?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sí, porque es imposible modificar el presupuesto del país, ya que los recursos públicos se adjudican previamente."
+        },
+        {
+          "key": "B",
+          "text": "No, porque la Rama Ejecutiva debe ser la única encargada de restringir las manifestaciones públicas y los desórdenes causados por estas."
+        },
+        {
+          "key": "C",
+          "text": "Sí, porque la Rama Judicial debe ser la única encargada de ordenar el arresto de personas por medio de una orden judicial."
+        },
+        {
+          "key": "D",
+          "text": "Sí, porque el presidente podría proponer leyes cuando, de manera ordinaria, la Rama Legislativa es la única que puede hacer esto."
+        }
+      ],
+      "answer": "C",
+      "tip": "Piensa en quién ejerce NORMALMENTE cada función (ordenar arrestos, hacer leyes) y compáralo con lo que el texto dice que el presidente puede hacer DURANTE el estado de excepción. Si el Ejecutivo asume funciones que normalmente son de otra rama, ¿se altera o no la distribución del poder?",
+      "explanation": "Normalmente, ordenar el arresto de una persona (aprehensión) requiere una orden judicial de la Rama Judicial. Sin embargo, durante el estado de excepción, el texto indica que el presidente (Rama Ejecutiva) puede ordenar la aprehensión preventiva de personas directamente. Eso es justamente una alteración temporal de la distribución normal del poder público entre las ramas."
+    },
+    {
+      "id": "soc01-q8",
+      "stem": "En Colombia, las ramas del poder público pueden ejercer control político entre sí para garantizar el equilibrio de poderes y evitar abusos. Una de estas ramas cuenta con dos mecanismos: la citación a un debate de control político y la moción de censura. La citación a un debate de control político permite indagar sobre las acciones u omisiones de los funcionarios del Estado, así como obtener información relevante de su gestión y del cumplimiento de sus labores. Por otro lado, la moción de censura es un mecanismo a través del cual se reprocha la actuación de uno o varios ministros, dando lugar a la separación de su cargo.\n\nTomado y adaptado de: www.congresovisible.org.",
+      "options": [
+        {
+          "key": "A",
+          "text": "La Rama Electoral."
+        },
+        {
+          "key": "B",
+          "text": "La Rama Ejecutiva."
+        },
+        {
+          "key": "C",
+          "text": "La Rama Judicial."
+        },
+        {
+          "key": "D",
+          "text": "La Rama Legislativa."
+        }
+      ],
+      "answer": "D",
+      "tip": "¿Cuál rama está compuesta por los congresistas, que son quienes citan a debates y votan mociones de censura contra los ministros?",
+      "explanation": "La citación a debates de control político y la moción de censura son mecanismos que ejerce el Congreso de la República, es decir, la Rama Legislativa, sobre los funcionarios de otras ramas (especialmente ministros del gobierno)."
+    },
+    {
+      "id": "soc01-q9",
+      "stem": "En la Constitución Política de Colombia se establece que los derechos de los menores de edad están por encima de los de otros particulares. Por lo anterior, si un menor de catorce años comete un delito no puede ser enviado a prisión y debe ser juzgado según un código penal diferente del ordinario. Un presidente de turno considera que, debido a este trato especial que se da en el juzgamiento de los menores, la delincuencia juvenil ha ido incrementándose; por ello, decide convocar a la ciudadanía para conocer si esta apoyaría que se anule la norma constitucional que pone los derechos de los menores por encima de los del resto de la población. De acuerdo con los mecanismos de participación directa que contempla la Constitución, ¿cuál de los siguientes es el adecuado para que el presidente pueda adelantar su iniciativa?",
+      "options": [
+        {
+          "key": "A",
+          "text": "El plebiscito."
+        },
+        {
+          "key": "B",
+          "text": "El referendo."
+        },
+        {
+          "key": "C",
+          "text": "La consulta popular."
+        },
+        {
+          "key": "D",
+          "text": "El cabildo abierto."
+        }
+      ],
+      "answer": "B",
+      "tip": "El presidente quiere ANULAR (derogar) una norma que está en la propia Constitución. De los cuatro mecanismos, ¿cuál es el que específicamente sirve para reformar o derogar normas constitucionales mediante votación ciudadana?",
+      "explanation": "El referendo es el mecanismo de participación directa diseñado específicamente para que la ciudadanía apruebe o rechace, mediante votación, un proyecto de reforma (incluida la derogatoria) de una norma constitucional. El plebiscito se usa para respaldar o rechazar una decisión del Ejecutivo, la consulta popular para otro tipo de preguntas de interés general, y el cabildo abierto es un espacio de participación a nivel municipal o local."
+    },
+    {
+      "id": "soc01-q10",
+      "stem": "Considere el siguiente fragmento: \"Con los jefes liberales que en la tarde de la sublevación y el caos habían ido a visitarlo en Palacio bajo las balas y entre los incendios, el presidente Ospina improvisó nuevamente un gobierno de Unidad Nacional, mientras Laureano Gómez, el jefe de su partido, que en vano había pedido el traspaso del poder a una Junta Militar, se iba indignado del país (a la España de Franco). En la Bogotá medio quemada restablecieron el orden las tropas del ejército venidas de Boyacá, pero en provincia los que fueron llamados 'nueveabrileños' empezaron a levantar la autodefensa liberal vaticinada por Gaitán\".\n\nTomado y adaptado de: https://bibliotecanacional.gov.co",
+      "options": [
+        {
+          "key": "A",
+          "text": "La Violencia entre 1948 y 1953."
+        },
+        {
+          "key": "B",
+          "text": "El Frente Nacional entre 1958 y 1974."
+        },
+        {
+          "key": "C",
+          "text": "La Patria Boba entre 1810 y 1815."
+        },
+        {
+          "key": "D",
+          "text": "El gobierno de Rojas Pinilla entre 1954 y 1958."
+        }
+      ],
+      "answer": "A",
+      "tip": "Las palabras clave son \"sublevación\", \"incendios\", \"nueveabrileños\" (los del 9 de abril) y \"Gaitán\": esto describe el Bogotazo y sus consecuencias inmediatas. ¿En qué periodo histórico colombiano ocurrió ese hecho y la violencia que desató?",
+      "explanation": "El fragmento describe directamente el Bogotazo (9 de abril de 1948, tras el asesinato de Jorge Eliécer Gaitán) y sus secuelas inmediatas: los \"nueveabrileños\" levantando la autodefensa liberal. Ese es el punto de partida del periodo conocido como \"La Violencia\" (1948-1953)."
+    },
+    {
+      "id": "soc01-q11",
+      "stem": "Las revoluciones sociales son transformaciones rápidas y fundamentales de la situación de una sociedad y de sus estructuras de clase; se acompañan de las revueltas y se basan en dos coincidencias: cambio estructural por levantamiento de clases y posibilidad de transformación política y social. Entre las revoluciones más sobresalientes están: la Revolución mexicana, la Revolución cubana, la Revolución nicaragüense (sandinista) y la Revolución rusa. ¿Cuál es el orden cronológico (del más antiguo al más reciente) de las revoluciones mencionadas?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Revolución nicaragüense, Revolución rusa, Revolución mexicana, Revolución cubana."
+        },
+        {
+          "key": "B",
+          "text": "Revolución mexicana, Revolución rusa, Revolución cubana, Revolución nicaragüense."
+        },
+        {
+          "key": "C",
+          "text": "Revolución rusa, Revolución cubana, Revolución mexicana, Revolución nicaragüense."
+        },
+        {
+          "key": "D",
+          "text": "Revolución cubana, Revolución rusa, Revolución mexicana, Revolución nicaragüense."
+        }
+      ],
+      "answer": "B",
+      "tip": "Ubica cada revolución en su década: la mexicana empezó en 1910, la rusa en 1917, la cubana triunfó en 1959 y la nicaragüense (sandinista) en 1979.",
+      "explanation": "El orden cronológico correcto es: Revolución mexicana (1910), Revolución rusa (1917), Revolución cubana (1959) y Revolución nicaragüense o sandinista (1979)."
+    },
+    {
+      "id": "soc01-q12",
+      "stem": "En el contexto de la crisis económica experimentada por el país a finales de la década de los años 1990, el gobierno colombiano estableció una serie de acuerdos con el Fondo Monetario Internacional que contemplaban la ejecución de medidas tales como: reforma estructural del sector público; fortalecimiento del sector financiero; reducción del gasto del gobierno central; reforma pensional; protección al libre comercio; extensión del impuesto al valor agregado (IVA); participación del sector privado en servicios de infraestructura; flexibilización laboral; mayores condiciones legales para la inversión extranjera en explotación petrolera y minera; y privatización de bancos estatales y empresas públicas del sector energético y de telecomunicaciones. ¿Por qué estas medidas pueden catalogarse como \"neoliberales\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Porque implican un manejo arbitrario de la dinámica económica del país por el gobierno nacional."
+        },
+        {
+          "key": "B",
+          "text": "Porque plantean una mayor presencia del Estado en el sector productivo como agente administrador."
+        },
+        {
+          "key": "C",
+          "text": "Porque implican la injerencia de instituciones financieras extranjeras en la política económica interna."
+        },
+        {
+          "key": "D",
+          "text": "Porque plantean reducir el tamaño del Estado y su participación en la regulación de actividades económicas."
+        }
+      ],
+      "answer": "D",
+      "tip": "Repasa las medidas listadas: reducción del gasto público, privatizaciones, apertura a la inversión extranjera, flexibilización laboral. ¿Todas apuntan a que el Estado tenga MÁS o MENOS peso en la economía?",
+      "explanation": "Todas las medidas listadas (privatizar empresas públicas, reducir el gasto del gobierno central, dar más espacio al sector privado en infraestructura, flexibilizar el mercado laboral) apuntan en la misma dirección: reducir el tamaño y la participación del Estado en la economía, dejando más espacio al mercado. Ese es precisamente el sello del modelo neoliberal."
+    },
+    {
+      "id": "soc01-q13",
+      "stem": "En el Plan Nacional de Desarrollo de Colombia de la década de los años 1990, se afirma lo siguiente: \"La eficiencia no puede ser antagónica con la equidad. Por tanto, en las determinaciones públicas primarán siempre consideraciones para que el juego del mercado no comprometa la equidad ni restrinja el acceso y la participación equitativa de los más pobres\". ¿Cuál de los siguientes enunciados explica la postura crítica de este fragmento, frente al modelo neoliberal?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Se reconoce el papel central del Estado en la buena gestión y administración de los recursos públicos."
+        },
+        {
+          "key": "B",
+          "text": "Se define el mercado como el principal mecanismo para distribuir eficientemente los beneficios del crecimiento económico."
+        },
+        {
+          "key": "C",
+          "text": "Se afirma que, sin la intervención del Estado, no es posible garantizarle buenas condiciones de vida a toda la población."
+        },
+        {
+          "key": "D",
+          "text": "Se señala implícitamente que la privatización de las empresas del Estado es un mecanismo eficiente para garantizar la equidad."
+        }
+      ],
+      "answer": "C",
+      "tip": "El fragmento dice que el juego del mercado NO debe comprometer la equidad ni restringir el acceso de los más pobres. Eso implica que el mercado, dejado solo a su suerte, sí podría perjudicar a los más pobres, por lo que algo (el Estado) debe intervenir para evitarlo.",
+      "explanation": "El fragmento sugiere que el mercado, por sí solo, podría comprometer la equidad y afectar a los más pobres, y por eso las \"determinaciones públicas\" (es decir, la intervención estatal) deben evitar que eso pase. Esto es una postura crítica al neoliberalismo puro, que confía todo al mercado, pues aquí se defiende la necesidad de la intervención del Estado para garantizar condiciones de vida adecuadas."
+    },
+    {
+      "id": "soc01-q14",
+      "stem": "El Centro Nacional de Memoria Histórica de Colombia define el desplazamiento forzado como un fenómeno masivo, sistemático, de larga duración y vinculado, en gran medida, a las disputas entre actores armados por el control de territorios estratégicos. Según esta definición, ¿por qué el desplazamiento forzado permite comprender características propias del conflicto armado en Colombia?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Porque el desplazamiento forzado es un fenómeno social de larga duración que solo se presenta en Colombia."
+        },
+        {
+          "key": "B",
+          "text": "Porque el desplazamiento forzado pone en evidencia, indirectamente, los intereses económicos de los actores en conflicto."
+        },
+        {
+          "key": "C",
+          "text": "Porque el desplazamiento forzado permite determinar el efecto directo del conflicto armado sobre la población urbana."
+        },
+        {
+          "key": "D",
+          "text": "Porque el desplazamiento forzado permite identificar zonas históricamente controladas por un único actor armado."
+        }
+      ],
+      "answer": "B",
+      "tip": "La definición dice que el desplazamiento está vinculado a disputas por \"territorios estratégicos\". ¿Qué revela eso, de forma indirecta, sobre las verdaderas motivaciones (más allá de lo ideológico) de los actores armados?",
+      "explanation": "Si el desplazamiento está ligado al control de \"territorios estratégicos\", eso revela indirectamente que detrás del conflicto armado hay intereses económicos (control de tierras, recursos, rutas) de los actores involucrados, más allá de las motivaciones políticas o ideológicas que declaran públicamente."
+    },
+    {
+      "id": "soc01-q15",
+      "stem": "La acción de tutela es un mecanismo que busca la protección inmediata de los derechos fundamentales de los ciudadanos. ¿En cuál de las siguientes situaciones se puede presentar una acción de tutela?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cuando se vulnera el derecho a la salud, porque está en riesgo la vida de la persona."
+        },
+        {
+          "key": "B",
+          "text": "Cuando alguien es expulsado de una agremiación, a pesar de estar al día en sus pagos."
+        },
+        {
+          "key": "C",
+          "text": "Cuando se busca proteger un derecho colectivo de constituir juntas de acción comunal."
+        },
+        {
+          "key": "D",
+          "text": "Cuando se legisla sobre el derecho a la vida y el acceso a un trabajo digno para las personas."
+        }
+      ],
+      "answer": "A",
+      "tip": "La tutela protege derechos FUNDAMENTALES de forma INMEDIATA y URGENTE. Busca la opción donde hay un riesgo directo, individual y urgente sobre un derecho fundamental (como la vida), y descarta las que hablan de derechos colectivos, contractuales o de procesos legislativos generales.",
+      "explanation": "La acción de tutela protege derechos fundamentales individuales cuando hay una amenaza urgente, como la vida o la salud. Cuando está en riesgo la vida de una persona por la vulneración del derecho a la salud, es un caso típico y directo de procedencia de la tutela. Los derechos colectivos (como el de asociación en una agremiación o el de constituir juntas de acción comunal) se protegen por otras vías (como la acción popular), y \"legislar\" no es una situación que dé lugar a una tutela individual."
+    },
+    {
+      "id": "soc01-q16",
+      "stem": "En Colombia, la discriminación de personas con orientación sexual diferente a la heterosexual, es decir, lesbianas, homosexuales, bisexuales y personas transgénero, ha llevado a procesos de movilización y acciones afirmativas de estas comunidades por la defensa de sus derechos. ¿Por qué estas movilizaciones y acciones que visibilizan a personas con orientación sexual diferente son fundamentales en el desarrollo de la igualdad y del respeto por la diferencia?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Porque exigen al gobierno proyectos pedagógicos para la salud sexual."
+        },
+        {
+          "key": "B",
+          "text": "Porque denuncian la explotación laboral y las condiciones de marginación espacial de estas personas."
+        },
+        {
+          "key": "C",
+          "text": "Porque promulgan y reivindican los derechos y se denuncia la exclusión."
+        },
+        {
+          "key": "D",
+          "text": "Porque sensibilizan a la gente sobre la importancia de reconocer la diversidad de creencias religiosas."
+        }
+      ],
+      "answer": "C",
+      "tip": "La pregunta es sobre \"igualdad y respeto por la diferencia\" en general, no sobre un tema específico como salud, empleo o religión. Busca la opción que hable directamente de reivindicar derechos y denunciar la exclusión, que es el propósito central de este tipo de movilizaciones.",
+      "explanation": "El núcleo de estas movilizaciones es reivindicar derechos y visibilizar/denunciar la exclusión que sufren estas comunidades, lo cual es la base misma de avanzar hacia la igualdad y el respeto por la diferencia. Las otras opciones se refieren a temas específicos (salud sexual, condiciones laborales, diversidad religiosa) que no son el enfoque central de la pregunta."
+    },
+    {
+      "id": "soc01-q17",
+      "stem": "La Revolución Industrial se debió, entre otras causas, a la invención de la máquina de vapor y la concentración del capital, que permitió adquirir máquinas para producir en masa. Esta revolución produjo cambios en la población: se pasó de la explotación de la tierra a la producción de bienes, del telar familiar a la gran fábrica y de la manufactura a la producción tecnificada. De acuerdo con lo anterior, ¿cuál de las siguientes afirmaciones es una consecuencia de la revolución industrial?",
+      "options": [
+        {
+          "key": "A",
+          "text": "El traslado del campo a la ciudad y el surgimiento del proletariado urbano."
+        },
+        {
+          "key": "B",
+          "text": "El crecimiento de la población rural sobre la urbana."
+        },
+        {
+          "key": "C",
+          "text": "El nacimiento de una élite propietaria de la tierra."
+        },
+        {
+          "key": "D",
+          "text": "El desarrollo de un modelo económico para la protección del proletariado."
+        }
+      ],
+      "answer": "A",
+      "tip": "Si la producción se trasladó \"del telar familiar a la gran fábrica\", ¿dónde se ubicaban típicamente esas grandes fábricas (el campo o la ciudad), y qué tuvo que hacer la gente que antes trabajaba la tierra para poder trabajar en ellas?",
+      "explanation": "Como la producción se concentró en grandes fábricas (típicamente urbanas), gran parte de la población que antes trabajaba la tierra se trasladó del campo a la ciudad para emplearse en ellas, dando origen a la clase obrera o proletariado urbano. Esto es lo opuesto a un crecimiento de la población rural (B) y no se relaciona con una élite terrateniente (C, más bien propia del mundo agrario previo) ni con un modelo de protección al proletariado (D, que es más bien una respuesta posterior a los problemas que generó la industrialización)."
+    },
+    {
+      "id": "soc01-q18",
+      "stem": "Se dice que una Constitución es la ley de leyes, la fuente de toda la jurisprudencia en un Estado de derecho. Por esta razón, cada una de las normas que se expidan debe ajustarse a los principios y mandatos constitucionales. De acuerdo con lo anterior, ¿cuál es la principal utilidad de una Constitución?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Impartir justicia y orientar las acciones del Poder Ejecutivo en un Estado social de derecho como el colombiano."
+        },
+        {
+          "key": "B",
+          "text": "Facilitar la labor de los jueces, al asumir la tarea de impartir justicia, de manera imparcial y oportuna."
+        },
+        {
+          "key": "C",
+          "text": "Garantizar la paz y la prosperidad de las naciones, al expresar los acuerdos y los compromisos de cada ciudadano con la sociedad."
+        },
+        {
+          "key": "D",
+          "text": "Establecer un orden jurídico y un marco normativo que delimita el poder del Estado y establece qué es legal."
+        }
+      ],
+      "answer": "D",
+      "tip": "El texto dice que la Constitución es \"la fuente de toda la jurisprudencia\" y que todas las demás normas deben ajustarse a ella. Busca la opción que describa esa función general y estructural, no una tarea específica de un solo poder (como \"impartir justicia\", que no es tarea de la Constitución misma sino de los jueces).",
+      "explanation": "La utilidad principal de una Constitución, tal como describe el texto, es servir de marco normativo superior que ordena el sistema jurídico y delimita el poder del Estado (qué puede y no puede hacer, y qué se considera legal). \"Impartir justicia\" es tarea de los jueces (no de la Constitución en sí), y las otras opciones describen funciones demasiado específicas o imprecisas frente a lo que realmente hace una Constitución."
+    },
+    {
+      "id": "soc01-q19",
+      "stem": "Un estudio reveló que el 30 % de las mujeres en Colombia son víctimas de violencia física. A partir de este estudio, varias organizaciones feministas solicitaron el endurecimiento de las penas para las personas que ejercían violencia contra las mujeres. Ante esta petición, un funcionario del gobierno señaló que el estudio, aunque tenía datos confiables, no consideraba los distintos contextos de estas agresiones y que era muy importante tener en cuenta que algunos hechos violentos podrían estar justificados. Según la información presentada, ¿cuál de los siguientes hechos podría ser un efecto de la posición del funcionario?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Que se cuestione la idoneidad de los investigadores que realizaron el estudio."
+        },
+        {
+          "key": "B",
+          "text": "Que se generen estrategias más efectivas de prevención de la violencia contra las mujeres."
+        },
+        {
+          "key": "C",
+          "text": "Que algunas personas no reconozcan la gravedad de los actos de violencia en contra de las mujeres."
+        },
+        {
+          "key": "D",
+          "text": "Que las organizaciones feministas retiren sus peticiones."
+        }
+      ],
+      "answer": "C",
+      "tip": "El funcionario sugiere que algunos actos de violencia \"podrían estar justificados\". Si una figura de gobierno relativiza así la violencia, ¿qué efecto social directo podría tener ese mensaje sobre cómo la gente percibe la gravedad del problema?",
+      "explanation": "Al sugerir públicamente que algunos actos violentos \"podrían estar justificados\", el funcionario relativiza la gravedad del problema, lo cual puede llevar a que parte de la sociedad no reconozca o minimice la gravedad de la violencia contra las mujeres. Las demás opciones no se desprenden lógicamente de esa declaración: no cuestiona a los investigadores, no propone estrategias de prevención, ni hay indicios de que las organizaciones fueran a retirar sus peticiones."
+    },
+    {
+      "id": "soc01-q20",
+      "stem": "La crisis económica que se desató en 1929 en Estados Unidos también afectó a los países latinoamericanos al reducirse sus exportaciones y, por consiguiente, sus importaciones. Para contrarrestar el efecto de esta crisis, los estados latinoamericanos adoptaron medidas como la sustitución de importaciones. ¿En qué consiste esta medida?",
+      "options": [
+        {
+          "key": "A",
+          "text": "En prohibir el ingreso de toda clase de productos extranjeros."
+        },
+        {
+          "key": "B",
+          "text": "En otorgar total libertad de producción, de cambio y de consumo."
+        },
+        {
+          "key": "C",
+          "text": "En producir internamente los bienes que tradicionalmente se traían del exterior."
+        },
+        {
+          "key": "D",
+          "text": "En dejar actuar libremente las leyes de la oferta y la demanda."
+        }
+      ],
+      "answer": "C",
+      "tip": "El nombre de la política es literal: \"sustitución de importaciones\". Si un país dejó de poder importar ciertos bienes, ¿qué tendría que empezar a hacer con esos mismos bienes dentro de su propio territorio?",
+      "explanation": "La sustitución de importaciones consiste en producir internamente los bienes que antes se importaban, para no depender de las compras al exterior. No implica prohibir TODO el comercio exterior (A, demasiado extremo) ni es una política de libre mercado sin intervención (B y D, que son más bien lo contrario: la sustitución de importaciones típicamente implica protección estatal a la industria naciente)."
+    },
+    {
+      "id": "soc01-q21",
+      "stem": "Un profesor universitario sostiene que cuando sus estudiantes mujeres responden a una pregunta, se extienden demasiado en la respuesta. Por esa razón, cuando les pregunta a los estudiantes y algunos levantan la mano para responder, hombres y mujeres por igual, el profesor solo les da la palabra a los hombres. De acuerdo con la Constitución, ¿el profesor está vulnerando algún derecho?",
+      "options": [
+        {
+          "key": "A",
+          "text": "No, pues el profesor puede hacer esto porque tiene más experiencia que sus estudiantes."
+        },
+        {
+          "key": "B",
+          "text": "Sí, ya que con su actuación el profesor está vulnerando el derecho a la igualdad."
+        },
+        {
+          "key": "C",
+          "text": "No, pues a pesar de que la actitud del profesor puede ser chocante para algunos, no es discriminatoria."
+        },
+        {
+          "key": "D",
+          "text": "Sí, porque el profesor puede justificar lo que hace si puede probar que las mujeres hablan demasiado."
+        }
+      ],
+      "answer": "B",
+      "tip": "El profesor está tratando de forma distinta a hombres y mujeres, basado en un estereotipo de género, y no en un criterio objetivo relacionado con la clase. ¿Qué derecho constitucional protege precisamente contra ese tipo de trato diferenciado injustificado?",
+      "explanation": "Excluir sistemáticamente a las mujeres de participar, basándose en un estereotipo de género (\"se extienden demasiado\"), es un trato discriminatorio que vulnera el derecho constitucional a la igualdad, sin importar la experiencia o autoridad del profesor. Aunque pudiera \"probar\" que algunas mujeres hablan más, eso no justificaría constitucionalmente excluir a todas por su género (descarta D)."
+    },
+    {
+      "id": "soc01-q22",
+      "stem": "Una compañía petrolera identificó un yacimiento de petróleo en una zona en la que vive una comunidad indígena, para la cual extraer el petróleo significa \"robarle la sangre a la madre tierra\", por lo que se opone a la explotación del yacimiento. La compañía invirtió muchos recursos en un proceso de diálogo con los representantes de la comunidad, pero fue imposible llegar a un acuerdo. Ante esto, y después de un análisis detenido de las posiciones, el Estado le negó a la empresa el permiso de explotación. De acuerdo con la Constitución, ¿cuál es la razón que mejor sustenta la decisión del Estado?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Garantizar el derecho a la igualdad."
+        },
+        {
+          "key": "B",
+          "text": "Garantizar el derecho a la libre asociación."
+        },
+        {
+          "key": "C",
+          "text": "Proteger la diversidad étnica y cultural."
+        },
+        {
+          "key": "D",
+          "text": "Proteger el medio ambiente."
+        }
+      ],
+      "answer": "C",
+      "tip": "La comunidad se opone por una razón profundamente cultural y espiritual (\"robarle la sangre a la madre tierra\"), no por un argumento ambiental técnico ni por un tema de igualdad o asociación. ¿Qué derecho constitucional protege justamente las cosmovisiones y culturas de los pueblos indígenas?",
+      "explanation": "La Constitución colombiana reconoce y protege la diversidad étnica y cultural de la nación, incluyendo las cosmovisiones de los pueblos indígenas (como la relación espiritual con la tierra descrita en el caso). La negativa del Estado se sustenta principalmente en proteger esa diversidad cultural, más que en un argumento ambiental genérico (D) o en los derechos de igualdad o asociación (A y B), que no son el eje central del conflicto descrito."
+    },
+    {
+      "id": "soc01-q23",
+      "stem": "La violencia sexual contra las mujeres es un problema mundial. Hace poco tiempo, el jefe de policía de una ciudad muy importante, en un país desarrollado, declaró al respecto: \"Para evitar estas situaciones, lo mejor sería que las mujeres dejaran de salir con minifaldas o escotes provocadores a la calle. Así evitarían ser víctimas de acoso o violencia sexual\". ¿Qué intereses está favoreciendo esta declaración?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Los de las mujeres, porque está aconsejándoles cómo vestir para no ser víctimas."
+        },
+        {
+          "key": "B",
+          "text": "Los de los policías, porque su función no es la de manejar casos de acoso."
+        },
+        {
+          "key": "C",
+          "text": "Los de los agresores, porque está dándoles una justificación a lo que hacen."
+        },
+        {
+          "key": "D",
+          "text": "Los de la ciudad, porque el acoso sexual afecta la percepción de seguridad."
+        }
+      ],
+      "answer": "C",
+      "tip": "Esta declaración traslada la responsabilidad del acoso hacia la ropa de la víctima, en lugar de hacia la decisión del agresor de acosar. ¿A quién beneficia, en el fondo, ese cambio de responsabilidad?",
+      "explanation": "Al sugerir que la forma de vestir de las mujeres es la causa del acoso, la declaración traslada la responsabilidad de la víctima hacia... la víctima misma, lo cual, en la práctica, le da una excusa o justificación implícita a los agresores (\"ella se lo buscó\"), en lugar de responsabilizarlos por su propia conducta."
+    }
+  ]
+}

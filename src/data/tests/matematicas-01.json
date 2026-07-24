@@ -1,0 +1,325 @@
+{
+  "id": "matematicas-01",
+  "area": "matematicas",
+  "title": "Matemáticas · Test 1",
+  "source": "Cuadernillo de preguntas Matemáticas, Saber 11.º, Icfes (marzo 2026)",
+  "questions": [
+    {
+      "id": "mat01-q1",
+      "context": "Cuatro cursos, cada uno con igual número de estudiantes, presentan anualmente una prueba de matemáticas. La tabla muestra el puntaje promedio obtenido por cada curso.\n\n| Curso | I | II | III | IV |\n|---|---|---|---|---|\n| Promedio año anterior | 63 | 61 | 50 | 53 |\n| Promedio año actual | 65 | 45 | 53 | 54 |",
+      "stem": "Al revisar los puntajes de la tabla, una persona afirma que hubo un aumento en el puntaje respecto al año anterior. Esta afirmación es",
+      "options": [
+        { "key": "A", "text": "Correcta, ya que el promedio de la mayoría de los cursos aumentó respecto al año anterior." },
+        { "key": "B", "text": "Incorrecta, ya que el promedio total en el año anterior es superior al promedio total en el año actual." },
+        { "key": "C", "text": "Correcta, ya que al observar todos los promedios, el mayor corresponde al curso I en el año actual." },
+        { "key": "D", "text": "Incorrecta, ya que se necesita el puntaje de cada estudiante para realizar la comparación." }
+      ],
+      "answer": "B",
+      "tip": "No te quedes con la primera impresión de \"la mayoría subió\". Suma los 4 promedios de cada año y compara los totales: 63+61+50+53 contra 65+45+53+54.",
+      "explanation": "Sumando los promedios: año anterior = 63+61+50+53 = 227; año actual = 65+45+53+54 = 217. Aunque 3 de los 4 cursos subieron, el fuerte descenso del curso II (de 61 a 45) hace que el promedio total del año actual sea menor. Por eso la afirmación de que \"hubo un aumento\" es incorrecta en conjunto."
+    },
+    {
+      "id": "mat01-q2",
+      "stem": "Una persona que vive en Colombia tiene inversiones en dólares en Estados Unidos, y sabe que la tasa de cambio del dólar respecto al peso colombiano se mantendrá constante este mes, siendo 1 dólar equivalente a 4.000 pesos colombianos y que su inversión, en dólares, le dará ganancias del 3 % en el mismo periodo. Un amigo le asegura que en pesos sus ganancias también serán del 3 %. ¿La afirmación de su amigo es correcta?",
+      "options": [
+        { "key": "A", "text": "Sí, porque, sin importar las variaciones en la tasa de cambio, la proporción en que aumenta la inversión en dólares es la misma que en pesos." },
+        { "key": "B", "text": "No, porque debería conocerse el valor exacto de la inversión para poder calcular la cantidad de dinero que ganará." },
+        { "key": "C", "text": "Sí, porque el 3 % representa una proporción fija en cualquiera de las dos monedas, puesto que la tasa de cambio permanecerá constante." },
+        { "key": "D", "text": "No, porque el 3 % representa un incremento, que será mayor en pesos colombianos, pues en esta moneda cada dólar representa un valor 4.000 veces mayor." }
+      ],
+      "answer": "C",
+      "tip": "Un porcentaje es una proporción (una razón), no una cantidad fija. Si conviertes dólares a pesos multiplicando siempre por el mismo número (4.000, porque la tasa es constante), ¿cambia la proporción del 3 % al convertir?",
+      "explanation": "Como la tasa de cambio es constante, convertir de dólares a pesos es multiplicar por 4.000 tanto la inversión inicial como la final: eso no altera la proporción entre ellas. Por eso el 3 % de ganancia se mantiene igual en cualquiera de las dos monedas; no hace falta conocer el valor exacto de la inversión (descarta B) ni el 3 % \"se vuelve mayor\" en pesos (descarta D), pues es una proporción, no una cantidad absoluta."
+    },
+    {
+      "id": "mat01-q3",
+      "contextId": "modulos",
+      "context": "Para capacitar en informática básica a los trabajadores de algunas dependencias de una empresa, se contrata una institución que ofrece un plan educativo de 4 módulos:\n\n| Módulo | Nombre | Intensidad horaria | Valor por hora |\n|---|---|---|---|\n| I | Fundamentación | 40 h | $ 35.000 |\n| II | Procesador de texto | 30 h | $ 30.000 |\n| III | Hoja de cálculo | 40 h | $ 40.000 |\n| IV | Presentación con diapositivas | 10 h | $ 45.000 |\n\nLa capacitación de cada módulo se hace con cursos de mínimo 20 y máximo 30 personas, de la misma dependencia (es decir, se necesitan varios cursos si hay más de 30 personas).",
+      "stem": "La empresa pagará $4.200.000 por capacitar a los trabajadores de la dependencia \"Insumos\" en el módulo I, ¿cuántos empleados tiene esta dependencia?",
+      "options": [
+        { "key": "A", "text": "Entre 20 y 30 trabajadores." },
+        { "key": "B", "text": "Entre 41 y 60 trabajadores." },
+        { "key": "C", "text": "Entre 61 y 90 trabajadores." },
+        { "key": "D", "text": "Entre 80 y 120 trabajadores." }
+      ],
+      "answer": "C",
+      "tip": "Primero calcula cuánto cuesta UN curso completo del módulo I (horas × valor por hora). Luego averigua cuántos cursos de esos se pagaron con $4.200.000, y multiplica ese número de cursos por el rango de personas por curso (20 a 30).",
+      "explanation": "Un curso del módulo I cuesta 40 h × $35.000 = $1.400.000. Con $4.200.000 se pagaron $4.200.000 ÷ $1.400.000 = 3 cursos. Como cada curso tiene entre 20 y 30 personas, 3 cursos cubren entre 3×20=60 y 3×30=90 trabajadores, es decir, el rango \"entre 61 y 90\"."
+    },
+    {
+      "id": "mat01-q4",
+      "contextId": "modulos",
+      "stem": "Si se les cobrara a los 50 trabajadores de la dependencia \"Recursos Humanos\" la capacitación del módulo II, y todos pagaran el mismo valor, ¿cuánto debería pagar cada uno por esa capacitación?",
+      "options": [
+        { "key": "A", "text": "$ 18.000" },
+        { "key": "B", "text": "$ 36.000" },
+        { "key": "C", "text": "$ 450.000" },
+        { "key": "D", "text": "$ 900.000" }
+      ],
+      "answer": "B",
+      "tip": "Ojo: cada curso admite máximo 30 personas. Si son 50 trabajadores, no caben en un solo curso del módulo II; necesitas más de un curso. Calcula el costo total de todos los cursos necesarios y repártelo entre las 50 personas.",
+      "explanation": "Un curso del módulo II cuesta 30 h × $30.000 = $900.000. Como el máximo por curso es 30 personas, los 50 trabajadores necesitan 2 cursos (por ejemplo, 25 y 25), con un costo total de 2 × $900.000 = $1.800.000. Repartido entre los 50 trabajadores: $1.800.000 ÷ 50 = $36.000 cada uno."
+    },
+    {
+      "id": "mat01-q5",
+      "contextId": "modulos",
+      "stem": "La empresa paga $ 900.000 por la capacitación de los 40 funcionarios de la dependencia \"Importaciones\". De acuerdo con el valor pagado, ¿cuál de los siguientes módulos corresponde al tomado por la dependencia \"Importaciones\"?",
+      "options": [
+        { "key": "A", "text": "I." },
+        { "key": "B", "text": "II." },
+        { "key": "C", "text": "III." },
+        { "key": "D", "text": "IV." }
+      ],
+      "answer": "D",
+      "tip": "De nuevo, 40 personas no caben en un solo curso (máximo 30), así que se necesitan 2 cursos. Divide $900.000 entre 2 para saber cuánto cuesta cada curso individual, y compara ese valor con el costo por curso de cada módulo.",
+      "explanation": "Con 40 personas se necesitan 2 cursos, así que cada curso cuesta $900.000 ÷ 2 = $450.000. El costo por curso de cada módulo es: I = 40h×$35.000=$1.400.000; II = 30h×$30.000=$900.000; III = 40h×$40.000=$1.600.000; IV = 10h×$45.000=$450.000. El valor de $450.000 coincide con el módulo IV."
+    },
+    {
+      "id": "mat01-q6",
+      "stem": "Si en un rectángulo se aumenta la longitud de uno de sus lados en 100 %, ¿Qué se puede concluir de su área?",
+      "options": [
+        { "key": "A", "text": "Aumenta en un 50 %." },
+        { "key": "B", "text": "Se duplica." },
+        { "key": "C", "text": "No cambia." },
+        { "key": "D", "text": "Aumenta en 100 unidades." }
+      ],
+      "answer": "B",
+      "tip": "Aumentar un lado en 100 % significa que ese lado queda multiplicado por 2 (el doble). El área es base × altura: si un factor se multiplica por 2 y el otro no cambia, ¿qué le pasa al producto?",
+      "explanation": "\"Aumentar en 100 %\" un lado significa duplicarlo (multiplicarlo por 2). Como el área es el producto de los dos lados, si uno se duplica y el otro queda igual, el área también se duplica (área nueva = base×2×altura = 2×área original)."
+    },
+    {
+      "id": "mat01-q7",
+      "stem": "Una escuela de natación cuenta con un total de 16 estudiantes. Para las clases se usan 2 piscinas con distinta profundidad. Por seguridad, las personas con una estatura inferior a 1,80 m se envían a la piscina menos profunda, y las demás, a la más profunda. Un día, el director de la escuela escucha que el promedio de estatura de las 16 personas es 1,70 m e insiste en aumentar la cantidad de alumnos para que el promedio sea 1,80 m, afirmando que de esta manera se logrará igualar la cantidad de personas en las dos piscinas. ¿Por qué es errónea la afirmación del director?",
+      "options": [
+        { "key": "A", "text": "Porque las 16 personas se encuentran actualmente en la piscina menos profunda. El director de la escuela debe aceptar otros 16 alumnos con una estatura superior a 1,80 m." },
+        { "key": "B", "text": "Porque con el promedio es imposible determinar la cantidad de personas en las piscinas. Es necesario utilizar otras medidas, como la estatura máxima o mínima de las personas, en lugar de esta." },
+        { "key": "C", "text": "Porque incrementar el promedio a 1,80 m es insuficiente. El director de la escuela debe aceptar más estudiantes con una altura de 1,80 m hasta que la cantidad de alumnos sea igual en ambas piscinas." },
+        { "key": "D", "text": "Porque aunque el promedio de estatura de las 16 personas sea inferior a 1,80 m, no significa que la cantidad de personas en las piscinas sea diferente." }
+      ],
+      "answer": "D",
+      "tip": "Piensa en un promedio como un resumen: dos grupos muy distintos (por ejemplo, muchas personas bajas y pocas muy altas) pueden dar el mismo promedio que un grupo parejo. ¿El promedio te dice cuántas personas hay a cada lado del umbral de 1,80 m?",
+      "explanation": "El promedio de estatura no determina cuántas personas están por encima o por debajo de un umbral específico (1,80 m): distintas distribuciones de estaturas pueden dar el mismo promedio con cantidades muy distintas de personas en cada piscina. Por eso, aunque el promedio suba a 1,80 m, no hay garantía de que la cantidad de personas en cada piscina se iguale."
+    },
+    {
+      "id": "mat01-q8",
+      "stem": "En una feria robótica, el robot P y el robot Q disputan un juego de tenis de mesa. En el momento que el marcador se encuentra 7 a 2 a favor del robot P, estos se reprograman de tal forma que por cada 2 puntos que anota el robot P, el robot Q anota 3. ¿Cuál de las siguientes ecuaciones permite determinar cuándo igualará en puntos el robot Q al robot P?",
+      "options": [
+        { "key": "A", "text": "(3/2)x = 0. Donde x es la cantidad de puntos que anotará P." },
+        { "key": "B", "text": "7 + x = (3/2)x + 2. Donde x es la cantidad de puntos que anotará P." },
+        { "key": "C", "text": "7 + 3x = 2 + 2y. Donde x es la cantidad de puntos que anotará P, y y es la cantidad de puntos que anotará Q." },
+        { "key": "D", "text": "x + y = 7 + 2. Donde x es la cantidad de puntos que anotará P, y y es la cantidad de puntos que anotará Q." }
+      ],
+      "answer": "B",
+      "tip": "Si P anota x puntos adicionales, y la relación es \"por cada 2 de P, Q anota 3\", entonces Q anota (3/2)x puntos adicionales. Iguala el marcador final de P (7+x) con el de Q (2 + (3/2)x).",
+      "explanation": "Si x son los puntos adicionales de P, la relación 2:3 implica que Q anota (3/2)x puntos adicionales. El marcador final de P será 7+x y el de Q será 2+(3/2)x; igualarlos da la ecuación 7 + x = (3/2)x + 2, que al resolverla (x=10) confirma que ambos llegan a 17 puntos."
+    },
+    {
+      "id": "mat01-q9",
+      "stem": "En una tienda se venden mesas a $ 40.000 y sillas a $ 20.000. El dueño de la tienda olvidó registrar la cantidad total de mesas y sillas que se vendieron, pero sabe que los ingresos por ventas del mes fueron de $ 1.400.000 y que se vendieron 3 veces más sillas que mesas. Para determinar la cantidad vendida de cada artículo, siendo M la cantidad de mesas y S la de sillas vendidas, representó la información con las siguientes ecuaciones: Ecuación 1: 40.000M + 20.000S = 1.400.000. Ecuación 2: M = 3S. ¿Las ecuaciones representan correctamente la situación?",
+      "options": [
+        { "key": "A", "text": "No, porque aunque la ecuación 1 relaciona cada precio con la variable adecuada de forma correcta, la ecuación 2 significa que se venden 3 veces más mesas que sillas." },
+        { "key": "B", "text": "Sí, porque la ecuación 1 relaciona cada precio con la variable adecuada y la ecuación 2 tiene en cuenta que la cantidad de sillas es 3 veces mayor que la de mesas." },
+        { "key": "C", "text": "No, porque aunque la ecuación 2 tiene en cuenta que la cantidad de sillas es 3 veces mayor que la de mesas, en la ecuación 1 los precios deberían estar dividiendo y no multiplicando." },
+        { "key": "D", "text": "Sí, porque al solucionar las dos ecuaciones se obtiene un número entero, lo cual es consistente con las condiciones iniciales del problema." }
+      ],
+      "answer": "A",
+      "tip": "\"Se vendieron 3 veces más sillas que mesas\" significa S = 3M, no M = 3S. Revisa si la Ecuación 2 del enunciado dice lo mismo que la condición original.",
+      "explanation": "\"3 veces más sillas que mesas\" se traduce como S = 3M (las sillas son el triple de las mesas), pero la Ecuación 2 dada dice M = 3S, que es justo lo contrario: 3 veces más mesas que sillas. La Ecuación 1 sí está bien planteada (precio por cantidad de cada artículo), pero la Ecuación 2 invierte la relación."
+    },
+    {
+      "id": "mat01-q10",
+      "stem": "Una prueba atlética tiene un récord mundial de 10,49 segundos y un récord olímpico de 10,50 segundos. ¿Es posible que un atleta registre un tiempo, en el mismo tipo de prueba, que rompa el récord olímpico pero no el mundial?",
+      "options": [
+        { "key": "A", "text": "Sí, porque puede registrar, por ejemplo, un tiempo de 10,497 segundos, que está entre los dos tiempos récord." },
+        { "key": "B", "text": "Sí, porque puede registrar un tiempo menor que 10,4 y marcaría un nuevo récord." },
+        { "key": "C", "text": "No, porque no existe un registro posible entre los dos tiempos récord." },
+        { "key": "D", "text": "No, porque cualquier registro menor que el récord olímpico va a ser menor que el récord mundial." }
+      ],
+      "answer": "A",
+      "tip": "Entre 10,49 y 10,50 hay infinitos números decimales (por ejemplo, con más cifras decimales). Piensa en un tiempo con milésimas de segundo que quede justo en medio de los dos récords.",
+      "explanation": "Entre 10,49 y 10,50 sí existen números reales (como 10,497), ya que los números decimales son densos: siempre hay otro número entre dos números distintos. Un tiempo de 10,497 s sería menor que el récord olímpico (10,50 s, lo rompería) pero mayor que el récord mundial (10,49 s, no lo rompería)."
+    },
+    {
+      "id": "mat01-q11",
+      "stem": "En una institución educativa hay dos cursos de grado once (11-A y 11-B). Una tabla registra el número de hombres y mujeres de cada curso. La probabilidad de escoger, al azar, un estudiante de grado once de esa institución que resulte ser mujer se calcula como una razón (una fracción). Se sabe que uno de los dos valores de esa razón es el número total de mujeres de grado once. ¿Cuál es el otro valor de la razón?",
+      "options": [
+        { "key": "A", "text": "El número total de estudiantes de grado undécimo." },
+        { "key": "B", "text": "El número total de hombres de grado undécimo." },
+        { "key": "C", "text": "El número total de mujeres del curso 11 B." },
+        { "key": "D", "text": "El número total de hombres del curso 11 A." }
+      ],
+      "answer": "A",
+      "tip": "Recuerda la fórmula de probabilidad: casos favorables sobre casos posibles. Si el numerador ya es \"el total de mujeres\" (casos favorables), ¿qué debe ir en el denominador (casos posibles)?",
+      "explanation": "La probabilidad de un evento se calcula como (casos favorables) ÷ (casos posibles totales). Si el número total de mujeres es el numerador (casos favorables: ser mujer), el denominador debe ser el total de casos posibles, es decir, el número total de estudiantes de grado undécimo (hombres y mujeres de ambos cursos)."
+    },
+    {
+      "id": "mat01-q12",
+      "stem": "Un profesor de Matemáticas les pide a sus estudiantes solucionar la siguiente ecuación: (x + 2)(x + 3) = 5(x + 3). María, Nelson y Óscar realizan, cada uno, un procedimiento distinto. María: x² + 5x + 6 = 5x + 15 → x² + 6 = 15 → x² = 9 → x = ±3. Nelson: (x + 2)(x + 3) − 5(x + 3) = 0 → (x + 3)[(x + 2) − 5] = 0 → (x + 3)(x − 3) = 0 → x² − 9 = 0 → x² = 9 → x = ±3. Óscar: x + 2 + x + 3 = 5 + x + 3 → 2x + 5 = x + 8 → 2x − x = 8 − 5 → x = 3. ¿Cuál(es) estudiante(s) desarrolló(aron) un procedimiento correcto para solucionar la ecuación?",
+      "options": [
+        { "key": "A", "text": "Solo Nelson y Óscar." },
+        { "key": "B", "text": "Solo María y Nelson." },
+        { "key": "C", "text": "Solamente Óscar." },
+        { "key": "D", "text": "Solamente María." }
+      ],
+      "answer": "B",
+      "tip": "Verifica: la ecuación original tiene dos soluciones válidas, x=3 y x=-3 (compruébalo reemplazando ambos valores). ¿Qué procedimiento(s) llegan a esas dos soluciones y cuál se \"come\" una solución al simplificar mal?",
+      "explanation": "Reemplazando en la ecuación original, tanto x=3 como x=-3 la satisfacen (con x=-3 ambos lados dan 0). María expande correctamente y llega a x=±3. Nelson factoriza sin dividir por (x+3), evitando perder la solución x=-3, y también llega a x=±3. Óscar, en cambio, simplifica el producto de forma indebida (como si pudiera cancelar el factor (x+3) sumando en vez de dividir), perdiendo la solución x=-3 y quedándose solo con x=3. Por eso solo María y Nelson tienen un procedimiento completo y correcto."
+    },
+    {
+      "id": "mat01-q13",
+      "stem": "Una regla usada en física indica que, para aumentar el nivel de intensidad del sonido en 10 dB (decibelios), es necesario que la intensidad medida se multiplique por 10. Ramiro es el encargado de aumentar en 20 dB la medida del nivel de intensidad del sistema de sonido de un evento y, según su interpretación de la regla, multiplica por 20 la intensidad actual del sistema. ¿Es correcta su interpretación?",
+      "options": [
+        { "key": "A", "text": "No, porque la regla no considera aumentos de 20 dB, solamente de 10 dB; no hay consideraciones para aumentos mayores." },
+        { "key": "B", "text": "Sí, porque la regla presentada indica que para aumentar en x unidades el nivel de la medida de intensidad se agrega x a la intensidad." },
+        { "key": "C", "text": "No, porque aumentar 20 dB equivale a aumentar 10 dB dos veces, es decir, multiplicar por 10 la intensidad dos veces; en total, multiplicar por 100." },
+        { "key": "D", "text": "Sí, porque el resultado de multiplicar dos veces por 10 la intensidad es multiplicarla por 20; así, se ahorra un paso y obtiene el resultado correcto." }
+      ],
+      "answer": "C",
+      "tip": "20 dB son dos \"saltos\" de 10 dB seguidos. Si cada salto de 10 dB multiplica por 10, ¿qué operación corresponde a aplicar ese salto dos veces seguidas (multiplicar por 10 y luego otra vez por 10)?",
+      "explanation": "Aumentar 20 dB equivale a aplicar dos veces seguidas la regla de \"multiplicar por 10\" (10 dB + 10 dB), es decir, multiplicar por 10 y luego otra vez por 10, lo que da un factor total de 10×10=100, no de 20. Ramiro se equivocó al sumar los incrementos de dB (10+10=20) en vez de multiplicar los factores (10×10=100)."
+    },
+    {
+      "id": "mat01-q14",
+      "stem": "En una librería se ofrece un descuento del 10 % sobre el precio original de todos los libros impresos. Juan tiene un cupón de descuento adicional del 10 % sobre el precio de venta, el cual incluye el descuento inicial. Para saber cuánto debe pagar por un libro cuyo precio original es de $ 50, Juan efectúa el siguiente procedimiento: Paso 1: Multiplica el precio original del libro por 9. Paso 2: Divide el resultado del paso 1 entre 10. Paso 3: Multiplica el resultado del paso 2 por 10. Paso 4: Divide el resultado del paso 3 entre 100. ¿En cuál paso del procedimiento hay un error?",
+      "options": [
+        { "key": "A", "text": "En el paso 1, porque el precio de venta es el 90 % del precio original, por tanto, debe multiplicarse por 90 y no por 9." },
+        { "key": "B", "text": "En el paso 3, porque el precio final es el 90 % del precio de venta, por tanto, debe multiplicarse por 90 y no por 10." },
+        { "key": "C", "text": "En el paso 2, porque para calcular el precio al aplicar un porcentaje de descuento es necesario dividir entre 100 y no entre 10." },
+        { "key": "D", "text": "En el paso 4, porque solo es necesario dividir una vez para calcular el precio final; es suficiente con la división del paso 2." }
+      ],
+      "answer": "B",
+      "tip": "El paso 1 y 2 juntos (×9, ÷10) sí aplican correctamente el primer 10 % de descuento (equivale a ×0,9). El segundo descuento del 10 % debe aplicarse de la misma forma sobre el nuevo precio: ¿el paso 3 multiplica por el número correcto para representar ese segundo 90 %?",
+      "explanation": "Los pasos 1 y 2 (×9, ÷10) representan correctamente el primer descuento del 10 % (precio × 0,9). El segundo descuento del 10 % debería aplicarse de forma equivalente sobre ese nuevo precio (multiplicando por 90 y dividiendo entre 100, de forma análoga a como se hizo antes por 9 y entre 10), pero el paso 3 multiplica por 10 en lugar de por 90, lo cual no representa un descuento del 10 % adicional. Ahí está el error."
+    },
+    {
+      "id": "mat01-q15",
+      "stem": "En una bolsa hay 3 bolas rojas, 3 negras y 12 blancas. Una persona afirma que al sacar una bola al azar, los tres colores tienen la misma probabilidad de salir. ¿Es verdadera esta afirmación?",
+      "options": [
+        { "key": "A", "text": "Sí, pues el número de bolas de cada color no importa." },
+        { "key": "B", "text": "No, pues no se sabe el número total de bolas en la bolsa." },
+        { "key": "C", "text": "No, pues hay más bolas de un color que de los otros dos." },
+        { "key": "D", "text": "Sí, pues las bolas están repartidas de igual manera." }
+      ],
+      "answer": "C",
+      "tip": "Compara las cantidades: 3 rojas, 3 negras, 12 blancas. ¿Son iguales las tres cantidades?",
+      "explanation": "La probabilidad de sacar una bola de cierto color depende directamente de cuántas bolas de ese color hay. Como hay 12 blancas frente a solo 3 rojas y 3 negras, el blanco tiene mucha mayor probabilidad de salir: los tres colores NO tienen la misma probabilidad."
+    },
+    {
+      "id": "mat01-q16",
+      "stem": "Sobre una circunferencia de centro O se localizan dos puntos P y P' diferentes. De las siguientes, ¿cuál figura NO puede resultar al unir entre sí los tres puntos P, P' y O?",
+      "options": [
+        { "key": "A", "text": "Un triángulo isósceles." },
+        { "key": "B", "text": "Un radio de la circunferencia." },
+        { "key": "C", "text": "Un triángulo equilátero." },
+        { "key": "D", "text": "Un diámetro de la circunferencia." }
+      ],
+      "answer": "B",
+      "tip": "Recuerda que un radio es un solo segmento (de un extremo a otro: del centro a UN punto del borde). Al unir los TRES puntos distintos P, P' y O entre sí, ¿puedes obtener como resultado un único segmento tan corto como un radio?",
+      "explanation": "OP y OP' siempre miden lo mismo (el radio), así que unir los tres puntos siempre da un triángulo isósceles (A, posible), que puede ser equilátero si además PP' mide igual al radio (C, posible), o si P y P' son antípodas (extremos opuestos), la unión forma un diámetro, una línea recta que pasa por el centro (D, posible). Pero \"un radio\" es un único segmento de extremo a extremo (centro a un punto), y para obtenerlo como resultado de unir tres puntos distintos, dos de ellos tendrían que coincidir, lo cual contradice que P y P' son diferentes. Por eso B es lo único que no puede resultar."
+    },
+    {
+      "id": "mat01-q17",
+      "stem": "Un sistema de información requiere que los usuarios ingresen una contraseña de solo tres caracteres de entre las 26 letras posibles, en minúscula o mayúscula, y los 10 dígitos del 0 al 9. Un ingeniero propone las siguientes posibles restricciones para la contraseña: Restricción R1: utilizar tres dígitos cualesquiera. Restricción R2: utilizar tres dígitos distintos. Restricción R3: utilizar una letra mayúscula, luego una minúscula y al final un dígito. Restricción R4: utilizar una letra cualquiera, mayúscula o minúscula, y luego dos dígitos. Si se calcula el número de posibles contraseñas de acuerdo con cada una de las restricciones, ¿cuál es el orden de las restricciones, de menor a mayor, según el número de posibles contraseñas?",
+      "options": [
+        { "key": "A", "text": "R1, R2, R4 y R3." },
+        { "key": "B", "text": "R1, R2, R3 y R4." },
+        { "key": "C", "text": "R2, R1, R4 y R3." },
+        { "key": "D", "text": "R2, R3, R1 y R4." }
+      ],
+      "answer": "C",
+      "tip": "Calcula cada una usando el principio multiplicativo: R1 = 10×10×10; R2 = 10×9×8 (sin repetir); R3 = 26×26×10 (mayúscula, minúscula y dígito, con 26 letras posibles en cada caso porque mayúsculas y minúsculas cuentan por separado); R4 = 52×10×10 (52 letras posibles: 26 mayúsculas + 26 minúsculas).",
+      "explanation": "R1 = 10×10×10 = 1.000. R2 = 10×9×8 = 720. R3 = 26×26×10 = 6.760. R4 = 52×10×10 = 5.200. Ordenando de menor a mayor: R2 (720) < R1 (1.000) < R4 (5.200) < R3 (6.760)."
+    },
+    {
+      "id": "mat01-q18",
+      "stem": "Se puede encontrar números racionales mayores que un número entero k, de manera que sean cada vez más cercanos a él, calculando k + 1/j (con j entero positivo). Cuanto más grande sea j, más cercano a k será el racional construido. ¿Cuántos números racionales se pueden construir cercanos a k y menores que k + 1/11?",
+      "options": [
+        { "key": "A", "text": "10, que es la cantidad de racionales menores que 11." },
+        { "key": "B", "text": "Una cantidad infinita, pues existen infinitos números enteros mayores que 11." },
+        { "key": "C", "text": "11, que es el número que equivale en este caso a j." },
+        { "key": "D", "text": "Uno, pues el racional más cercano a k se halla con j = 10, es decir, con k + 0,1." }
+      ],
+      "answer": "B",
+      "tip": "Para que k + 1/j sea MENOR que k + 1/11, se necesita que 1/j < 1/11, es decir, que j sea MAYOR que 11. ¿Cuántos números enteros hay mayores que 11?",
+      "explanation": "k + 1/j < k + 1/11 se cumple cuando 1/j < 1/11, es decir, cuando j > 11 (j = 12, 13, 14, ...). Como hay infinitos números enteros mayores que 11, se pueden construir infinitos racionales de esa forma, cada vez más cercanos a k."
+    },
+    {
+      "id": "mat01-q19",
+      "stem": "Un terreno con forma triangular se debe encerrar, cumpliendo con los siguientes requerimientos: Requerimiento 1: Uno de sus ángulos interiores debe ser de 90°. Requerimiento 2: Dos lados deben medir 7 metros y el otro debe medir 18 metros. Requerimiento 3: Uno de sus ángulos interiores debe ser menor que 45°. Requerimiento 4: La suma de sus ángulos interiores debe ser de 180°. ¿Cuál de los requerimientos es imposible de cumplir?",
+      "options": [
+        { "key": "A", "text": "Requerimiento 1." },
+        { "key": "B", "text": "Requerimiento 2." },
+        { "key": "C", "text": "Requerimiento 3." },
+        { "key": "D", "text": "Requerimiento 4." }
+      ],
+      "answer": "B",
+      "tip": "Recuerda la desigualdad triangular: la suma de dos lados cualesquiera de un triángulo siempre debe ser MAYOR que el tercer lado. Suma los dos lados de 7 metros y compáralo con el lado de 18 metros.",
+      "explanation": "Por la desigualdad triangular, la suma de dos lados debe superar al tercero: 7 + 7 = 14, que es menor que 18. Como 14 no es mayor que 18, esos tres lados no pueden formar un triángulo cerrado, sin importar los ángulos. Por eso el Requerimiento 2 es geométricamente imposible."
+    },
+    {
+      "id": "mat01-q20",
+      "stem": "En un parque hay una rueda giratoria de 3 m de radio. La rueda está diseñada para 10 personas, cada una en un sector circular de igual área. Para determinar el área que le corresponde a cada persona, se divide 2π entre 10, lo que determina el ángulo θ de cada sector, y se usa la fórmula del área de un sector circular S: S = r²·(θ/2), donde r es el radio de la circunferencia. Utilizando una aproximación de π = 3, ¿cuál es el área aproximada que le corresponde a cada persona?",
+      "options": [
+        { "key": "A", "text": "3,6 m²" },
+        { "key": "B", "text": "2,7 m²" },
+        { "key": "C", "text": "9,0 m²" },
+        { "key": "D", "text": "1,8 m²" }
+      ],
+      "answer": "B",
+      "tip": "Primero halla θ = 2π/10 usando π≈3 (así 2π≈6). Luego sustituye r=3 y ese θ en la fórmula S = r²·(θ/2).",
+      "explanation": "Con π≈3: θ = 2π/10 = 6/10 = 0,6. Luego S = r²·(θ/2) = 3²×(0,6/2) = 9×0,3 = 2,7 m²."
+    },
+    {
+      "id": "mat01-q21",
+      "stem": "Un colegio necesita enviar 5 estudiantes como representantes a un foro sobre la contaminación del medio ambiente. Se decidió que 2 estudiantes sean de grado décimo y 3 de grado undécimo. En décimo hay 5 estudiantes preparados para el foro y en undécimo hay 4. ¿Cuántos grupos diferentes pueden formarse para enviar al foro?",
+      "options": [
+        { "key": "A", "text": "9" },
+        { "key": "B", "text": "14" },
+        { "key": "C", "text": "20" },
+        { "key": "D", "text": "40" }
+      ],
+      "answer": "D",
+      "tip": "Este es un problema de combinaciones (el orden no importa): calcula de cuántas formas se pueden elegir 2 de los 5 estudiantes de décimo, y por separado, de cuántas formas se pueden elegir 3 de los 4 de undécimo. Luego multiplica ambos resultados (por cada elección de décimo, hay todas las opciones de undécimo).",
+      "explanation": "Elegir 2 de 5 estudiantes de décimo: C(5,2) = 10 formas. Elegir 3 de 4 estudiantes de undécimo: C(4,3) = 4 formas. Como cada grupo de décimo se puede combinar con cualquier grupo de undécimo, se multiplican: 10 × 4 = 40 grupos diferentes."
+    },
+    {
+      "id": "mat01-q22",
+      "stem": "En una feria, un niño recibe como premio una consola de videojuegos si gana en cada uno de los siguientes juegos: Juego 1: Gana si al lanzar un dado obtiene un número par (la probabilidad de ganar es de 1/2). Juego 2: Gana si logra sacar la única pelota amarilla que hay en una bolsa que contiene 6 pelotas en total (la probabilidad de ganar es de 1/6). Para hallar la probabilidad de ganar la consola de videojuegos se proponen los siguientes procedimientos: Procedimiento 1: Sumar las probabilidades de ganar en los dos juegos. Procedimiento 2: Multiplicar las probabilidades de ganar en los dos juegos. Procedimiento 3: Restarle a 1 la probabilidad de perder en al menos uno de los dos juegos. Procedimiento 4: Restarle a 1 la probabilidad de perder exactamente en un juego. ¿Cuáles de los anteriores procedimientos permiten hallar la probabilidad de ganar la consola de videojuegos?",
+      "options": [
+        { "key": "A", "text": "1 y 3." },
+        { "key": "B", "text": "1 y 4." },
+        { "key": "C", "text": "2 y 3." },
+        { "key": "D", "text": "2 y 4." }
+      ],
+      "answer": "C",
+      "tip": "Ganar la consola requiere ganar AMBOS juegos (evento \"Y\", no \"O\"). Para eventos independientes, \"ganar ambos\" se calcula multiplicando las probabilidades, y también es lo mismo que 1 menos la probabilidad de \"perder al menos uno\" (que es el complemento de \"ganar ambos\").",
+      "explanation": "Ganar la consola exige ganar los dos juegos a la vez (un \"Y\" lógico), lo cual se calcula multiplicando las probabilidades de eventos independientes (Procedimiento 2: 1/2 × 1/6 = 1/12). De forma equivalente, \"ganar ambos\" es el complemento de \"perder al menos uno de los dos\", por lo que restar a 1 esa probabilidad (Procedimiento 3) da el mismo resultado. Sumar probabilidades (Procedimiento 1) no aplica a eventos que deben ocurrir simultáneamente."
+    },
+    {
+      "id": "mat01-q23",
+      "stem": "La expresión 10³ = I/I₀ relaciona la sonoridad de un sonido de 30 decibeles con su intensidad (I) y la menor intensidad (I₀) que percibe el oído humano. ¿Cuántas veces es el valor de I respecto a I₀?",
+      "options": [
+        { "key": "A", "text": "Una milésima." },
+        { "key": "B", "text": "Un tercio." },
+        { "key": "C", "text": "Tres veces." },
+        { "key": "D", "text": "Mil veces." }
+      ],
+      "answer": "D",
+      "tip": "Calcula el valor numérico de 10³ y relaciónalo directamente con \"cuántas veces\" I es respecto a I₀ (I/I₀ = 10³).",
+      "explanation": "10³ = 1.000. Como I/I₀ = 1.000, eso significa que I es 1.000 veces (mil veces) mayor que I₀."
+    },
+    {
+      "id": "mat01-q24",
+      "stem": "Entre los 16 estudiantes de un salón de clases se va a rifar una boleta para ingresar a un parque de diversiones. Cada estudiante debe escoger un número del 3 al 18. El sorteo se efectúa así: se depositan 6 balotas en una urna, numeradas del 1 al 6; se extrae una, se mira el número y se vuelve a depositar en la urna. El experimento se repite dos veces más. La suma de los tres puntajes obtenidos determina el número ganador de la rifa. Si en la primera extracción del sorteo se obtuvo 2, ¿por qué es más probable que el estudiante que escogió el número 10 gane la rifa a que la gane el estudiante con el número 7?",
+      "options": [
+        { "key": "A", "text": "Porque al ser mayor el número escogido, es mayor la probabilidad de ganar." },
+        { "key": "B", "text": "Porque el primer estudiante tiene una posibilidad más de ganar que el segundo." },
+        { "key": "C", "text": "Porque es más probable seguir obteniendo números pares." },
+        { "key": "D", "text": "Porque es mayor la diferencia entre 10 y 18 que entre 2 y 7." }
+      ],
+      "answer": "B",
+      "tip": "Ya salió un 2, así que faltan dos extracciones más (cada una de 1 a 6). Para ganar con el número 10, esas dos extracciones deben sumar 8; para ganar con el 7, deben sumar 5. Cuenta de cuántas formas distintas (con dos dados de 1 a 6) se puede obtener cada suma.",
+      "explanation": "Faltan dos extracciones (1 a 6 cada una). Para sumar 8 (número 10): (2,6),(3,5),(4,4),(5,3),(6,2) → 5 combinaciones posibles. Para sumar 5 (número 7): (1,4),(2,3),(3,2),(4,1) → 4 combinaciones posibles. El número 10 tiene una combinación más a su favor (5 contra 4), por lo que es más probable."
+    }
+  ]
+}
