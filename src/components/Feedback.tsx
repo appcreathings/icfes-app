@@ -1,4 +1,5 @@
 import type { OptionKey } from "../data/types";
+import { MarkdownText } from "./MarkdownText";
 
 interface FeedbackProps {
   kind: "tip" | "explanation";
@@ -25,11 +26,12 @@ export function Feedback({ kind, text, optionRationale, correctKey }: FeedbackPr
       >
         {isTip ? "💡 Tip para volver a intentar" : "✅ ¿Por qué es correcta?"}
       </p>
-      <p className="text-sm leading-relaxed text-slate-800 dark:text-slate-200 sm:text-base">{text}</p>
+      <MarkdownText text={text} className="text-sm leading-relaxed text-slate-800 dark:text-slate-200 sm:text-base" />
       {!isTip && optionRationale && (
-        <p className="mt-2 text-sm leading-relaxed text-slate-600 dark:text-slate-400">
-          {optionRationale}
-        </p>
+        <MarkdownText
+          text={optionRationale}
+          className="mt-2 text-sm leading-relaxed text-slate-600 dark:text-slate-400"
+        />
       )}
       {!isTip && correctKey && (
         <p className="mt-2 text-xs font-semibold text-emerald-700 dark:text-emerald-400">

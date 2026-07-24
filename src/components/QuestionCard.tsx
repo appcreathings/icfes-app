@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import type { OptionKey, Question } from "../data/types";
 import { OptionButton, type OptionStatus } from "./OptionButton";
 import { Feedback } from "./Feedback";
+import { MarkdownText } from "./MarkdownText";
 
 interface QuestionCardProps {
   question: Question;
@@ -78,11 +79,7 @@ export function QuestionCard({
 
       {showContext && question.context && (
         <div className="mb-4 rounded-xl border border-slate-200 bg-white p-4 text-sm leading-relaxed text-slate-700 dark:border-slate-800 dark:bg-slate-900 dark:text-slate-300">
-          {question.context.split("\n\n").map((para, i) => (
-            <p key={i} className={i > 0 ? "mt-3" : ""}>
-              {para}
-            </p>
-          ))}
+          <MarkdownText text={question.context} />
         </div>
       )}
 
@@ -96,9 +93,10 @@ export function QuestionCard({
         </div>
       )}
 
-      <h2 className="mb-4 text-base font-semibold leading-relaxed text-slate-900 dark:text-slate-100 sm:text-lg">
-        {question.stem}
-      </h2>
+      <MarkdownText
+        text={question.stem}
+        className="mb-4 text-base font-semibold leading-loose text-slate-900 dark:text-slate-100 sm:text-lg sm:leading-loose"
+      />
 
       <div className="flex flex-col gap-3">
         {question.options.map((opt) => (

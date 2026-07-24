@@ -1,0 +1,80 @@
+{
+  "id": "lectura-critica-03",
+  "area": "lectura-critica",
+  "title": "Lectura Crítica · Test 3",
+  "source": "Ejemplos de preguntas explicadas Lectura Crítica (Icfes) + Cuadernillo de preguntas Lectura Crítica, Saber 11.º, Icfes (febrero 2026)",
+  "questions": [
+    {
+      "id": "lc03-q1",
+      "contextId": "vallenato",
+      "context": "Uno de los escenarios donde empezó a codearse el vallenato con la música que escuchaba y bailaba la burguesía —valses, mazurcas, canciones napolitanas— fue el de las colitas. Era este el nombre que recibían las \"colas\" o finales de fiesta de la clase adinerada: bodas, bautizos, cumpleaños, festejos religiosos… Durante el sarao, mientras los señores se divertían con la música europea que interpretaba una precaria orquesta provinciana, los trabajadores pasaban la fiesta en la cocina y los galpones a punta de acordeón, guacharaca y caja. Despachada la orquesta, los de atrás eran invitados a pasar adelante, y patrones y vaqueros se sentaban a tomar y cantar juntos. Se ha discutido acerca del papel que cumplieron las colitas en esta historia. Algunos dicen que estos remates de fiesta fueron el pabellón de maternidad del vallenato, pues combinaron ritmos europeos y nativos: entre ambos dieron a luz los aires vallenatos. \"Las colitas son el ancestro directo del vallenato moderno\", afirma López Michelsen.\n\nPero parece más acertado pensar que las colitas no ayudaron a formar el género, sino a divulgarlo. Para empezar, esta clase de fiestas improvisadas no se conocieron en toda la región, sino tan sólo en la zona del Valle de Upar. En El Paso no hubo colitas. En muchos lugares del río tampoco. Y, por otra parte, los historiadores indican que las colitas surgieron a comienzos del siglo XX, cuando ya el vallenato había empezado a coger ritmo con el trío del instrumental clásico. En cambio, las piquerías y retos sí constituyeron desde el principio uno de los más efectivos moldes de creación, propagación y desarrollo del vallenato. La leyenda de Francisco el Hombre habla de su desafío con el diablo, a quien únicamente logra derrotar cuando le canta el Credo al revés. Los grandes acordeoneros viajaban durante días para acudir a piquerías, concertadas de antemano o a través de recados, como lo atestigua \"La gota fría\": \"Acordate Moralitos de aquel día / que estuviste en Urumita / y no quisiste hacer parada\".\n\nTomado de: Samper, D. y Tafur M. (1997). 100 años de vallenato. Bogotá: MTM Ediciones.",
+      "stem": "El autor introduce la cita de López Michelsen con el fin de presentar la opinión de un conocedor del vallenato y",
+      "options": [
+        { "key": "A", "text": "reforzar la tesis principal del texto, según la cual las colitas fueron divulgadoras del género." },
+        { "key": "B", "text": "señalar una posición discutible sobre el papel que desempeñaron las colitas en el origen del género." },
+        { "key": "C", "text": "legitimar la tesis principal del texto, según la cual las colitas originaron el vallenato moderno." },
+        { "key": "D", "text": "convencer al lector de que las colitas fueron las únicas divulgadoras del vallenato moderno." }
+      ],
+      "answer": "B",
+      "competency": "Reflexiona a partir de un texto y evalúa su contenido.",
+      "tip": "Fíjate en lo que dice el texto justo después de citar a López Michelsen: \"Pero parece más acertado pensar que las colitas no ayudaron a formar el género, sino a divulgarlo\". Ese \"pero\" señala que el autor no comparte del todo la opinión citada.",
+      "explanation": "Al relacionar la cita de López Michelsen con el resto del texto, se encuentra que esta es una posición discutible: inmediatamente después el autor la matiza y contrapone su propia tesis (\"las colitas no ayudaron a formar el género, sino a divulgarlo\"). Por eso la cita se introduce para señalar una posición discutible sobre el origen del género, no para reforzarla, legitimarla ni presentarla como la única voz autorizada.",
+      "optionRationales": {
+        "A": "No es válida, dado que la idea de que las colitas fueron divulgadoras del género no coincide con la opinión de López Michelsen, quien sugiere que las colitas dieron origen al vallenato.",
+        "C": "No es válida pues, como se explica después de la cita, la tesis principal del texto no sostiene que las colitas originaron el vallenato moderno, sino que ayudaron a divulgarlo.",
+        "D": "No es válida, porque si bien el texto menciona que las colitas fueron divulgadoras del género, no afirma que fueron las únicas."
+      }
+    },
+    {
+      "id": "lc03-q2",
+      "contextId": "historieta-limonada",
+      "image": "lc03-calvin-hobbes.png",
+      "imageAlt": "Tira cómica de Calvin y Hobbes en la que Calvin vende limonada a un precio muy alto y justifica el precio ante un cliente con una serie de argumentos económicos inventados.",
+      "context": "RESPONDE LA PREGUNTA DE ACUERDO CON LA SIGUIENTE HISTORIETA",
+      "stem": "En la historieta, el niño intenta justificar el alto precio de la limonada recurriendo a:",
+      "options": [
+        { "key": "A", "text": "Argumentos absurdos pero consistentes." },
+        { "key": "B", "text": "Un modelo económico fiel a la realidad." },
+        { "key": "C", "text": "Una ley de mercado que no existe." },
+        { "key": "D", "text": "Su propia versión de la economía." }
+      ],
+      "answer": "D",
+      "tip": "Calvin va encadenando explicaciones que suenan a términos económicos reales (oferta, demanda, escasez, valor) pero que él mismo va inventando y ajustando a su antojo sobre la marcha, sin que formen un sistema coherente ni correspondan a cómo funciona realmente la economía.",
+      "explanation": "A lo largo de la tira, Calvin improvisa una explicación tras otra, mezclando nociones económicas reales con justificaciones que él inventa sobre la marcha para defender el precio de su limonada. No es un modelo fiel a la realidad (B) ni una ley de mercado real (C), y tampoco son argumentos \"consistentes\" (A), pues van cambiando de una viñeta a otra: es, en el fondo, una versión propia e improvisada de la economía."
+    },
+    {
+      "id": "lc03-q3",
+      "contextId": "caricatura-angel",
+      "image": "lc03-caricatura-angel.png",
+      "imageAlt": "Caricatura de Quino en la que un grupo de personas rodea y ataca a un ángel caído, mientras uno de ellos explica por radio o televisión que sospecharon de él porque nunca lo habían visto en televisión.",
+      "context": "RESPONDE LA PREGUNTA DE ACUERDO CON LA SIGUIENTE CARICATURA",
+      "stem": "¿Cuál de los siguientes enunciados describe mejor la caricatura?",
+      "options": [
+        { "key": "A", "text": "El pueblo hace justicia por su propia mano." },
+        { "key": "B", "text": "El linchamiento de un ángel." },
+        { "key": "C", "text": "Entrevista con el asesino." },
+        { "key": "D", "text": "Un ángel bajó del cielo." }
+      ],
+      "answer": "B",
+      "tip": "La escena muestra a una multitud atacando violentamente a una figura angelical, mientras uno de ellos justifica ante los medios por qué sospecharon de él. Busca la opción que nombre directamente ese acto de violencia colectiva contra la víctima (el ángel), no solo el hecho de que descendió del cielo o que alguien da declaraciones.",
+      "explanation": "La caricatura muestra a un grupo de personas agrediendo en masa a un ángel, mientras uno de ellos da explicaciones a los medios sobre por qué desconfiaron de él (por no haberlo visto nunca en televisión). Ese acto de violencia colectiva e injustificada contra la víctima es precisamente un linchamiento; las demás opciones describen solo detalles parciales de la escena (que el ángel bajó del cielo, o que alguien da declaraciones) sin capturar el sentido central de la crítica: la violencia irracional de la multitud."
+    },
+    {
+      "id": "lc03-q4",
+      "contextId": "caricatura-espiral",
+      "image": "lc03-caricatura-nino-espiral.png",
+      "imageAlt": "Caricatura de Quino en la que un hombre regaña con severidad a un niño sentado en el suelo frente a un dibujo en espiral, mientras una mujer observa la escena desde atrás.",
+      "context": "RESPONDE LA PREGUNTA DE ACUERDO CON LA SIGUIENTE CARICATURA\n\nTomado de: Quino (1972). Caricatura. A mí no me grite. Buenos Aires: Lumen.",
+      "stem": "¿En cuál de los siguientes contextos se inscribe mejor la caricatura?",
+      "options": [
+        { "key": "A", "text": "Anuncio publicitario." },
+        { "key": "B", "text": "Reportaje gráfico." },
+        { "key": "C", "text": "Humor gráfico." },
+        { "key": "D", "text": "Sátira política." }
+      ],
+      "answer": "C",
+      "tip": "La escena (un padre regañando desproporcionadamente a un niño por un simple garabato) no vende ningún producto, no documenta un hecho noticioso real ni critica a figuras de poder político. Es una viñeta de un libro de caricaturas de Quino que retrata, con humor, una situación cotidiana familiar.",
+      "explanation": "La caricatura, tomada de un libro de caricaturas de Quino, retrata con ironía una escena doméstica cotidiana (la reacción exagerada de un adulto ante el dibujo de un niño), sin vender un producto (A), sin documentar un hecho noticioso (B) ni criticar directamente al poder político (D). Por su formato, autor y tono, se inscribe mejor en el género del humor gráfico."
+    }
+  ]
+}

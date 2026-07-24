@@ -136,6 +136,37 @@
       "answer": "A",
       "tip": "Calcula cada volumen por separado usando las fórmulas: cilindro V=πr²h; caja (prisma rectangular) V=L²h; esfera V=(4/3)πr³. Sustituye r=L=3/2 y h=2 en cada una, y compara los tres resultados.",
       "explanation": "Cilindro: V=πr²h=π×(3/2)²×2=π×(9/4)×2=4,5π≈14,14. Caja: V=L²h=(3/2)²×2=(9/4)×2=4,5 (sin factor π, mucho menor). Esfera: V=(4/3)πr³=(4/3)×π×(3/2)³=(4/3)×π×(27/8)=4,5π≈14,14. El cilindro (4,5π) es mucho mayor que la caja (4,5), y la esfera (4,5π) resulta exactamente IGUAL al volumen del cilindro."
+    },
+    {
+      "id": "mat03-q10",
+      "image": "mat03-barco-faros.png",
+      "imageAlt": "Triángulo formado por un faro superior y dos faros en la base, separados por una distancia de 2, con un barco sobre la línea base a una distancia x del faro superior. Los ángulos en el faro superior son de 45° y 45°, el ángulo en el faro izquierdo es de 30°, y en el vértice del barco los ángulos son de 75° y 60° hacia el faro derecho, con la distancia entre el faro superior y el faro derecho igual a 1.",
+      "context": "Un barco navega entre dos faros, ubicados en la parte inferior de la figura. El ángulo formado en el faro superior se divide en dos partes de 45° cada una por el segmento x (la distancia entre el faro superior y el barco). La distancia entre los dos faros de la base es 2, y la distancia entre el faro superior y el faro derecho es 1. En el vértice del barco, el ángulo hacia el faro izquierdo es de 105° (suplementario a 75°) y hacia el faro derecho es de 75°; el ángulo en el faro derecho es de 60°.",
+      "stem": "En el instante en que el ángulo formado entre el barco, el faro superior y cualquiera de los otros faros es de 45°, ¿cuál es la distancia x entre el faro superior y el barco?",
+      "options": [
+        { "key": "A", "text": "x = 2·sen(30°) / sen(45°)" },
+        { "key": "B", "text": "x = 2·sen(60°) / sen(45°)" },
+        { "key": "C", "text": "x = sen(60°) / sen(75°)" },
+        { "key": "D", "text": "x = sen(30°) / sen(60°)" }
+      ],
+      "answer": "C",
+      "competency": "Usa la ley de senos para relacionar lados y ángulos de un triángulo oblicuo.",
+      "tip": "No necesitas el triángulo completo: fíjate en el triángulo pequeño formado por el faro superior, el barco y el faro derecho. En ese triángulo conoces un lado (el faro superior al faro derecho, que mide 1) y sus tres ángulos (45°, 75° y 60°). Aplica la ley de senos en ese triángulo para hallar x, el lado opuesto al ángulo de 60°.",
+      "explanation": "En el triángulo formado por el faro superior (F), el barco (B) y el faro derecho (R): el ángulo en F es 45°, el ángulo en B es 75° y el ángulo en R es 60° (los tres suman 180°). El lado FR mide 1 y es opuesto al ángulo en B (75°); el lado x=FB es opuesto al ángulo en R (60°). Por la ley de senos: x / sen(60°) = 1 / sen(75°), de donde x = sen(60°) / sen(75°). Las opciones A y B corresponden al error común de aplicar la ley de senos en el triángulo grande usando la distancia 2 y el ángulo de 45° en el denominador, en lugar del triángulo pequeño correcto."
+    },
+    {
+      "id": "mat03-q11",
+      "stem": "Carolina administra una pizzería y registró en una tabla la información correspondiente a los pedidos realizados por los 110 clientes que entraron a la pizzería el domingo (cada cliente hizo al menos un pedido, de pizza y/o de una bebida):\n\n| | |\n|---|---|\n| Clientes que eligieron bebida caliente | 20 |\n| Clientes que eligieron bebida fría | 40 |\n| Clientes que eligieron pizza | 100 |\n| Clientes que eligieron bebida caliente y bebida fría | 0 |\n\nCon la información de la tabla, ¿cuáles de los siguientes datos se pueden calcular?",
+      "options": [
+        { "key": "A", "text": "El total de clientes que eligieron pizza y también bebida caliente." },
+        { "key": "B", "text": "El total de clientes que eligieron pizza o bebida caliente." },
+        { "key": "C", "text": "El total de clientes que solo eligieron pizza." },
+        { "key": "D", "text": "El total de clientes que solo eligieron bebida fría." }
+      ],
+      "answer": "C",
+      "competency": "Interpreta y calcula datos a partir de la información de una tabla, usando razonamiento de conjuntos.",
+      "tip": "Como cada uno de los 110 clientes pidió al menos algo, y nadie pidió las dos bebidas a la vez, puedes plantear: 110 = (pizza) + (bebida caliente) + (bebida fría) − (pizza y caliente) − (pizza y fría). Esto te da el valor de la SUMA de esas dos intersecciones, pero no de cada una por separado, así que solo podrás calcular con exactitud lo que dependa de esa suma conjunta, no de una intersección individual.",
+      "explanation": "Como los 110 clientes hicieron al menos un pedido y nadie pidió ambas bebidas, se cumple: 110 = 100 (pizza) + 20 (caliente) + 40 (fría) − (pizza∩caliente) − (pizza∩fría), de donde (pizza∩caliente) + (pizza∩fría) = 50. El total que SOLO pidió pizza es 100 − [(pizza∩caliente) + (pizza∩fría)] = 100 − 50 = 50, un valor que sí se puede calcular con exactitud. En cambio, A, B y D requerirían conocer cada intersección (pizza∩caliente o pizza∩fría) por separado, y la tabla solo permite calcular su suma conjunta, no cada una individualmente."
     }
   ]
 }

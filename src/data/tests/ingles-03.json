@@ -1,0 +1,122 @@
+{
+  "id": "ingles-03",
+  "area": "ingles",
+  "title": "Inglés · Test 3 (Vocabulario)",
+  "source": "Cuadernillo de preguntas Inglés, Saber 11.º, Icfes (octubre 2024) — Parte 1, adaptado a opción múltiple",
+  "questions": [
+    {
+      "id": "ing03-q1",
+      "contextId": "vocab-clothes",
+      "context": "RESPONDE LAS PREGUNTAS 1 A 5 DE ACUERDO CON EL SIGUIENTE TEMA: Clothes and accessories",
+      "stem": "A person can carry things in one of these.",
+      "options": [
+        { "key": "A", "text": "hat" },
+        { "key": "B", "text": "handbags" },
+        { "key": "C", "text": "scarf" },
+        { "key": "D", "text": "socks" }
+      ],
+      "answer": "B",
+      "tip": "Piensa en cuál de estas prendas u objetos se usa específicamente para llevar o transportar cosas.",
+      "explanation": "\"Handbags\" (bolsos) son el objeto que se usa para cargar cosas; un sombrero, una bufanda o unas medias no cumplen esa función."
+    },
+    {
+      "id": "ing03-q2",
+      "contextId": "vocab-clothes",
+      "stem": "You wear this when you go to bed.",
+      "options": [
+        { "key": "A", "text": "pajamas" },
+        { "key": "B", "text": "hat" },
+        { "key": "C", "text": "scarf" },
+        { "key": "D", "text": "skirt" }
+      ],
+      "answer": "A",
+      "tip": "Busca la prenda que la gente usa específicamente para dormir.",
+      "explanation": "\"Pajamas\" (pijama) es la prenda que se usa para ir a la cama; las demás opciones son prendas de uso diurno o accesorios."
+    },
+    {
+      "id": "ing03-q3",
+      "contextId": "vocab-clothes",
+      "stem": "You cover your neck with this.",
+      "options": [
+        { "key": "A", "text": "socks" },
+        { "key": "B", "text": "hat" },
+        { "key": "C", "text": "scarf" },
+        { "key": "D", "text": "skirt" }
+      ],
+      "answer": "C",
+      "tip": "Busca el accesorio que se usa alrededor del cuello, no en la cabeza ni en los pies.",
+      "explanation": "\"Scarf\" (bufanda) es el accesorio que se usa para cubrir el cuello; \"hat\" cubre la cabeza, \"socks\" los pies y \"skirt\" es una falda."
+    },
+    {
+      "id": "ing03-q4",
+      "contextId": "vocab-clothes",
+      "stem": "Some people need them to see well.",
+      "options": [
+        { "key": "A", "text": "glasses" },
+        { "key": "B", "text": "hat" },
+        { "key": "C", "text": "socks" },
+        { "key": "D", "text": "skirt" }
+      ],
+      "answer": "A",
+      "tip": "Busca el objeto que se relaciona directamente con la visión.",
+      "explanation": "\"Glasses\" (gafas) son el objeto que algunas personas necesitan para ver bien; las demás opciones no tienen relación con la vista."
+    },
+    {
+      "id": "ing03-q5",
+      "contextId": "vocab-clothes",
+      "stem": "These are for your feet.",
+      "options": [
+        { "key": "A", "text": "socks" },
+        { "key": "B", "text": "hat" },
+        { "key": "C", "text": "scarf" },
+        { "key": "D", "text": "skirt" }
+      ],
+      "answer": "A",
+      "tip": "Busca la prenda que se usa en los pies.",
+      "explanation": "\"Socks\" (medias) son la prenda que se usa en los pies; las demás se usan en otras partes del cuerpo."
+    },
+    {
+      "id": "ing03-q6",
+      "contextId": "vocab-transportation",
+      "context": "RESPONDE LAS PREGUNTAS 6 A 8 DE ACUERDO CON EL SIGUIENTE TEMA: Transportation",
+      "stem": "You often learn to ride it when you are a child.",
+      "options": [
+        { "key": "A", "text": "bike" },
+        { "key": "B", "text": "bus" },
+        { "key": "C", "text": "plane" },
+        { "key": "D", "text": "train" }
+      ],
+      "answer": "A",
+      "tip": "Piensa en cuál de estos medios de transporte se \"monta\" (ride) y es típico aprender a usar en la niñez.",
+      "explanation": "\"Bike\" (bicicleta) es el medio de transporte que normalmente se aprende a montar en la infancia; los demás son vehículos motorizados de transporte público que no se \"aprenden a montar\" de esa forma."
+    },
+    {
+      "id": "ing03-q7",
+      "contextId": "vocab-transportation",
+      "stem": "People pay to take this public transport by road.",
+      "options": [
+        { "key": "A", "text": "plane" },
+        { "key": "B", "text": "bus" },
+        { "key": "C", "text": "train" },
+        { "key": "D", "text": "motorbike" }
+      ],
+      "answer": "B",
+      "tip": "Fíjate en la pista \"by road\" (por carretera): descarta los medios que no viajan por carretera, y entre los que sí, busca el que es transporte público de pago.",
+      "explanation": "\"Bus\" (autobús) es transporte público de pago que se desplaza por carretera. \"Plane\" no viaja por carretera, \"train\" viaja por vía férrea (no por carretera) y \"motorbike\" no es transporte público."
+    },
+    {
+      "id": "ing03-q8",
+      "contextId": "vocab-transportation",
+      "stem": "Many people fly on it to go to a place.",
+      "options": [
+        { "key": "A", "text": "plane" },
+        { "key": "B", "text": "boat" },
+        { "key": "C", "text": "train" },
+        { "key": "D", "text": "bus" }
+      ],
+      "answer": "A",
+      "tip": "Busca el único medio de transporte que se mueve por el aire.",
+      "explanation": "\"Plane\" (avión) es el medio de transporte en el que la gente vuela para llegar a un lugar; los demás se desplazan por agua o tierra."
+    }
+  ]
+}

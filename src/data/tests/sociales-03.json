@@ -1,0 +1,113 @@
+{
+  "id": "sociales-03",
+  "area": "sociales",
+  "title": "Sociales y Ciudadanas · Test 3",
+  "source": "Cuadernillo de práctica, Prueba Sociales y Ciudadanas, Icfes (2021)",
+  "questions": [
+    {
+      "id": "soc03-q1",
+      "context": "Los habitantes de un barrio de clase media se oponen a que, en este, se construyan viviendas de interés social. Afirman que las personas de escasos recursos económicos que se beneficiarían con estas viviendas representarían un peligro para la seguridad de los habitantes actuales del barrio. Señalan que las zonas más pobres de la ciudad son también las más inseguras, y argumentan que esto prueba que una persona de escasos recursos tiene una probabilidad más alta de ser un delincuente que una persona acomodada.",
+      "stem": "De los siguientes enunciados, ¿cuál contiene un argumento válido en contra de las afirmaciones de los habitantes del barrio de clase media?",
+      "options": [
+        { "key": "A", "text": "Quienes ejercen la delincuencia en una zona pobre de la ciudad pueden no ser habitantes de esa zona." },
+        { "key": "B", "text": "Entre los delincuentes nunca hay personas de escasos recursos, pues todos son adinerados precisamente gracias a sus actividades delictivas." },
+        { "key": "C", "text": "Los delincuentes que habitan en las zonas más pobres de la ciudad dejarían de violar la ley, si contaran con mejores condiciones de vida." },
+        { "key": "D", "text": "Hay casos en que la pobreza y la falta de oportunidades llevan a una persona, en un momento de desesperación, a cometer un delito." }
+      ],
+      "answer": "A",
+      "competency": "Reconoce y evalúa la validez de argumentos.",
+      "tip": "El argumento de los habitantes tiene un salto lógico: pasa de \"las zonas pobres tienen más delincuencia\" a \"una persona pobre es más probablemente delincuente\". Busca la opción que ataque directamente ese salto lógico (la relación entre vivir en una zona y cometer delitos en ella), no una que simplemente contradiga el dato o que apoye sin querer el argumento original.",
+      "explanation": "El argumento original asume que la tasa de delincuencia de una zona pobre puede aplicarse a cada persona pobre en particular. Señalar que los delincuentes que actúan en una zona pobre pueden no vivir siquiera allí desmonta esa inferencia: la inseguridad de una zona no equivale a que sus habitantes (o las personas de bajos recursos en general) sean los responsables. Las demás opciones son premisas falsas o exageradas (B), especulaciones no relacionadas con la validez del argumento (C), o en realidad refuerzan el prejuicio original en lugar de refutarlo (D)."
+    },
+    {
+      "id": "soc03-q2",
+      "context": "Un padre de familia no está de acuerdo con la participación de profesores homosexuales en la educación de sus hijos. Al respecto, el rector del colegio argumenta: \"Las personas con inclinaciones homosexuales, como todas las personas, merecen ser amadas. Además, en todos los países hay población homosexual, y las preferencias sexuales son el resultado de una compleja interacción de la biología con el medio ambiente. Yo creo que los homosexuales pueden enseñar, siempre y cuando controlen su comportamiento en clase y no afecten la orientación sexual de los estudiantes\".",
+      "stem": "¿Cuál de los siguientes enunciados del rector contiene un prejuicio cuestionable?",
+      "options": [
+        { "key": "A", "text": "En todos los países hay población homosexual." },
+        { "key": "B", "text": "Las personas con inclinaciones homosexuales, como todas las personas, merecen ser amadas." },
+        { "key": "C", "text": "Las preferencias sexuales son el resultado de una compleja interacción de la biología con el medio ambiente." },
+        { "key": "D", "text": "Los homosexuales pueden enseñar, siempre y cuando controlen su comportamiento en clase y no afecte la orientación sexual de los estudiantes." }
+      ],
+      "answer": "D",
+      "competency": "Identifica y evalúa supuestos y prejuicios en un argumento.",
+      "tip": "Aunque el rector suena tolerante en general, una de sus afirmaciones da por sentado, sin evidencia, que el comportamiento de un profesor homosexual en clase podría \"afectar la orientación sexual\" de sus estudiantes. Busca esa suposición no comprobada.",
+      "explanation": "La afirmación D da por sentado, sin sustento, que la orientación sexual de un estudiante puede verse \"afectada\" por el comportamiento de un profesor homosexual, un supuesto sin evidencia científica que revela un prejuicio, incluso dentro de un argumento que en apariencia defiende la tolerancia. Las demás opciones son afirmaciones fácticas o valorativas razonables (A y C describen hechos aceptados; B es un juicio de valor no discriminatorio) que no contienen ese tipo de supuesto cuestionable."
+    },
+    {
+      "id": "soc03-q3",
+      "context": "Los siguientes magnicidios tuvieron incidencia en la historia política de Colombia durante el siglo XX:\n\n1. Asesinato de Luis Carlos Galán.\n2. Asesinato de Jorge Eliécer Gaitán.\n3. Asesinato de Rafael Uribe Uribe.\n4. Asesinato de Álvaro Gómez Hurtado.",
+      "stem": "¿Cuál es el orden cronológico de estos hechos?",
+      "options": [
+        { "key": "A", "text": "2, 3, 1 y 4." },
+        { "key": "B", "text": "3, 2, 1 y 4." },
+        { "key": "C", "text": "3, 1, 2 y 4." },
+        { "key": "D", "text": "4, 3, 2 y 1." }
+      ],
+      "answer": "B",
+      "competency": "Reconoce la sucesión y simultaneidad de eventos históricos.",
+      "tip": "Ubica cada magnicidio en su década: Rafael Uribe Uribe (1914), Jorge Eliécer Gaitán (1948), Luis Carlos Galán (1989) y Álvaro Gómez Hurtado (1995). Ordénalos del más antiguo al más reciente.",
+      "explanation": "En orden cronológico: Rafael Uribe Uribe fue asesinado en 1914 (ítem 3), Jorge Eliécer Gaitán en 1948 (ítem 2), Luis Carlos Galán en 1989 (ítem 1) y Álvaro Gómez Hurtado en 1995 (ítem 4). Esa secuencia de ítems, 3-2-1-4, corresponde a la opción B."
+    },
+    {
+      "id": "soc03-q4",
+      "context": "En Colombia se debate sobre la posibilidad de legalizar el tráfico y consumo de drogas ilícitas, para contrarrestar los efectos económicos y sociales del narcotráfico. Algunos sectores sociales plantean que esta alternativa es indeseable y proponen, en cambio, fortalecer los procesos de sensibilización entre los consumidores sobre los riesgos de salud asociados al consumo de drogas. En contraste, otros sectores sociales proponen endurecer las penas para los productores y expendedores de drogas, así como para aquellos consumidores que porten más de la dosis legalmente permitida.",
+      "stem": "¿Son similares las dos posiciones frente a la legalización de las drogas?",
+      "options": [
+        { "key": "A", "text": "No, porque una está a favor de la legalización y la otra a favor del endurecimiento de las sanciones legales." },
+        { "key": "B", "text": "Sí, porque ambas consideran que la regulación legal del consumo tiene un efecto directo sobre el narcotráfico." },
+        { "key": "C", "text": "No, porque una plantea que la lucha contra el narcotráfico debe ser por la vía de la represión y la otra por la vía de la prevención del consumo." },
+        { "key": "D", "text": "Sí, porque ambas están en contra de la legalización y se enfocan en la protección de los consumidores de drogas." }
+      ],
+      "answer": "C",
+      "competency": "Compara posiciones y argumentos frente a una problemática social.",
+      "tip": "Ambas posturas se oponen a la legalización (así que A, que dice que una SÍ está a favor de legalizar, es falsa). La diferencia real está en el énfasis de cada una: una propone sensibilización/prevención del consumo, la otra propone endurecer penas/represión.",
+      "explanation": "Ninguna de las dos posiciones está a favor de legalizar las drogas (A es falsa en su premisa). Ambas coinciden en oponerse a la legalización, pero difieren en su estrategia: la primera apuesta por la prevención (sensibilizar sobre riesgos de salud), mientras que la segunda apuesta por la represión (endurecer penas). Esa diferencia de enfoque —prevención versus represión— es lo que las distingue, no una supuesta similitud (B y D, que además describen mal sus posturas)."
+    },
+    {
+      "id": "soc03-q5",
+      "context": "La asamblea de propietarios de un edificio de la ciudad estudia la posibilidad de ampliar el horario para las reuniones privadas que se realizan en el salón comunal. Los propietarios de los pisos altos están de acuerdo en que se amplíe el horario hasta la 1:00 a.m. y mencionan que es la hora ideal para finalizar las reuniones; los propietarios del primer piso (lugar donde se encuentra el salón comunal) están en desacuerdo con el horario, ya que son ellos quienes se afectan por el ruido ocasionado por este tipo de reuniones a avanzadas horas de la noche. Después de que los propietarios exponen sus intereses, se realiza una votación y se decide que se ampliará el uso del salón hasta la medianoche.",
+      "stem": "¿Esta solución se ajusta a los intereses de todos los vecinos?",
+      "options": [
+        { "key": "A", "text": "No, porque los habitantes de los pisos más altos no pueden aprovechar las fiestas que se hagan en el salón comunal." },
+        { "key": "B", "text": "Sí, porque debido a que la propuesta se aprobó todos los vecinos están llamados a tener los mismos intereses." },
+        { "key": "C", "text": "No, porque el ruido de las fiestas afecta más a los propietarios del primer piso cercanos al salón comunal." },
+        { "key": "D", "text": "Sí, porque todos los propietarios tuvieron derecho a exponer sus ideas y a votar según sus intereses." }
+      ],
+      "answer": "C",
+      "competency": "Evalúa la resolución de un conflicto de intereses entre distintos actores.",
+      "tip": "Que una decisión se haya tomado por votación democrática (D) no significa que satisfaga por igual los intereses de todos los afectados. El horario se redujo (medianoche en vez de 1:00 a.m.), pero los propietarios del primer piso seguirán siendo los más afectados por el ruido, sin importar la hora exacta de cierre.",
+      "explanation": "Que la decisión se haya votado democráticamente (D) no la hace justa para todos los intereses en juego: los propietarios del primer piso, más cercanos al salón comunal, seguirán siendo los más perjudicados por el ruido de las reuniones, incluso con el horario reducido a medianoche. Por eso la solución no se ajusta realmente a los intereses de todos, en especial los de quienes viven junto al salón."
+    },
+    {
+      "id": "soc03-q6",
+      "context": "Se ha generado un conflicto entre una empresa constructora y unas organizaciones ambientalistas en torno al desarrollo de un proyecto de apartamentos sobre un humedal. Por un lado, los ambientalistas afirman que cualquier construcción pone en riesgo todo el ecosistema del humedal. La constructora, por su parte, argumenta que el humedal no se afectará y que, por el contrario, el proyecto busca integrar el medio ambiente a sus zonas comunes.\n\nPara resolver el conflicto entre la constructora y los ambientalistas, se plantea que la constructora modifique sus planos para reducir el impacto sobre el humedal y salvar así algunos animales y árboles.",
+      "stem": "¿Cómo se ajusta esta solución a los intereses de la constructora y de los ambientalistas?",
+      "options": [
+        { "key": "A", "text": "La solución beneficia a ambas partes, pues busca reducir gradualmente el daño ambiental y garantizar el negocio de la constructora." },
+        { "key": "B", "text": "La solución beneficia solamente a una de las partes en detrimento del medio ambiente y del ecosistema de humedal." },
+        { "key": "C", "text": "La solución beneficia a los ambientalistas, pues defiende sus intereses, y perjudica el negocio de la constructora." },
+        { "key": "D", "text": "La solución no beneficia a ninguna de las partes, porque el humedal será destruido y la constructora no podrá realizar su proyecto de construcción de apartamentos." }
+      ],
+      "answer": "B",
+      "competency": "Evalúa soluciones a un conflicto entre distintos intereses sociales y ambientales.",
+      "tip": "Los ambientalistas sostienen que CUALQUIER construcción pone en riesgo TODO el ecosistema, no solo una parte. Reducir el impacto y \"salvar algunos\" animales y árboles no elimina el daño al humedal: el proyecto de construcción sigue adelante. ¿A quién beneficia realmente esa solución, si la obra continúa pese a la oposición ambientalista?",
+      "explanation": "La propuesta permite que la constructora siga adelante con su proyecto (reduciendo el impacto, pero sin detenerlo), mientras que la posición de los ambientalistas —que cualquier construcción pone en riesgo todo el ecosistema— no queda realmente satisfecha, pues el humedal sufre una intervención de todas formas. Por eso la solución beneficia principalmente a la constructora, en detrimento del medio ambiente, y no representa un verdadero punto medio entre ambas partes."
+    },
+    {
+      "id": "soc03-q7",
+      "context": "Lea la siguiente lista de problemas:\n\n1. Escasez de recursos naturales no renovables.\n2. Pertenencia a partidos políticos contrarios.\n3. Crecimiento demográfico de la población rural.\n4. Distribución desigual de la propiedad de la tierra.",
+      "stem": "¿Cuáles de esos problemas son causas del conflicto agrario en Colombia?",
+      "options": [
+        { "key": "A", "text": "1 y 3." },
+        { "key": "B", "text": "1 y 4." },
+        { "key": "C", "text": "2 y 4." },
+        { "key": "D", "text": "1 y 2." }
+      ],
+      "answer": "B",
+      "competency": "Reconoce causas estructurales de conflictos sociales en Colombia.",
+      "tip": "El conflicto agrario en Colombia tiene raíces estructurales relacionadas con el acceso y la tenencia de la tierra y los recursos, no con afiliaciones político-partidistas (ítem 2) ni únicamente con el crecimiento demográfico rural (ítem 3), que por sí solo no es una causa central reconocida del conflicto por la tierra.",
+      "explanation": "La escasez de recursos naturales no renovables (ítem 1) y, sobre todo, la distribución desigual de la propiedad de la tierra (ítem 4) son reconocidas como causas estructurales del conflicto agrario en Colombia. La pertenencia a partidos políticos distintos (ítem 2) se relaciona más con el conflicto bipartidista de mediados del siglo XX que con el problema agrario, y el crecimiento demográfico rural (ítem 3) por sí solo no constituye una causa estructural del conflicto por la tierra."
+    }
+  ]
+}

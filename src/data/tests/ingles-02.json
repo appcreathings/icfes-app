@@ -224,6 +224,20 @@
       "explanation": "El texto describe con entusiasmo las bellezas de Colombia y la experiencia en la finca cafetera, y cierra invitando al lector a sentirse \"inspirado a hacer lo mismo\" (visitar el país). El propósito general es animar a los turistas a visitar Colombia, no vender la finca (B) ni pedir que se escriban artículos (D)."
     },
     {
+      "id": "ing02-q17b",
+      "contextId": "jonathan-trip",
+      "stem": "What can a reader find out from this text?",
+      "options": [
+        { "key": "A", "text": "how to grow coffee on the farm." },
+        { "key": "B", "text": "when the best time to visit the farm is." },
+        { "key": "C", "text": "what the accommodation price includes." },
+        { "key": "D", "text": "which activities tourists prefer to do at the farm." }
+      ],
+      "answer": "C",
+      "tip": "Busca en el texto la frase que menciona el precio de $45.000 por noche: justo después, el autor detalla explícitamente qué incluye ese precio.",
+      "explanation": "El texto dice: \"The family business hosts guests at the house for just $45.000 a night. This includes three home-cooked meals a day, a swimming pool, and as much coffee as you can drink\", es decir, explica exactamente qué incluye el precio del alojamiento. El texto no explica cómo cultivar café (A), no recomienda una mejor época para visitar (B, solo menciona que hay tormentas en ciertas épocas) ni indica qué actividades prefieren los turistas (D)."
+    },
+    {
       "id": "ing02-q18",
       "contextId": "valentines-day",
       "context": "VALENTINE'S DAY\n\nDo you know what happens on February 14th every year? Many people exchange gifts, chocolates, cards, and flowers. This is done to celebrate Valentine's Day. It's always a lot of fun to get a card or some chocolates, but why do we do this? There is a lot of mystery about this day.\n\nOne of the stories says that the original Valentine was a priest. It is said that the king, Claudius II, had forbidden marriage because he thought that only unmarried men made the best soldiers. However, Valentine continued to hold weddings for a lot of young couples in secret. When the King found out, he ordered soldiers to kill Valentine!\n\nValentine's Day is now the second biggest holiday for cards and gifts. Women buy almost 90% of the cards, but gentlemen still buy the most chocolates and flowers to give as a Valentine's Day present.",
